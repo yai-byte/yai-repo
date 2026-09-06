@@ -5,6 +5,9 @@ on:
     - cron: '17 18 * * *'        # 每天 18:17 UTC 自动跑
   workflow_dispatch: {}
 
+permissions:
+  contents: write               # 允许本 workflow push 回 yai-repo
+
 concurrency:
   group: publish-index
   cancel-in-progress: false
@@ -14,16 +17,16 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 355
     env:
-      YAI_GITHUB_TOKEN: ${{ secrets.YAI_GITHUB_TOKEN }}
+      YAI_GITHUB_TOKEN: ${{ secrets.YAI_GITHUB_TOKEN }}   # PAT, 仅需 public_repo 读权限, 5000/hr
       YAI_REPO_INDEX:  ${{ github.workspace }}/index.json
     steps:
-      - name: Checkout index repo
+      - name: Checkout index repo (本仓库 yai-repo)
         uses: actions/checkout@v4
 
       - name: Checkout yai source
         uses: actions/checkout@v4
         with:
-          repository: yai-byte/yai
+          repository: yai-byte/yai     # 已公开的源码仓库
           path: yai-src
 
       - name: Build yai
@@ -42,16 +45,15 @@ jobs:
             if [ "$i" -lt 3 ]; then sleep 3600; fi
           done
 
-      - name: Publish to Gitee (gitee 已配好镜像回 github)
+      - name: Publish index + feed to GitHub (jsDelivr 自动从本仓库取)
         run: |
+          curl -fsSL https://appimage.github.io/feed.json -o feed.json || true
           git config user.name  "yai-index-bot"
           git config user.email "yai-index-bot@users.noreply.github.com"
-          git add index.json
+          git add index.json feed.json
           if git diff --cached --quiet; then
             echo "index.json unchanged; nothing to publish"
           else
             git commit -m "chore: daily index refresh ($(date -u +%Y-%m-%d))"
-            git remote add gitee "https://oauth2:${{ secrets.GITEE_TOKEN }}@gitee.com/no11no16/yai-repo.git"
-            git push gitee HEAD:refs/heads/main
+            git push
           fi
-
