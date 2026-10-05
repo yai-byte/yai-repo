@@ -1033,6 +1033,22 @@
         },
     
         {
+        "name": "AnkiMiner",
+    
+        "description": "Mine vocabulary from video, audio and books into Anki flashcards",
+    
+        "categories": ["Education"],
+        "authors" : [{"name":"0xzerolight","url":"https://github.com/0xzerolight"}],
+        "license" : "GPL-3.0-or-later",
+        "links": [{"type":"GitHub","url":"0xzerolight/anki_miner"},{"type":"Download","url":"https://github.com/0xzerolight/anki_miner/releases"}],
+        "icons": ["AnkiMiner/icons/scalable/anki-miner.svg"],
+        "screenshots" : ["https://raw.githubusercontent.com/0xzerolight/anki_miner/main/gifs/anki_miner_showcase.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "Annimate",
     
         "description": "Annimate",
@@ -1653,6 +1669,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.25"
+        },
+    
+        {
+        "name": "AstroBurst",
+    
+        "description": "AstroBurst -- High-Performance JWST FITS Processing",
+    
+        "categories": [null],
+        "authors" : [{"name":"samuelkriegerbonini-dev","url":"https://github.com/samuelkriegerbonini-dev"}],
+        "license" : "AGPL-3.0",
+        "links": [{"type":"GitHub","url":"samuelkriegerbonini-dev/AstroBurst"},{"type":"Download","url":"https://github.com/samuelkriegerbonini-dev/AstroBurst/releases"}],
+        "icons": ["AstroBurst/icons/128x128/astroburst.png"],
+        "screenshots" : ["AstroBurst/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -26439,6 +26471,17 @@
         },
     
         {
+        "name": "Simple_Notes_Desktop",
+    
+        "categories": [null],
+        "authors" : [{"name":"inventory69","url":"https://github.com/inventory69"}],
+        "license" : "AGPL-3.0",
+        "links": [{"type":"GitHub","url":"inventory69/simple-notes-desktop"},{"type":"Download","url":"https://github.com/inventory69/simple-notes-desktop/releases"}],
+        "icons": ["Simple_Notes_Desktop/icons/128x128/simple-notes-desktop.png"],
+        "screenshots" : ["Simple_Notes_Desktop/screenshot.png"]
+        },
+    
+        {
         "name": "SimulIDE",
     
         "description": "Real TIME electronic circuit simulator",
@@ -26829,10 +26872,10 @@
     
         "categories": ["Office"],
         "authors" : [{"name":"ljantzen","url":"https://github.com/ljantzen"}],
-        "license" : "GPL-3.0",
+        "license" : "GPL-3.0-or-later",
         "links": [{"type":"GitHub","url":"ljantzen/smaragd"},{"type":"Download","url":"https://github.com/ljantzen/smaragd/releases"}],
         "icons": ["Smaragd/icons/512x512/smaragd.png"],
-        "screenshots" : ["Smaragd/screenshot.png"],
+        "screenshots" : ["https://ljantzen.github.io/smaragd/white-desktop.png"],
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.35"
@@ -30311,6 +30354,22 @@
         },
     
         {
+        "name": "UniSSH",
+    
+        "description": "Cross-platform SSH client",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"goduni","url":"https://github.com/goduni"}],
+        "license" : "Apache-2.0",
+        "links": [{"type":"GitHub","url":"goduni/unissh"},{"type":"Download","url":"https://github.com/goduni/unissh/releases"}],
+        "icons": ["UniSSH/icons/128x128/unissh.png"],
+        "screenshots" : ["UniSSH/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "UniShellect",
     
         "description": "<p>Version 2 of a command line tool to load a menu of commands to help load shells/consoles/interpreters/files with arguments. This is inspired by the &quot;hyper-shellect&quot; plug-in for the &quot;Hyper&quot; terminal.\n\nThis tool parses a JSON config file and loads a menu of shells, interpreters, files, commands and possible arguments into any cli.</p>",
@@ -32409,6 +32468,22 @@
         },
     
         {
+        "name": "YAWF",
+    
+        "description": "Wraps WhatsApp Web with crash auto-recovery, idle heap reset, multi-profile support, clipboard image paste, screenshot-to-chat, and markdown shortcuts.",
+    
+        "categories": ["Network"],
+        "authors" : [{"name":"Wahid7852","url":"https://github.com/Wahid7852"}],
+        "license" : "GPL-3.0",
+        "links": [{"type":"GitHub","url":"Wahid7852/YAWF"},{"type":"Download","url":"https://github.com/Wahid7852/YAWF/releases"}],
+        "icons": ["YAWF/icons/128x128/yawf.png"],
+        "screenshots" : ["YAWF/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
+        },
+    
+        {
         "name": "YFitops",
     
         "description": "YFitops Desktop",
@@ -34238,6 +34313,22 @@
         "links": [{"type":"GitHub","url":"Lateralus138/colorstatic-bash"},{"type":"Download","url":"https://github.com/Lateralus138/colorstatic-bash/releases"}],
         "icons": ["colorstatic-bash/icons/128x128/colorstatic.png"],
         "screenshots" : ["https://raw.githubusercontent.com/Lateralus138/colorstatic-bash/master/docs/media/misc/colorstatic.png"]
+        },
+    
+        {
+        "name": "comic-strip-browser",
+    
+        "description": "<p>Browse a selection of comic strips from GoComics and Comics Kingdom. Features include calendar navigation, caching, and support for more than 90 popular titles, including Calvin and Hobbes, Peanuts, Garfield, Shoe, Pearls Before Swine, Bizarro, and more.</p>",
+    
+        "categories": ["Graphics"],
+        "authors" : [{"name":"DerLudditus","url":"https://github.com/DerLudditus"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"DerLudditus/comic-strip-browser"},{"type":"Download","url":"https://github.com/DerLudditus/comic-strip-browser/releases"}],
+        "icons": ["comic-strip-browser/icons/400x400/comic-strip-browser.png"],
+        "screenshots" : ["https://raw.githubusercontent.com/DerLudditus/comic-strip-browser/main/ComicStripBrowser_Debian13_a.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.14"
         },
     
         {
@@ -41906,6 +41997,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.34"
+        },
+    
+        {
+        "name": "voiceAI",
+    
+        "description": "Local voice-to-text pipeline",
+    
+        "categories": ["Office"],
+        "authors" : [{"name":"urkazan16","url":"https://github.com/urkazan16"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"urkazan16/voiceAI"},{"type":"Download","url":"https://github.com/urkazan16/voiceAI/releases"}],
+        "icons": ["voiceAI/icons/128x128/localflow.png"],
+        "screenshots" : ["voiceAI/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
