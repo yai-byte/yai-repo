@@ -3440,6 +3440,17 @@
         },
     
         {
+        "name": "BunnyChen-DailyCost",
+    
+        "categories": [null],
+        "authors" : [{"name":"Lizhenghe-Chen","url":"https://github.com/Lizhenghe-Chen"}],
+        "license" : "AGPL-3.0",
+        "links": [{"type":"GitHub","url":"Lizhenghe-Chen/BunnyChen-DailyCost"},{"type":"Download","url":"https://github.com/Lizhenghe-Chen/BunnyChen-DailyCost/releases"}],
+        "icons": ["BunnyChen-DailyCost/icons/128x128/dailycost-vault.png"],
+        "screenshots" : ["BunnyChen-DailyCost/screenshot.png"]
+        },
+    
+        {
         "name": "BunqDesktop",
     
         "description": "A desktop implementation for the bunq API",
@@ -5284,6 +5295,22 @@
         },
     
         {
+        "name": "ColorYourModel",
+    
+        "description": "3D model coloring tool for 3D printing",
+    
+        "categories": [null],
+        "authors" : [{"name":"ZackaryShen","url":"https://github.com/ZackaryShen"}],
+        "license" : "AGPL-3.0",
+        "links": [{"type":"GitHub","url":"ZackaryShen/ColorYourModel"},{"type":"Download","url":"https://github.com/ZackaryShen/ColorYourModel/releases"}],
+        "icons": ["ColorYourModel/icons/1024x1024/color-your-model.png"],
+        "screenshots" : ["ColorYourModel/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "Colorpicker",
     
         "description": "Colorpicker is a little Electron app that can show colors with hex/rgb code, and generate shading for your color.",
@@ -6202,6 +6229,22 @@
         },
     
         {
+        "name": "Cycletron",
+    
+        "description": "Live coding for music, built on Rust",
+    
+        "categories": ["AudioVideo"],
+        "authors" : [{"name":"nukleas","url":"https://github.com/nukleas"}],
+        "license" : "AGPL-3.0",
+        "links": [{"type":"GitHub","url":"nukleas/cycletron"},{"type":"Download","url":"https://github.com/nukleas/cycletron/releases"}],
+        "icons": ["Cycletron/icons/128x128/cycletron.png"],
+        "screenshots" : ["Cycletron/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "D-code",
     
         "description": "Unofficial desktop client for the Claude Code CLI",
@@ -6613,6 +6656,17 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.34"
+        },
+    
+        {
+        "name": "DataWeave_Studio",
+    
+        "categories": [null],
+        "authors" : [{"name":"Ashutosh-Vijay","url":"https://github.com/Ashutosh-Vijay"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"Ashutosh-Vijay/DataWeave-Studio"},{"type":"Download","url":"https://github.com/Ashutosh-Vijay/DataWeave-Studio/releases"}],
+        "icons": ["DataWeave_Studio/icons/128x128/app.png"],
+        "screenshots" : ["DataWeave_Studio/screenshot.png"]
         },
     
         {
@@ -8558,6 +8612,17 @@
         },
     
         {
+        "name": "Extreme.InfiniTV",
+    
+        "categories": [null],
+        "authors" : [{"name":"infinitel8p","url":"https://github.com/infinitel8p"}],
+        "license" : "GPL-3.0",
+        "links": [{"type":"GitHub","url":"infinitel8p/Extreme-InfiniTV"},{"type":"Download","url":"https://github.com/infinitel8p/Extreme-InfiniTV/releases"}],
+        "icons": ["Extreme.InfiniTV/icons/128x128/extreme-infinitv.png"],
+        "screenshots" : ["Extreme.InfiniTV/screenshot.png"]
+        },
+    
+        {
         "name": "ExtremeCooling4Linux",
     
         "description": "<p>Extreme cooling is a special fan mode supported in Lenovo Legion laptops. This mode can\nincrease the cooling performance of your laptop and reduces its temperature.  However, this feature\nis only supported by Lenovo through its Windows program Lenovo Sense Nerve.</p>\n<p>ExtremeCooling4Linux has been created to enable and support this special feature on Linux.</p>",
@@ -9293,6 +9358,22 @@
         },
     
         {
+        "name": "Flota",
+    
+        "description": "Flota - 简洁高效的记录应用",
+    
+        "categories": ["Office"],
+        "authors" : [{"name":"Xperiamol","url":"https://github.com/Xperiamol"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"Xperiamol/Flota"},{"type":"Download","url":"https://github.com/Xperiamol/Flota/releases"}],
+        "icons": ["Flota/icons/128x128/flota.png"],
+        "screenshots" : ["Flota/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
+        },
+    
+        {
         "name": "FlowScale_AIOS",
     
         "description": "FlowScale AIOS desktop application",
@@ -9679,8 +9760,11 @@
         "authors" : [{"name":"realthunder","url":"https://github.com/realthunder"}],
         "license" : "LGPL-2.1",
         "links": [{"type":"GitHub","url":"realthunder/FreeCAD"},{"type":"Download","url":"https://github.com/realthunder/FreeCAD/releases"}],
-        "icons": ["FreeCAD-asm3/icons/scalable/freecad_link.svg"],
-        "screenshots" : ["https://wiki.freecadweb.org/images/7/72/Freecad016_screenshot1.jpg"]
+        "icons": ["FreeCAD-asm3/icons/scalable/org.freecadweb.FreeCAD.Link.svg"],
+        "screenshots" : ["https://wiki.freecad.org/images/7/72/Freecad016_screenshot1.jpg"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
         },
     
         {
@@ -10695,6 +10779,22 @@
         "links": [{"type":"GitHub","url":"iput-object/GitSwitch"},{"type":"Download","url":"https://github.com/iput-object/GitSwitch/releases"}],
         "icons": ["GitSwitch/icons/128x128/gitswitch.png"],
         "screenshots" : ["GitSwitch/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
+        "name": "GitWand",
+    
+        "description": "Automatic Git merge conflict resolution",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"devlint","url":"https://github.com/devlint"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"devlint/GitWand"},{"type":"Download","url":"https://github.com/devlint/GitWand/releases"}],
+        "icons": ["GitWand/icons/128x128/gitwand-desktop.png"],
+        "screenshots" : ["GitWand/screenshot.png"],
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.35"
@@ -15448,6 +15548,17 @@
         },
     
         {
+        "name": "M3U8_Quicker",
+    
+        "categories": [null],
+        "authors" : [{"name":"Liubsyy","url":"https://github.com/Liubsyy"}],
+        "license" : "Apache-2.0",
+        "links": [{"type":"GitHub","url":"Liubsyy/M3U8Quicker"},{"type":"Download","url":"https://github.com/Liubsyy/M3U8Quicker/releases"}],
+        "icons": ["M3U8_Quicker/icons/512x512/m3u8quicker.png"],
+        "screenshots" : ["M3U8_Quicker/screenshot.png"]
+        },
+    
+        {
         "name": "MAngbandClient",
     
         "categories": ["Game"],
@@ -17261,6 +17372,22 @@
         },
     
         {
+        "name": "Mojo_Voice",
+    
+        "description": "GPU-accelerated voice dictation UI for Mojo Voice",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"itsdevcoffee","url":"https://github.com/itsdevcoffee"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"itsdevcoffee/mojovoice"},{"type":"Download","url":"https://github.com/itsdevcoffee/mojovoice/releases"}],
+        "icons": ["Mojo_Voice/icons/128x128/mojovoice-ui.png"],
+        "screenshots" : ["Mojo_Voice/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "MolvAI",
     
         "description": "Системный голосовой ввод",
@@ -18649,6 +18776,22 @@
         "links": [{"type":"GitHub","url":"fabiospampinato/notable"},{"type":"Download","url":"https://github.com/fabiospampinato/notable/releases"}],
         "icons": ["Notable/icons/1024x1024/notable.png"],
         "screenshots" : ["Notable/screenshot.png"]
+        },
+    
+        {
+        "name": "NoteConnection",
+    
+        "description": "A Tauri App",
+    
+        "categories": [null],
+        "authors" : [{"name":"Jacobinwwey","url":"https://github.com/Jacobinwwey"}],
+        "license" : "GPL-3.0",
+        "links": [{"type":"GitHub","url":"Jacobinwwey/NoteConnection"},{"type":"Download","url":"https://github.com/Jacobinwwey/NoteConnection/releases"}],
+        "icons": ["NoteConnection/icons/128x128/npm.png"],
+        "screenshots" : ["NoteConnection/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -22679,17 +22822,6 @@
         },
     
         {
-        "name": "PrusaControl",
-    
-        "categories": ["Graphics"],
-        "authors" : null,
-        "license" : null,
-        "links": null,
-        "icons": ["PrusaControl/icons/128x128/prusacontrol.png"],
-        "screenshots" : ["PrusaControl/screenshot.png"]
-        },
-    
-        {
         "name": "Psi+",
     
         "description": "<p>Psi is a powerful XMPP client designed for experienced users. It is highly portable and runs on GNU/Linux, MS Windows, macOS, FreeBSD and Haiku.</p>\n<p>Features:</p>\n<ul>\n  <li>Native look and feel on all supported systems</li>\n  <li>Highly customizable user interface</li>\n  <li>Secure connections and end-to-end encryption</li>\n  <li>User interface is translated to many languages</li>\n</ul>\n<p>Psi+ is a development branch of Psi with rolling release development model. Users who wants to receive new features and bug fixes very quickly may use Psi+ on daily basis. Users who do not care about new trends and prefer constancy may choose Psi as it uses classical development model and its releases are quite rare.</p>",
@@ -22790,6 +22922,22 @@
         },
     
         {
+        "name": "PulseRN",
+    
+        "description": "PulseRN Electron desktop debugger.",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"maahibhama","url":"https://github.com/maahibhama"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"maahibhama/PulseRN"},{"type":"Download","url":"https://github.com/maahibhama/PulseRN/releases"}],
+        "icons": ["PulseRN/icons/1024x1024/pulsern.png"],
+        "screenshots" : ["PulseRN/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
+        },
+    
+        {
         "name": "Pulse_DNS",
     
         "categories": ["Network"],
@@ -22862,12 +23010,12 @@
         {
         "name": "Pybient",
     
-        "description": "Pybient - Python Entwicklungsumgebung",
+        "description": "The intuitive Python code editor",
     
         "categories": ["Development"],
-        "authors" : null,
+        "authors" : [{"name":"Pybient","url":"https://github.com/Pybient"}],
         "license" : "LicenseRef-proprietary",
-        "links": [{"type":"Download","url":"https://www.pybient.com/index.php?pybient_download=pybient-latest-linux"}],
+        "links": [{"type":"GitHub","url":"Pybient/Pybient"},{"type":"Download","url":"https://github.com/Pybient/Pybient/releases"}],
         "icons": ["Pybient/icons/256x256/com.pybient.Pybient.png"],
         "screenshots" : ["https://www.pybient.com/n1.png"],
         "libc": "host",
@@ -24081,6 +24229,22 @@
         },
     
         {
+        "name": "Raw2Film",
+    
+        "description": "Raw image editor with built-in film emulation",
+    
+        "categories": ["Graphics"],
+        "authors" : [{"name":"JanLohse","url":"https://github.com/JanLohse"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"JanLohse/raw2film"},{"type":"Download","url":"https://github.com/JanLohse/raw2film/releases"}],
+        "icons": ["Raw2Film/icons/512x512/raw2film.png"],
+        "screenshots" : ["https://github.com/user-attachments/assets/800af908-b790-4c11-9cfc-03d82c0cb7f5"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "RawTherapee",
     
         "description": "<p>RawTherapee is a powerful, cross-platform raw photo processing program. It is written mostly in C++ using a GTK+ front-end. It uses a patched version of dcraw for reading raw files, with an in-house solution which adds the highest quality support for certain camera models unsupported by dcraw and enhances the accuracy of certain raw files already supported by dcraw. It is notable for the advanced control it gives the user over the demosaicing and development process.</p>\n<p>RawTherapee is designed for developing raw files from a broad range of digital cameras, as well as HDR DNG files and non-raw image formats (JPEG, TIFF and PNG). The target audience ranges from enthusiast newcomers who wish to broaden their understanding of how digital imaging works to semi-professional photographers. Knowledge in color science is not compulsory, but it is recommended that you are eager to learn and ready to read our documentation (RawPedia) as well as look up basic concepts which lie outside the scope of RawPedia, such as color balance, elsewhere.</p>\n<p>Of course, professionals may use RawTherapee too while enjoying complete freedom, but will probably lack some peripheral features such as Digital Asset Management, printing, uploading, etc. RawTherapee is not aimed at being an inclusive all-in-one program, and the open-source community is sufficiently developed by now to offer all those peripheral features in other specialized software.</p>",
@@ -24978,6 +25142,22 @@
         "screenshots" : ["RustDesk/screenshot.png"],
         "libc": "bundled",
         "self_contained": true
+        },
+    
+        {
+        "name": "Rust_DICOM_Station",
+    
+        "description": "DICOM / RT DICOM viewer",
+    
+        "categories": ["Graphics"],
+        "authors" : [{"name":"alexprotom","url":"https://github.com/alexprotom"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"alexprotom/rust-dicom-station"},{"type":"Download","url":"https://github.com/alexprotom/rust-dicom-station/releases"}],
+        "icons": ["Rust_DICOM_Station/icons/256x256/rust-dicom-station.png"],
+        "screenshots" : ["Rust_DICOM_Station/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.30"
         },
     
         {
@@ -27316,6 +27496,22 @@
         },
     
         {
+        "name": "SpectralFilmLUT",
+    
+        "description": "Create LUTs to emulate film from spectral datasheets",
+    
+        "categories": ["AudioVideo"],
+        "authors" : [{"name":"JanLohse","url":"https://github.com/JanLohse"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"JanLohse/spectral_film_lut"},{"type":"Download","url":"https://github.com/JanLohse/spectral_film_lut/releases"}],
+        "icons": ["SpectralFilmLUT/icons/512x512/spectral_film_lut.png"],
+        "screenshots" : ["SpectralFilmLUT/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "Spectrum",
     
         "description": "The community platform for the future.",
@@ -27696,6 +27892,17 @@
         "links": [{"type":"GitHub","url":"oskardolch/SteamCAD"},{"type":"Download","url":"https://github.com/oskardolch/SteamCAD/releases"}],
         "icons": ["SteamCAD/icons/256x256/steamcad.png"],
         "screenshots" : ["https://user-images.githubusercontent.com/2480569/51800646-28ccec00-222a-11e9-9fd4-aa840fb2aae0.png"]
+        },
+    
+        {
+        "name": "Steam_Manifest_Downloader",
+    
+        "categories": [null],
+        "authors" : [{"name":"mcbabel","url":"https://github.com/mcbabel"}],
+        "license" : "GPL-2.0",
+        "links": [{"type":"GitHub","url":"mcbabel/Steam-Manifest-Downloader"},{"type":"Download","url":"https://github.com/mcbabel/Steam-Manifest-Downloader/releases"}],
+        "icons": ["Steam_Manifest_Downloader/icons/256x256/steam-manifest-downloader.png"],
+        "screenshots" : ["Steam_Manifest_Downloader/screenshot.png"]
         },
     
         {
@@ -28674,14 +28881,14 @@
         {
         "name": "TFStudio",
     
-        "description": "TFStudio - Optical Thin Film Coating Design",
+        "description": "<p>TFStudio is a desktop application for designing and analyzing optical thin-film coatings: antireflection coatings, mirrors, beamsplitters, bandpass and edge filters, and more. It provides a double-precision optical engine, refinement and synthesis algorithms, and an analysis suite, in a docked, multi-window interface.</p>",
     
         "categories": ["Science"],
         "authors" : [{"name":"aai2k","url":"https://github.com/aai2k"}],
         "license" : "MIT",
         "links": [{"type":"GitHub","url":"aai2k/TFStudio"},{"type":"Download","url":"https://github.com/aai2k/TFStudio/releases"}],
         "icons": ["TFStudio/icons/128x128/tfstudio.png"],
-        "screenshots" : ["TFStudio/screenshot.png"],
+        "screenshots" : ["https://raw.githubusercontent.com/aai2k/TFStudio/main/assets/screenshot-multipassband.png"],
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.25"
@@ -30221,6 +30428,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.35"
+        },
+    
+        {
+        "name": "UDCAP_Control",
+    
+        "description": "UDCAP gloves app for Linux",
+    
+        "categories": [null],
+        "authors" : [{"name":"Eidenz","url":"https://github.com/Eidenz"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"Eidenz/udcap-control"},{"type":"Download","url":"https://github.com/Eidenz/udcap-control/releases"}],
+        "icons": ["UDCAP_Control/icons/128x128/udcap-control.png"],
+        "screenshots" : ["UDCAP_Control/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.36"
         },
     
         {
@@ -31954,6 +32177,22 @@
         },
     
         {
+        "name": "Whodis",
+    
+        "description": "<p>Whodis is a full, evidence-backed domain investigation suite. It starts\n      with the appropriate RDAP, WHOIS, or RWhois authority, then connects that\n      identity to DNS inventory, bounded service diagnostics, infrastructure\n      attribution, technology profiling, research pivots, change tracking, and\n      a score-free homepage audit.</p>\n<p>The native desktop application provides registration, DNS query,\n      resolver comparison, delegation, web, TLS, mail, stack, homepage\n      observations, related-domain, findings, batch, and raw-source views\n      without requiring the command-line application.</p>",
+    
+        "categories": ["Network"],
+        "authors" : [{"name":"Alex9001","url":"https://github.com/Alex9001"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"Alex9001/whodis"},{"type":"Download","url":"https://github.com/Alex9001/whodis/releases"}],
+        "icons": ["Whodis/icons/512x512/net.cyberbrand.whodis.png"],
+        "screenshots" : ["https://raw.githubusercontent.com/Alex9001/whodis/main/docs/whodis-gui-registration.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "Widelands",
     
         "description": "A real-time build-up strategy game",
@@ -32578,6 +32817,22 @@
         },
     
         {
+        "name": "Yachiyo",
+    
+        "description": "Yachiyo desktop app",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"ringotypowriter","url":"https://github.com/ringotypowriter"}],
+        "license" : "Apache-2.0",
+        "links": [{"type":"GitHub","url":"ringotypowriter/yachiyo"},{"type":"Download","url":"https://github.com/ringotypowriter/yachiyo/releases"}],
+        "icons": ["Yachiyo/icons/512x512/@yachiyodesktop.png"],
+        "screenshots" : ["Yachiyo/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.39"
+        },
+    
+        {
         "name": "Yai",
     
         "description": "AppImage Package Manager",
@@ -32830,6 +33085,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.34"
+        },
+    
+        {
+        "name": "ZPLab",
+    
+        "description": "ZPL label designer",
+    
+        "categories": ["Office"],
+        "authors" : [{"name":"u8array","url":"https://github.com/u8array"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"u8array/ZPLab"},{"type":"Download","url":"https://github.com/u8array/ZPLab/releases"}],
+        "icons": ["ZPLab/icons/128x128/ZPLab.png"],
+        "screenshots" : ["ZPLab/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -33292,6 +33563,22 @@
         "links": [{"type":"GitHub","url":"chrisknepper/android-messages-desktop"},{"type":"Download","url":"https://github.com/chrisknepper/android-messages-desktop/releases"}],
         "icons": ["android-messages-desktop/icons/128x128/android-messages-desktop.png"],
         "screenshots" : ["android-messages-desktop/screenshot.png"]
+        },
+    
+        {
+        "name": "ani-gui",
+    
+        "description": "Browse and watch anime",
+    
+        "categories": ["AudioVideo"],
+        "authors" : [{"name":"JoaoPucci","url":"https://github.com/JoaoPucci"}],
+        "license" : "GPL-3.0",
+        "links": [{"type":"GitHub","url":"JoaoPucci/ani-gui"},{"type":"Download","url":"https://github.com/JoaoPucci/ani-gui/releases"}],
+        "icons": ["ani-gui/icons/512x512/ani-gui.png"],
+        "screenshots" : ["ani-gui/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
         },
     
         {
@@ -34154,6 +34441,22 @@
         "links": [{"type":"GitHub","url":"renatoaug/claude-usage-monitor"},{"type":"Download","url":"https://github.com/renatoaug/claude-usage-monitor/releases"}],
         "icons": ["claude-usage-monitor/icons/512x512/clauddy.png"],
         "screenshots" : ["claude-usage-monitor/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
+        },
+    
+        {
+        "name": "claudget",
+    
+        "description": "See your Claude Code 5-hour and weekly limits in the menu bar.",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"manankapoor23","url":"https://github.com/manankapoor23"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"manankapoor23/claudget"},{"type":"Download","url":"https://github.com/manankapoor23/claudget/releases"}],
+        "icons": ["claudget/icons/1024x1024/claudget.png"],
+        "screenshots" : ["claudget/screenshot.png"],
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.25"
@@ -38140,7 +38443,7 @@
         "license" : "MIT",
         "links": [{"type":"GitHub","url":"ISuuuu/miniserve-gui"},{"type":"Download","url":"https://github.com/ISuuuu/miniserve-gui/releases"}],
         "icons": ["miniserve_gui/icons/128x128/miniserve-gui.png"],
-        "screenshots" : ["miniserve_gui/screenshot.png"],
+        "screenshots" : ["https://raw.githubusercontent.com/ISuuuu/miniserve-gui/main/screenshot.png"],
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.35"
@@ -38824,6 +39127,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.25"
+        },
+    
+        {
+        "name": "ohmyhf",
+    
+        "description": "Oh My HuggingFace — unofficial desktop client for the Hugging Face Hub",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"fzlzjerry","url":"https://github.com/fzlzjerry"}],
+        "license" : "Apache-2.0",
+        "links": [{"type":"GitHub","url":"fzlzjerry/ohmyhf"},{"type":"Download","url":"https://github.com/fzlzjerry/ohmyhf/releases"}],
+        "icons": ["ohmyhf/icons/1024x1024/oh-my-huggingface.png"],
+        "screenshots" : ["ohmyhf/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
         },
     
         {
@@ -40543,14 +40862,14 @@
         {
         "name": "sidplaywx",
     
-        "description": "A GUI player for Commodore 64 SID music files",
+        "description": "<p>The sidplaywx is a GUI player for Commodore 64 SID chip tunes aiming to provide a feature-rich &amp; intuitive SID tune playback experience on the PC.</p>\n<p>The current alpha version is fully usable, supporting QoL features like seeking, drag &amp; drop, unicode paths, DPI awareness and much more.</p>\n<p>The sidplaywx uses libsidplayfp (with ReSIDfp) for ultimate quality in SID emulation, wxWidgets for native GUI on supported platforms, and PortAudio for audio output.</p>",
     
         "categories": ["AudioVideo"],
         "authors" : [{"name":"bytespiller","url":"https://github.com/bytespiller"}],
-        "license" : "GPL-3.0",
+        "license" : "GPL-3.0-or-later",
         "links": [{"type":"GitHub","url":"bytespiller/sidplaywx"},{"type":"Download","url":"https://github.com/bytespiller/sidplaywx/releases"}],
         "icons": ["sidplaywx/icons/256x256/sidplaywx_icon.png"],
-        "screenshots" : ["sidplaywx/screenshot.png"],
+        "screenshots" : ["https://raw.githubusercontent.com/bytespiller/sidplaywx/refs/heads/assets/screenshots/sidplaywx-debian-dark.png"],
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.35"
@@ -42697,6 +43016,22 @@
         "links": null,
         "icons": ["zeltrez/icons/256x256/zeltrez.png"],
         "screenshots" : ["zeltrez/screenshot.png"]
+        },
+    
+        {
+        "name": "zipax",
+    
+        "description": "轻量级跨平台图像压缩工具",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"2716190547","url":"https://github.com/2716190547"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"2716190547/zipax"},{"type":"Download","url":"https://github.com/2716190547/zipax/releases"}],
+        "icons": ["zipax/icons/128x128/zipax.png"],
+        "screenshots" : ["zipax/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
