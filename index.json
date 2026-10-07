@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-06T03:38:32Z",
+  "updated_at": "2026-10-07T02:21:22Z",
   "packages": [
     {
       "id": "_icq",
@@ -408,7 +408,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:17Z"
+      "resolved_at": "2026-10-06T22:41:37Z"
     },
     {
       "id": "advanced_rest_client",
@@ -590,7 +590,7 @@
         "url": "https://appimage.github.io/Agora/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
+      "download_url": "https://s3-ap-southeast-2.amazonaws.com/agora-distribution/Agora+0.2.3.AppImage",
       "download_urls": {
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://s3-ap-southeast-2.amazonaws.com/agora-distribution/Agora+0.2.3.AppImage",
@@ -599,9 +599,9 @@
         "riscv64": "https://s3-ap-southeast-2.amazonaws.com/agora-distribution/Agora+0.2.3.AppImage",
         "s390x": "https://s3-ap-southeast-2.amazonaws.com/agora-distribution/Agora+0.2.3.AppImage",
         "x86": "https://s3-ap-southeast-2.amazonaws.com/agora-distribution/Agora+0.2.3.AppImage",
-        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
+        "x86_64": "https://s3-ap-southeast-2.amazonaws.com/agora-distribution/Agora+0.2.3.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:13Z"
+      "resolved_at": "2026-10-06T22:41:42Z"
     },
     {
       "id": "agro",
@@ -710,7 +710,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:15Z"
+      "resolved_at": "2026-10-06T22:41:39Z"
     },
     {
       "id": "altersend",
@@ -884,7 +884,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:18Z"
+      "resolved_at": "2026-10-06T22:41:40Z"
     },
     {
       "id": "anime_cursor",
@@ -962,7 +962,7 @@
         "url": "https://appimage.github.io/AntiBrow/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://download.antibrow.com/desktop/AntiBrow-1.13.0.AppImage",
+      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://download.antibrow.com/desktop/AntiBrow-1.13.0.AppImage",
@@ -971,9 +971,9 @@
         "riscv64": "https://download.antibrow.com/desktop/AntiBrow-1.13.0.AppImage",
         "s390x": "https://download.antibrow.com/desktop/AntiBrow-1.13.0.AppImage",
         "x86": "https://download.antibrow.com/desktop/AntiBrow-1.13.0.AppImage",
-        "x86_64": "https://download.antibrow.com/desktop/AntiBrow-1.13.0.AppImage"
+        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:19Z"
+      "resolved_at": "2026-10-06T22:41:41Z"
     },
     {
       "id": "anymeal",
@@ -1010,7 +1010,7 @@
         "x86": "https://anzeigenchef.roundcubes.de/downloads/linux/AnzeigenChef-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:16Z"
+      "resolved_at": "2026-10-06T22:41:39Z"
     },
     {
       "id": "apache_netbeans",
@@ -1166,18 +1166,18 @@
         "url": "https://appimage.github.io/Aptakube/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
+      "download_url": "https://releases.aptakube.com/aptakube_1.7.6_amd64.AppImage",
       "download_urls": {
-        "aarch64": "https://releases.aptakube.com/aptakube_1.7.6_amd64.AppImage",
+        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://releases.aptakube.com/aptakube_1.7.6_amd64.AppImage",
         "loongarch64": "https://releases.aptakube.com/aptakube_1.7.6_amd64.AppImage",
         "ppc64le": "https://releases.aptakube.com/aptakube_1.7.6_amd64.AppImage",
         "riscv64": "https://releases.aptakube.com/aptakube_1.7.6_amd64.AppImage",
         "s390x": "https://releases.aptakube.com/aptakube_1.7.6_amd64.AppImage",
         "x86": "https://releases.aptakube.com/aptakube_1.7.6_amd64.AppImage",
-        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
+        "x86_64": "https://releases.aptakube.com/aptakube_1.7.6_amd64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:26Z"
+      "resolved_at": "2026-10-06T22:41:47Z"
     },
     {
       "id": "aqloss",
@@ -1351,7 +1351,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:17Z"
+      "resolved_at": "2026-10-06T22:41:44Z"
     },
     {
       "id": "artmoon",
@@ -1414,7 +1414,7 @@
         "x86": "http://www.bitbreeds.com/file-downloads/com.bitbreeds.games.Artifact-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:33Z"
+      "resolved_at": "2026-10-06T22:41:52Z"
     },
     {
       "id": "artisan",
@@ -1479,7 +1479,7 @@
         "url": "https://appimage.github.io/Aspect/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://download.bildhuus.com/packages/aspect/aspect-1.0.0-preview.37-x86_64.AppImage",
+      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://download.bildhuus.com/packages/aspect/aspect-1.0.0-preview.37-x86_64.AppImage",
@@ -1488,9 +1488,9 @@
         "riscv64": "https://download.bildhuus.com/packages/aspect/aspect-1.0.0-preview.37-x86_64.AppImage",
         "s390x": "https://download.bildhuus.com/packages/aspect/aspect-1.0.0-preview.37-x86_64.AppImage",
         "x86": "https://download.bildhuus.com/packages/aspect/aspect-1.0.0-preview.37-x86_64.AppImage",
-        "x86_64": "https://download.bildhuus.com/packages/aspect/aspect-1.0.0-preview.37-x86_64.AppImage"
+        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:16Z"
+      "resolved_at": "2026-10-06T22:41:39Z"
     },
     {
       "id": "assayplot",
@@ -1607,12 +1607,12 @@
         "url": "https://appimage.github.io/Astrofox/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
+      "download_url": "https://github.com/astrofox-io/astrofox/releases/download/v2.0.0/Astrofox-linux-x86_64.AppImage",
       "download_urls": {
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
-        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
+        "x86_64": "https://github.com/astrofox-io/astrofox/releases/download/v2.0.0/Astrofox-linux-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:15Z"
+      "resolved_at": "2026-10-06T22:41:42Z"
     },
     {
       "id": "atcore",
@@ -1636,7 +1636,7 @@
         "x86": "https://download.kde.org/stable/atcore/1.0.0/AtCore_Test_Client-1.0.0-x86_64.AppImage",
         "x86_64": "https://download.kde.org/stable/atcore/1.0.0/AtCore_Test_Client-1.0.0-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:05:52Z"
+      "resolved_at": "2026-10-06T22:43:18Z"
     },
     {
       "id": "athena",
@@ -1662,18 +1662,18 @@
         "url": "https://appimage.github.io/Atomicwallet/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://atomicwallet.io/download/atomicwallet.AppImage",
+      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://atomicwallet.io/download/atomicwallet.AppImage",
+        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://atomicwallet.io/download/atomicwallet.AppImage",
         "loongarch64": "https://atomicwallet.io/download/atomicwallet.AppImage",
         "ppc64le": "https://atomicwallet.io/download/atomicwallet.AppImage",
         "riscv64": "https://atomicwallet.io/download/atomicwallet.AppImage",
         "s390x": "https://atomicwallet.io/download/atomicwallet.AppImage",
         "x86": "https://atomicwallet.io/download/atomicwallet.AppImage",
-        "x86_64": "https://atomicwallet.io/download/atomicwallet.AppImage"
+        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:15Z"
+      "resolved_at": "2026-10-06T22:41:39Z"
     },
     {
       "id": "atropos",
@@ -1834,7 +1834,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:12Z"
+      "resolved_at": "2026-10-06T22:41:40Z"
     },
     {
       "id": "axe_electrum",
@@ -1891,7 +1891,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:27Z"
+      "resolved_at": "2026-10-06T22:41:42Z"
     },
     {
       "id": "bar_lobby",
@@ -2156,7 +2156,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:14Z"
+      "resolved_at": "2026-10-06T22:41:43Z"
     },
     {
       "id": "beacon",
@@ -2187,7 +2187,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:30Z"
+      "resolved_at": "2026-10-06T22:41:56Z"
     },
     {
       "id": "beatbreakereditorfree",
@@ -2366,7 +2366,7 @@
         "x86": "https://mirror.bettercrewl.ink/pc/latest/BetterCrewlink-Linux.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:27Z"
+      "resolved_at": "2026-10-06T22:41:54Z"
     },
     {
       "id": "bettersis",
@@ -2462,7 +2462,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:32Z"
+      "resolved_at": "2026-10-06T22:42:00Z"
     },
     {
       "id": "bezique",
@@ -2490,7 +2490,7 @@
       },
       "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://www.bforartists.de/data/binaries/bforartists-v2.9.3-x86_64.AppImage",
+        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://www.bforartists.de/data/binaries/bforartists-v2.9.3-x86_64.AppImage",
         "loongarch64": "https://www.bforartists.de/data/binaries/bforartists-v2.9.3-x86_64.AppImage",
         "ppc64le": "https://www.bforartists.de/data/binaries/bforartists-v2.9.3-x86_64.AppImage",
@@ -2499,7 +2499,7 @@
         "x86": "https://www.bforartists.de/data/binaries/bforartists-v2.9.3-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:40Z"
+      "resolved_at": "2026-10-06T22:41:57Z"
     },
     {
       "id": "bibavpn",
@@ -2536,7 +2536,7 @@
         "x86": "https://gitlab.com/-/project/17175284/uploads/caa00a30e4fef52175512637eabf6c76/BibleMultiTheLife-1.27.4-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:32Z"
+      "resolved_at": "2026-10-06T22:42:00Z"
     },
     {
       "id": "bible_song_pro_studio",
@@ -2690,7 +2690,7 @@
         "x86": "https://bitfighter.org/files/bitfighter-022-Build0.glibc2.14-x86_64.AppImage",
         "x86_64": "https://bitfighter.org/files/bitfighter-022-Build0.glibc2.14-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:11Z"
+      "resolved_at": "2026-10-06T22:43:38Z"
     },
     {
       "id": "bitwarden",
@@ -2734,7 +2734,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:05:19Z"
+      "resolved_at": "2026-10-06T22:42:19Z"
     },
     {
       "id": "blackmirror",
@@ -2823,7 +2823,7 @@
         "x86": "https://www.blensor.org/dload/Blensor-x64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:32Z"
+      "resolved_at": "2026-10-06T22:42:00Z"
     },
     {
       "id": "blender_config_manager",
@@ -3010,7 +3010,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:40Z"
+      "resolved_at": "2026-10-06T22:42:02Z"
     },
     {
       "id": "bottlebats",
@@ -3190,7 +3190,7 @@
         "x86": "https://d2shgxa8i058x8.cloudfront.net/bridge/linux/Bridge.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:38Z"
+      "resolved_at": "2026-10-06T22:41:59Z"
     },
     {
       "id": "browservice",
@@ -3374,7 +3374,7 @@
       },
       "download_url": "https://svn.zdechov.net/c-evo/bin/appimage/C-evo-nh-1.3.9-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
+        "aarch64": "https://svn.zdechov.net/c-evo/bin/appimage/C-evo-nh-1.3.8-x86_64.AppImage",
         "armv7": "https://svn.zdechov.net/c-evo/bin/appimage/C-evo-nh-1.3.8-x86_64.AppImage",
         "loongarch64": "https://svn.zdechov.net/c-evo/bin/appimage/C-evo-nh-1.3.8-x86_64.AppImage",
         "ppc64le": "https://svn.zdechov.net/c-evo/bin/appimage/C-evo-nh-1.3.8-x86_64.AppImage",
@@ -3383,7 +3383,7 @@
         "x86": "https://svn.zdechov.net/c-evo/bin/appimage/C-evo-nh-1.3.8-x86_64.AppImage",
         "x86_64": "https://svn.zdechov.net/c-evo/bin/appimage/C-evo-nh-1.3.9-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:55Z"
+      "resolved_at": "2026-10-06T22:42:13Z"
     },
     {
       "id": "c64kernalgenesis",
@@ -3635,7 +3635,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:50Z"
+      "resolved_at": "2026-10-06T22:42:12Z"
     },
     {
       "id": "cvease",
@@ -3689,7 +3689,7 @@
       },
       "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
+        "aarch64": "https://s3.amazonaws.com/download.cacher.io/cacher-1.5.7-x86_64.AppImage",
         "armv7": "https://s3.amazonaws.com/download.cacher.io/cacher-1.5.7-x86_64.AppImage",
         "loongarch64": "https://s3.amazonaws.com/download.cacher.io/cacher-1.5.7-x86_64.AppImage",
         "ppc64le": "https://s3.amazonaws.com/download.cacher.io/cacher-1.5.7-x86_64.AppImage",
@@ -3698,7 +3698,7 @@
         "x86": "https://s3.amazonaws.com/download.cacher.io/cacher-1.5.7-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:53Z"
+      "resolved_at": "2026-10-06T22:42:09Z"
     },
     {
       "id": "caelo",
@@ -3800,7 +3800,7 @@
         "x86": "https://getcanoe.io/files/1.0.1/canoe-linux64-1.0.1.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:05:01Z"
+      "resolved_at": "2026-10-06T22:42:16Z"
     },
     {
       "id": "canvastty",
@@ -3883,7 +3883,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:51Z"
+      "resolved_at": "2026-10-06T22:42:44Z"
     },
     {
       "id": "carpenters",
@@ -4010,7 +4010,7 @@
         "x86": "https://download.opensuse.org/repositories/home:/munix9:/celestia:/1.6/AppImage/celestia-latest-x86_64.AppImage.mirrorlist",
         "x86_64": "https://download.opensuse.org/repositories/home:/munix9:/celestia:/1.6/AppImage/celestia-latest-x86_64.AppImage.mirrorlist"
       },
-      "resolved_at": "2026-10-06T00:04:32Z"
+      "resolved_at": "2026-10-06T22:42:08Z"
     },
     {
       "id": "cells",
@@ -4192,7 +4192,7 @@
         "url": "https://appimage.github.io/Chess_Opening_Tool/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
+      "download_url": "https://gitlab.com/M0M097/chess-opening-tool/-/releases/permalink/latest/downloads/chess-opening-tool-x86_64.AppImage",
       "download_urls": {
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://gitlab.com/M0M097/chess-opening-tool/-/releases/permalink/latest/downloads/chess-opening-tool-x86_64.AppImage",
@@ -4201,9 +4201,9 @@
         "riscv64": "https://gitlab.com/M0M097/chess-opening-tool/-/releases/permalink/latest/downloads/chess-opening-tool-x86_64.AppImage",
         "s390x": "https://gitlab.com/M0M097/chess-opening-tool/-/releases/permalink/latest/downloads/chess-opening-tool-x86_64.AppImage",
         "x86": "https://gitlab.com/M0M097/chess-opening-tool/-/releases/permalink/latest/downloads/chess-opening-tool-x86_64.AppImage",
-        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
+        "x86_64": "https://gitlab.com/M0M097/chess-opening-tool/-/releases/permalink/latest/downloads/chess-opening-tool-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:54Z"
+      "resolved_at": "2026-10-06T22:42:10Z"
     },
     {
       "id": "chiaki",
@@ -4234,7 +4234,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:54Z"
+      "resolved_at": "2026-10-06T22:42:12Z"
     },
     {
       "id": "chonkcraft",
@@ -4694,7 +4694,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:53Z"
+      "resolved_at": "2026-10-06T22:42:18Z"
     },
     {
       "id": "clipshare",
@@ -4798,7 +4798,7 @@
         "url": "https://appimage.github.io/CoCoMusic/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
+      "download_url": "http://cocomusic-1252075019.cosgz.myqcloud.com/cocomusic-1.1.0-x86_64.AppImage",
       "download_urls": {
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "http://cocomusic-1252075019.cosgz.myqcloud.com/cocomusic-1.1.0-x86_64.AppImage",
@@ -4807,9 +4807,9 @@
         "riscv64": "http://cocomusic-1252075019.cosgz.myqcloud.com/cocomusic-1.1.0-x86_64.AppImage",
         "s390x": "http://cocomusic-1252075019.cosgz.myqcloud.com/cocomusic-1.1.0-x86_64.AppImage",
         "x86": "http://cocomusic-1252075019.cosgz.myqcloud.com/cocomusic-1.1.0-x86_64.AppImage",
-        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
+        "x86_64": "http://cocomusic-1252075019.cosgz.myqcloud.com/cocomusic-1.1.0-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:59Z"
+      "resolved_at": "2026-10-06T22:42:15Z"
     },
     {
       "id": "codemux",
@@ -4853,7 +4853,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:04:54Z"
+      "resolved_at": "2026-10-06T22:42:52Z"
     },
     {
       "id": "codepointer",
@@ -4968,7 +4968,7 @@
         "x86": "https://colobot.info/files/releases/0.1.12-alpha/Colobot-0.1.12-alpha-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T01:57:00Z"
+      "resolved_at": "2026-10-06T22:43:17Z"
     },
     {
       "id": "colon",
@@ -5200,7 +5200,7 @@
         "x86": "https://sourceforge.net/projects/converseen/files/Converseen/Converseen%200.9/Converseen-0.9.9.7-1-x86_64.AppImage/download",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:05:12Z"
+      "resolved_at": "2026-10-06T22:42:47Z"
     },
     {
       "id": "converter432hz",
@@ -5270,7 +5270,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:05:59Z"
+      "resolved_at": "2026-10-06T22:43:05Z"
     },
     {
       "id": "corearchiver",
@@ -5288,7 +5288,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:05:54Z"
+      "resolved_at": "2026-10-06T22:43:19Z"
     },
     {
       "id": "corebox",
@@ -5319,7 +5319,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:05:43Z"
+      "resolved_at": "2026-10-06T22:42:57Z"
     },
     {
       "id": "corehunt",
@@ -5337,7 +5337,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:05:58Z"
+      "resolved_at": "2026-10-06T22:43:06Z"
     },
     {
       "id": "coreimage",
@@ -5355,7 +5355,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:02Z"
+      "resolved_at": "2026-10-06T22:43:14Z"
     },
     {
       "id": "coreinfo",
@@ -5373,7 +5373,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:05:58Z"
+      "resolved_at": "2026-10-06T22:43:26Z"
     },
     {
       "id": "corepad",
@@ -5391,7 +5391,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:05:45Z"
+      "resolved_at": "2026-10-06T22:43:20Z"
     },
     {
       "id": "corepaint",
@@ -5409,7 +5409,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:05:58Z"
+      "resolved_at": "2026-10-06T22:43:10Z"
     },
     {
       "id": "corepins",
@@ -5427,7 +5427,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:05:47Z"
+      "resolved_at": "2026-10-06T22:43:30Z"
     },
     {
       "id": "corerenamer",
@@ -5445,7 +5445,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:05Z"
+      "resolved_at": "2026-10-06T22:43:38Z"
     },
     {
       "id": "coreshot",
@@ -5463,7 +5463,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:09Z"
+      "resolved_at": "2026-10-06T22:43:43Z"
     },
     {
       "id": "coresound",
@@ -5494,7 +5494,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:16Z"
+      "resolved_at": "2026-10-06T22:43:39Z"
     },
     {
       "id": "corestuff",
@@ -5512,7 +5512,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:14Z"
+      "resolved_at": "2026-10-06T22:43:35Z"
     },
     {
       "id": "coretime",
@@ -5530,7 +5530,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:17Z"
+      "resolved_at": "2026-10-06T22:43:46Z"
     },
     {
       "id": "coreuniverse",
@@ -5548,7 +5548,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:19Z"
+      "resolved_at": "2026-10-06T22:43:38Z"
     },
     {
       "id": "corsixth",
@@ -5615,7 +5615,7 @@
       },
       "download_url": "https://file2-cdn.creality.com/file/1946156fb58ee2564ae71424e44c05a3/Creality_Print-v3.11.1-Ubutu-x86_64-Release.AppImage",
       "download_urls": {
-        "aarch64": "https://file2-cdn.creality.com/file/1946156fb58ee2564ae71424e44c05a3/Creality_Print-v3.11.1-Ubutu-x86_64-Release.AppImage",
+        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://file2-cdn.creality.com/file/1946156fb58ee2564ae71424e44c05a3/Creality_Print-v3.11.1-Ubutu-x86_64-Release.AppImage",
         "loongarch64": "https://file2-cdn.creality.com/file/1946156fb58ee2564ae71424e44c05a3/Creality_Print-v3.11.1-Ubutu-x86_64-Release.AppImage",
         "ppc64le": "https://file2-cdn.creality.com/file/1946156fb58ee2564ae71424e44c05a3/Creality_Print-v3.11.1-Ubutu-x86_64-Release.AppImage",
@@ -5624,7 +5624,7 @@
         "x86": "https://file2-cdn.creality.com/file/1946156fb58ee2564ae71424e44c05a3/Creality_Print-v3.11.1-Ubutu-x86_64-Release.AppImage",
         "x86_64": "https://file2-cdn.creality.com/file/1946156fb58ee2564ae71424e44c05a3/Creality_Print-v3.11.1-Ubutu-x86_64-Release.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:11Z"
+      "resolved_at": "2026-10-06T22:43:32Z"
     },
     {
       "id": "crescat",
@@ -5642,7 +5642,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:23Z"
+      "resolved_at": "2026-10-06T22:43:36Z"
     },
     {
       "id": "crew44",
@@ -5751,7 +5751,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:24Z"
+      "resolved_at": "2026-10-06T22:43:35Z"
     },
     {
       "id": "cryplicity",
@@ -5801,7 +5801,7 @@
         "x86": "https://gitlab.com/cryptocam/cryptocam-companion/-/jobs/1246114289/artifacts/raw/Cryptocam%20Companion-0.2.3-x86_64.AppImage?inline=false",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:12Z"
+      "resolved_at": "2026-10-06T22:43:40Z"
     },
     {
       "id": "cryptomator",
@@ -6118,7 +6118,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:18Z"
+      "resolved_at": "2026-10-06T22:43:38Z"
     },
     {
       "id": "dcp-o-matic_batch_converter",
@@ -6136,7 +6136,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:16Z"
+      "resolved_at": "2026-10-06T22:43:39Z"
     },
     {
       "id": "dcp-o-matic_encode_server",
@@ -6154,7 +6154,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:20Z"
+      "resolved_at": "2026-10-06T22:43:41Z"
     },
     {
       "id": "dcp-o-matic_kdm_creator",
@@ -6172,7 +6172,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:21Z"
+      "resolved_at": "2026-10-06T22:43:42Z"
     },
     {
       "id": "dcp-o-matic_player",
@@ -6190,7 +6190,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:20Z"
+      "resolved_at": "2026-10-06T22:43:43Z"
     },
     {
       "id": "ddalab",
@@ -6273,7 +6273,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:34Z"
+      "resolved_at": "2026-10-06T22:43:58Z"
     },
     {
       "id": "dj_manager",
@@ -6439,7 +6439,7 @@
         "x86": "https://download.opensuse.org/repositories/home:/linuxtardis:/sdi_linux_pkgs/AppImage/data-plotter-latest-x86_64.AppImage.mirrorlist",
         "x86_64": "https://download.opensuse.org/repositories/home:/linuxtardis:/sdi_linux_pkgs/AppImage/data-plotter-latest-x86_64.AppImage.mirrorlist"
       },
-      "resolved_at": "2026-10-06T00:06:12Z"
+      "resolved_at": "2026-10-06T22:43:36Z"
     },
     {
       "id": "dataset-editor",
@@ -6489,7 +6489,7 @@
         "x86": "https://desktop.datinium.com/Datinium-1.0.6.AppImage",
         "x86_64": "https://desktop.datinium.com/Datinium-1.0.6.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:24Z"
+      "resolved_at": "2026-10-06T22:43:46Z"
     },
     {
       "id": "dawnlightsearch",
@@ -6824,7 +6824,7 @@
         "x86": "https://download.opensuse.org/repositories/home:/in0rdr/AppImage/diary-latest-x86_64.AppImage.mirrorlist",
         "x86_64": "https://download.opensuse.org/repositories/home:/in0rdr/AppImage/diary-latest-x86_64.AppImage.mirrorlist"
       },
-      "resolved_at": "2026-10-06T00:06:11Z"
+      "resolved_at": "2026-10-06T22:43:38Z"
     },
     {
       "id": "dibby_wemo_manager",
@@ -6959,7 +6959,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:25Z"
+      "resolved_at": "2026-10-06T22:43:45Z"
     },
     {
       "id": "doc77",
@@ -7086,7 +7086,7 @@
         "x86": "https://download.opensuse.org/repositories/home:/Alexx2000/AppImage/doublecmd-gtk-latest-x86_64.AppImage.mirrorlist",
         "x86_64": "https://download.opensuse.org/repositories/home:/Alexx2000/AppImage/doublecmd-gtk-latest-x86_64.AppImage.mirrorlist"
       },
-      "resolved_at": "2026-10-06T00:06:14Z"
+      "resolved_at": "2026-10-06T22:43:38Z"
     },
     {
       "id": "douchat",
@@ -7156,7 +7156,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:24Z"
+      "resolved_at": "2026-10-06T22:43:47Z"
     },
     {
       "id": "drawpile",
@@ -7174,7 +7174,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:25Z"
+      "resolved_at": "2026-10-06T22:43:52Z"
     },
     {
       "id": "dream-voicetraining",
@@ -7491,7 +7491,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:44Z"
+      "resolved_at": "2026-10-06T22:44:23Z"
     },
     {
       "id": "easyqueue",
@@ -7567,7 +7567,7 @@
         "x86": "https://eddie.website/download/?platform=linux&arch=x64&ui=ui&format=appimage.AppImage&version=2.21.6&r=0.810006345978554",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:26Z"
+      "resolved_at": "2026-10-06T22:43:53Z"
     },
     {
       "id": "edgeline",
@@ -7617,7 +7617,7 @@
         "x86": "https://sourceforge.net/projects/eiskaltdcpp/files/Linux/devel/AppImageHub/eiskaltdcpp-qt-latest-x86_64.AppImage",
         "x86_64": "https://sourceforge.net/projects/eiskaltdcpp/files/Linux/devel/AppImageHub/eiskaltdcpp-qt-latest-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:27Z"
+      "resolved_at": "2026-10-06T22:43:48Z"
     },
     {
       "id": "eksplode.re",
@@ -7700,7 +7700,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:29Z"
+      "resolved_at": "2026-10-06T22:43:46Z"
     },
     {
       "id": "electrum-nmc",
@@ -7713,7 +7713,7 @@
         "url": "https://appimage.github.io/Electrum-NMC/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://beta.namecoin.org/files/electrum-nmc/electrum-nmc-3.3.6/electrum-nmc-nc3.3.6-x86_64.AppImage",
+      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://beta.namecoin.org/files/electrum-nmc/electrum-nmc-3.3.6/electrum-nmc-nc3.3.6-x86_64.AppImage",
@@ -7722,9 +7722,9 @@
         "riscv64": "https://beta.namecoin.org/files/electrum-nmc/electrum-nmc-3.3.6/electrum-nmc-nc3.3.6-x86_64.AppImage",
         "s390x": "https://beta.namecoin.org/files/electrum-nmc/electrum-nmc-3.3.6/electrum-nmc-nc3.3.6-x86_64.AppImage",
         "x86": "https://beta.namecoin.org/files/electrum-nmc/electrum-nmc-3.3.6/electrum-nmc-nc3.3.6-x86_64.AppImage",
-        "x86_64": "https://beta.namecoin.org/files/electrum-nmc/electrum-nmc-3.3.6/electrum-nmc-nc3.3.6-x86_64.AppImage"
+        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:32Z"
+      "resolved_at": "2026-10-06T22:43:46Z"
     },
     {
       "id": "electrum",
@@ -7739,7 +7739,7 @@
       },
       "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
+        "aarch64": "https://download.electrum.org/3.3.4/electrum-3.3.4-x86_64.AppImage",
         "armv7": "https://download.electrum.org/3.3.4/electrum-3.3.4-x86_64.AppImage",
         "loongarch64": "https://download.electrum.org/3.3.4/electrum-3.3.4-x86_64.AppImage",
         "ppc64le": "https://download.electrum.org/3.3.4/electrum-3.3.4-x86_64.AppImage",
@@ -7748,7 +7748,7 @@
         "x86": "https://download.electrum.org/3.3.4/electrum-3.3.4-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:26Z"
+      "resolved_at": "2026-10-06T22:43:48Z"
     },
     {
       "id": "electrumfair",
@@ -7766,7 +7766,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:56Z"
+      "resolved_at": "2026-10-06T22:44:08Z"
     },
     {
       "id": "electrumrhodium",
@@ -7784,7 +7784,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:49Z"
+      "resolved_at": "2026-10-06T22:44:23Z"
     },
     {
       "id": "elements",
@@ -7828,7 +7828,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:38Z"
+      "resolved_at": "2026-10-06T22:44:34Z"
     },
     {
       "id": "elysian_code",
@@ -7988,7 +7988,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:07:09Z"
+      "resolved_at": "2026-10-06T22:43:56Z"
     },
     {
       "id": "envkey",
@@ -8175,7 +8175,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:33Z"
+      "resolved_at": "2026-10-06T22:44:06Z"
     },
     {
       "id": "excalideck",
@@ -8310,7 +8310,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:07:40Z"
+      "resolved_at": "2026-10-06T22:44:30Z"
     },
     {
       "id": "eyestalker",
@@ -8562,7 +8562,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:32Z"
+      "resolved_at": "2026-10-06T22:44:04Z"
     },
     {
       "id": "fastvibe",
@@ -8677,7 +8677,7 @@
         "x86": "https://webpath.iche2.com/release/FileShows-1.0.1-x86_64.AppImage",
         "x86_64": "https://webpath.iche2.com/release/./ChaBox-1.0.0-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:15:44Z"
+      "resolved_at": "2026-10-06T22:53:35Z"
     },
     {
       "id": "fileterm",
@@ -8929,7 +8929,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:34Z"
+      "resolved_at": "2026-10-06T22:44:13Z"
     },
     {
       "id": "flippy_qualitative_testbench",
@@ -9161,7 +9161,7 @@
         "x86": "https://releases.fontba.se/linux/FontBase-2.7.0.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:34Z"
+      "resolved_at": "2026-10-06T22:44:03Z"
     },
     {
       "id": "fontforge",
@@ -9627,7 +9627,7 @@
         "x86": "https://download.gimp.org/gimp/v3.0/linux/GIMP-3.0.6-x86_64.AppImage",
         "x86_64": "https://download.gimp.org/gimp/v3.2/linux/GIMP-3.2.6-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:28:40Z"
+      "resolved_at": "2026-10-06T23:07:31Z"
     },
     {
       "id": "glimpse",
@@ -9797,7 +9797,7 @@
       },
       "download_url": "https://webpath.iche2.com/release/./ChaBox-1.0.0-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://webpath.iche2.com/release/Gai-1.2.1-x86_64.AppImage",
+        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://webpath.iche2.com/release/Gai-1.2.1-x86_64.AppImage",
         "loongarch64": "https://webpath.iche2.com/release/Gai-1.2.1-x86_64.AppImage",
         "ppc64le": "https://webpath.iche2.com/release/Gai-1.2.1-x86_64.AppImage",
@@ -9806,7 +9806,7 @@
         "x86": "https://webpath.iche2.com/release/Gai-1.2.1-x86_64.AppImage",
         "x86_64": "https://webpath.iche2.com/release/./ChaBox-1.0.0-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:16:32Z"
+      "resolved_at": "2026-10-06T22:54:40Z"
     },
     {
       "id": "gaia_sky",
@@ -9824,7 +9824,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:56Z"
+      "resolved_at": "2026-10-06T22:44:54Z"
     },
     {
       "id": "galacteek",
@@ -9952,7 +9952,7 @@
         "x86": "https://gitlab.com/cipres/gemgemgem/-/releases/continuous-master/downloads/Gemalaya-latest-x86_64.AppImage",
         "x86_64": "https://gitlab.com/cipres/gemgemgem/-/releases/continuous-master/downloads/Gemalaya-latest-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:07:30Z"
+      "resolved_at": "2026-10-06T22:44:49Z"
     },
     {
       "id": "gemini-desktop",
@@ -10058,7 +10058,7 @@
       },
       "download_url": "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-linux64-2.1.0.AppImage",
       "download_urls": {
-        "aarch64": "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-linux64-2.1.0.AppImage",
+        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-linux64-2.1.0.AppImage",
         "loongarch64": "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-linux64-2.1.0.AppImage",
         "ppc64le": "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-linux64-2.1.0.AppImage",
@@ -10067,7 +10067,7 @@
         "x86": "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-linux64-2.1.0.AppImage",
         "x86_64": "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-linux64-2.1.0.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:49Z"
+      "resolved_at": "2026-10-06T22:44:40Z"
     },
     {
       "id": "gerbil",
@@ -10163,7 +10163,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:07:42Z"
+      "resolved_at": "2026-10-06T22:44:40Z"
     },
     {
       "id": "giano_reader",
@@ -10376,7 +10376,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:06:59Z"
+      "resolved_at": "2026-10-06T22:44:45Z"
     },
     {
       "id": "gitteraqt",
@@ -10433,7 +10433,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:07:31Z"
+      "resolved_at": "2026-10-06T22:45:29Z"
     },
     {
       "id": "glimpse-image-editor",
@@ -11217,7 +11217,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://s3.g.s4.mega.io/ramnsiy6jufvtrh6yqf767zcfcowdpl7y5ydl/hexinator/linux/Hexinator-1.13-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:08:18Z"
+      "resolved_at": "2026-10-06T22:47:10Z"
     },
     {
       "id": "hexoclient",
@@ -11430,7 +11430,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:08:09Z"
+      "resolved_at": "2026-10-06T22:45:51Z"
     },
     {
       "id": "hypershell",
@@ -11495,7 +11495,7 @@
         "url": "https://appimage.github.io/Hypnos/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
+      "download_url": "http://hypnosplayer.org/download/beta4/Hypnos-nix-64bit-beta4_2018-11-10_b1.AppImage",
       "download_urls": {
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "http://hypnosplayer.org/download/beta4/Hypnos-nix-64bit-beta4_2018-11-10_b1.AppImage",
@@ -11504,9 +11504,9 @@
         "riscv64": "http://hypnosplayer.org/download/beta4/Hypnos-nix-64bit-beta4_2018-11-10_b1.AppImage",
         "s390x": "http://hypnosplayer.org/download/beta4/Hypnos-nix-64bit-beta4_2018-11-10_b1.AppImage",
         "x86": "http://hypnosplayer.org/download/beta4/Hypnos-nix-64bit-beta4_2018-11-10_b1.AppImage",
-        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
+        "x86_64": "http://hypnosplayer.org/download/beta4/Hypnos-nix-64bit-beta4_2018-11-10_b1.AppImage"
       },
-      "resolved_at": "2026-10-06T00:07:43Z"
+      "resolved_at": "2026-10-06T22:46:06Z"
     },
     {
       "id": "ia-interact",
@@ -11673,7 +11673,7 @@
         "x86": "https://iceworks.oss-cn-hangzhou.aliyuncs.com/linux/Iceworks-x86_64-2.6.0-beta.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:07:32Z"
+      "resolved_at": "2026-10-06T22:46:08Z"
     },
     {
       "id": "illusionagent",
@@ -11879,7 +11879,7 @@
         "x86": "https://download.infra.app/linux/infra-latest.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:07:41Z"
+      "resolved_at": "2026-10-06T22:45:06Z"
     },
     {
       "id": "ingecad",
@@ -11931,14 +11931,10 @@
         "url": "https://appimage.github.io/Inkscape/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://inkscape.org/es/gallery/item/59506/Inkscape-1.4.4.AppImage",
       "download_urls": {
-        "aarch64": "https://inkscape.org/ja/gallery/item/59506/Inkscape-1.4.4.AppImage",
-        "ppc64le": "https://inkscape.org/gallery/item/59506/Inkscape-1.4.4.AppImage",
-        "riscv64": "https://inkscape.org/ar/gallery/item/59506/Inkscape-1.4.4.AppImage",
-        "x86_64": "https://inkscape.org/es/gallery/item/59506/Inkscape-1.4.4.AppImage"
+        "x86": "https://inkscape.org/gallery/item/59506/Inkscape-1.4.4.AppImage"
       },
-      "resolved_at": "2026-10-06T00:12:12Z"
+      "resolved_at": "2026-10-07T02:03:31Z"
     },
     {
       "id": "innerbreeze",
@@ -12177,7 +12173,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/AppImage/appimage.github.io/blob/master/data/JKlubTV-4.0.58-beta-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:08:27Z"
+      "resolved_at": "2026-10-06T22:45:31Z"
     },
     {
       "id": "jklubtv",
@@ -12247,7 +12243,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:09:02Z"
+      "resolved_at": "2026-10-06T22:45:51Z"
     },
     {
       "id": "jackify",
@@ -12544,7 +12540,7 @@
         "x86": "https://s3-eu-central-1.amazonaws.com/ds9-apps/kcalc-master-appimage/kcalc-git20170207-x86_64.AppImage",
         "x86_64": "https://s3-eu-central-1.amazonaws.com/ds9-apps/kcalc-master-appimage/kcalc-git20170207-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:16:26Z"
+      "resolved_at": "2026-10-06T22:54:18Z"
     },
     {
       "id": "kcode",
@@ -12593,7 +12589,7 @@
         "x86": "https://download.opensuse.org/repositories/home:/AndnoVember:/KITScenarist/AppImage/kitscenarist-latest-x86_64.AppImage.mirrorlist",
         "x86_64": "https://download.opensuse.org/repositories/home:/AndnoVember:/KITScenarist/AppImage/kitscenarist-latest-x86_64.AppImage.mirrorlist"
       },
-      "resolved_at": "2026-10-06T00:07:41Z"
+      "resolved_at": "2026-10-06T22:45:07Z"
     },
     {
       "id": "kmcg",
@@ -12669,7 +12665,7 @@
         "x86": "https://invent.kde.org/kde/kaidan/-/jobs/artifacts/master/raw/Kaidan-continuous-x86_64.AppImage?job=linux-appimage",
         "x86_64": "https://invent.kde.org/kde/kaidan/-/jobs/artifacts/master/raw/Kaidan-continuous-x86_64.AppImage?job=linux-appimage"
       },
-      "resolved_at": "2026-10-06T00:12:47Z"
+      "resolved_at": "2026-10-06T22:50:25Z"
     },
     {
       "id": "kanban",
@@ -12765,7 +12761,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:09:15Z"
+      "resolved_at": "2026-10-06T22:47:57Z"
     },
     {
       "id": "kater",
@@ -12835,7 +12831,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://download.kde.org/stable/kdenlive/26.08/linux/kdenlive-26.08.1-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:10:41Z"
+      "resolved_at": "2026-10-06T22:47:50Z"
     },
     {
       "id": "kdevelop",
@@ -12848,7 +12844,7 @@
         "url": "https://appimage.github.io/Kdevelop/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://download.kde.org/stable/kdevelop/5.1.1/bin/linux/KDevelop-5.1.1-x86_64.AppImage",
+      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://download.kde.org/stable/kdevelop/5.1.1/bin/linux/KDevelop-5.1.1-x86_64.AppImage",
@@ -12857,9 +12853,9 @@
         "riscv64": "https://download.kde.org/stable/kdevelop/5.1.1/bin/linux/KDevelop-5.1.1-x86_64.AppImage",
         "s390x": "https://download.kde.org/stable/kdevelop/5.1.1/bin/linux/KDevelop-5.1.1-x86_64.AppImage",
         "x86": "https://download.kde.org/stable/kdevelop/5.1.1/bin/linux/KDevelop-5.1.1-x86_64.AppImage",
-        "x86_64": "https://download.kde.org/stable/kdevelop/5.1.1/bin/linux/KDevelop-5.1.1-x86_64.AppImage"
+        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:08:46Z"
+      "resolved_at": "2026-10-06T22:47:39Z"
     },
     {
       "id": "keepassxc",
@@ -13241,7 +13237,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:10:10Z"
+      "resolved_at": "2026-10-06T22:48:08Z"
     },
     {
       "id": "konsole",
@@ -13343,7 +13339,7 @@
         "x86": "https://kristall.random-projects.net/download/Kristall-nightly-linux-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:09:37Z"
+      "resolved_at": "2026-10-06T22:47:55Z"
     },
     {
       "id": "krita",
@@ -13356,18 +13352,18 @@
         "url": "https://appimage.github.io/Krita/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://download.kde.org/stable/krita/6.0.4/krita-6.0.4-x86_64.AppImage",
+      "download_url": "https://download.kde.org/stable/krita/5.3.4.1/krita-5.3.4.1-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://download.kde.org/stable/krita/4.3.0/krita-4.3.0-x86_64.appimage",
+        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://download.kde.org/stable/krita/4.3.0/krita-4.3.0-x86_64.appimage",
         "loongarch64": "https://download.kde.org/stable/krita/4.3.0/krita-4.3.0-x86_64.appimage",
         "ppc64le": "https://download.kde.org/stable/krita/4.3.0/krita-4.3.0-x86_64.appimage",
         "riscv64": "https://download.kde.org/stable/krita/4.3.0/krita-4.3.0-x86_64.appimage",
         "s390x": "https://download.kde.org/stable/krita/4.3.0/krita-4.3.0-x86_64.appimage",
         "x86": "https://download.kde.org/stable/krita/4.3.0/krita-4.3.0-x86_64.appimage",
-        "x86_64": "https://download.kde.org/stable/krita/6.0.4/krita-6.0.4-x86_64.AppImage"
+        "x86_64": "https://download.kde.org/stable/krita/5.3.4.1/krita-5.3.4.1-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:11:54Z"
+      "resolved_at": "2026-10-06T22:50:58Z"
     },
     {
       "id": "kroneditor",
@@ -13515,7 +13511,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:10:11Z"
+      "resolved_at": "2026-10-06T22:48:58Z"
     },
     {
       "id": "lcedit",
@@ -13572,7 +13568,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:10:54Z"
+      "resolved_at": "2026-10-06T22:49:09Z"
     },
     {
       "id": "lpub3d",
@@ -13616,7 +13612,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:10:40Z"
+      "resolved_at": "2026-10-06T22:49:36Z"
     },
     {
       "id": "lab_ledger",
@@ -13660,7 +13656,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:11:30Z"
+      "resolved_at": "2026-10-06T22:50:23Z"
     },
     {
       "id": "lachesis",
@@ -13743,7 +13739,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:11:22Z"
+      "resolved_at": "2026-10-06T22:50:13Z"
     },
     {
       "id": "latent_library",
@@ -13897,7 +13893,7 @@
         "x86": "https://s3-eu-west-1.amazonaws.com/com-framedlives/lentigram/2.0.1/Lentigram-2.0.1-linux.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:11:14Z"
+      "resolved_at": "2026-10-06T22:49:57Z"
     },
     {
       "id": "leocad",
@@ -13947,7 +13943,7 @@
         "x86": "https://leonflix.net/downloads/Leonflix.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:12:21Z"
+      "resolved_at": "2026-10-06T22:50:11Z"
     },
     {
       "id": "lepton",
@@ -14113,7 +14109,7 @@
         "x86": "https://libreoffice.soluzioniopen.com/stable/standard/LibreOffice-fresh.standard-x86_64.AppImage",
         "x86_64": "https://libreoffice.soluzioniopen.com/stable/standard/LibreOffice-fresh.standard-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:17:34Z"
+      "resolved_at": "2026-10-06T22:57:22Z"
     },
     {
       "id": "libreofficeprerelease",
@@ -14131,7 +14127,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:12:32Z"
+      "resolved_at": "2026-10-06T22:50:54Z"
     },
     {
       "id": "libreofficestill",
@@ -14155,7 +14151,7 @@
         "x86": "https://libreoffice.soluzioniopen.com/stable/standard/LibreOffice-still.standard-x86_64.AppImage",
         "x86_64": "https://libreoffice.soluzioniopen.com/stable/standard/LibreOffice-still.standard-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:18:13Z"
+      "resolved_at": "2026-10-06T22:59:01Z"
     },
     {
       "id": "librepcb-nightly",
@@ -14179,7 +14175,7 @@
         "x86": "https://download.librepcb.org/nightly_builds/master/librepcb-nightly-linux-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:12:17Z"
+      "resolved_at": "2026-10-06T22:52:31Z"
     },
     {
       "id": "librepcb",
@@ -14203,7 +14199,7 @@
         "x86": "https://download.librepcb.org/releases/0.1.1/librepcb-0.1.1-linux-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:12:59Z"
+      "resolved_at": "2026-10-06T22:51:16Z"
     },
     {
       "id": "libresprite",
@@ -14240,7 +14236,7 @@
         "x86": "https://gitlab.com/api/v4/projects/24386000/packages/generic/librewolf/100.0.2-1/LibreWolf.x86_64.AppImage",
         "x86_64": "https://dl.librewolf.net/librewolf/157.0-1/librewolf-157.0-1-linux-x86_64-appimage.AppImage"
       },
-      "resolved_at": "2026-10-06T00:16:45Z"
+      "resolved_at": "2026-10-06T22:54:53Z"
     },
     {
       "id": "light_matter",
@@ -14764,7 +14760,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:14:05Z"
+      "resolved_at": "2026-10-06T22:53:05Z"
     },
     {
       "id": "lunodb",
@@ -14795,7 +14791,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:14:34Z"
+      "resolved_at": "2026-10-06T22:53:18Z"
     },
     {
       "id": "luxclient",
@@ -14938,18 +14934,18 @@
         "url": "https://appimage.github.io/MC_Chunk_Get/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://lateralus138.github.io/MC-Chunk-Get-V2/Linux/compiled/MC_Chunk_Get-x86_64.AppImage",
+      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://lateralus138.github.io/MC-Chunk-Get-V2/Linux/compiled/MC_Chunk_Get-x86_64.AppImage",
+        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://lateralus138.github.io/MC-Chunk-Get-V2/Linux/compiled/MC_Chunk_Get-x86_64.AppImage",
         "loongarch64": "https://lateralus138.github.io/MC-Chunk-Get-V2/Linux/compiled/MC_Chunk_Get-x86_64.AppImage",
         "ppc64le": "https://lateralus138.github.io/MC-Chunk-Get-V2/Linux/compiled/MC_Chunk_Get-x86_64.AppImage",
         "riscv64": "https://lateralus138.github.io/MC-Chunk-Get-V2/Linux/compiled/MC_Chunk_Get-x86_64.AppImage",
         "s390x": "https://lateralus138.github.io/MC-Chunk-Get-V2/Linux/compiled/MC_Chunk_Get-x86_64.AppImage",
         "x86": "https://lateralus138.github.io/MC-Chunk-Get-V2/Linux/compiled/MC_Chunk_Get-x86_64.AppImage",
-        "x86_64": "https://lateralus138.github.io/MC-Chunk-Get-V2/Linux/compiled/MC_Chunk_Get-x86_64.AppImage"
+        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:14:27Z"
+      "resolved_at": "2026-10-06T22:52:33Z"
     },
     {
       "id": "mdl",
@@ -14992,7 +14988,7 @@
       "download_urls": {
         "x86_64": "https://mkvtoolnix.download/appimage/MKVToolNix_GUI-102.0-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:55:57Z"
+      "resolved_at": "2026-10-06T23:36:32Z"
     },
     {
       "id": "mlv-app",
@@ -15205,7 +15201,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:14:44Z"
+      "resolved_at": "2026-10-06T22:53:19Z"
     },
     {
       "id": "make_my_figure",
@@ -15340,7 +15336,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:15:31Z"
+      "resolved_at": "2026-10-06T22:54:59Z"
     },
     {
       "id": "maplateditor",
@@ -15368,7 +15364,7 @@
       },
       "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "http://www.mardy.it/archivos/releases/MapperoGeotagger_1.7-0.AppImage",
+        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "http://www.mardy.it/archivos/releases/MapperoGeotagger_1.7-0.AppImage",
         "loongarch64": "http://www.mardy.it/archivos/releases/MapperoGeotagger_1.7-0.AppImage",
         "ppc64le": "http://www.mardy.it/archivos/releases/MapperoGeotagger_1.7-0.AppImage",
@@ -15377,7 +15373,7 @@
         "x86": "http://www.mardy.it/archivos/releases/MapperoGeotagger_1.7-0.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:15:02Z"
+      "resolved_at": "2026-10-06T22:54:40Z"
     },
     {
       "id": "mapset-verifier",
@@ -15551,7 +15547,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:15:31Z"
+      "resolved_at": "2026-10-06T22:55:01Z"
     },
     {
       "id": "mastervyrn",
@@ -15579,7 +15575,7 @@
       },
       "download_url": "https://github.com/AppImage/appimage.github.io/blob/master/data/Master_PDF_Editor_5.9.90-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://code-industry.net/public/appimage/Master_PDF_Editor_5-x86_64.AppImage",
+        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://code-industry.net/public/appimage/Master_PDF_Editor_5-x86_64.AppImage",
         "loongarch64": "https://code-industry.net/public/appimage/Master_PDF_Editor_5-x86_64.AppImage",
         "ppc64le": "https://code-industry.net/public/appimage/Master_PDF_Editor_5-x86_64.AppImage",
@@ -15588,7 +15584,7 @@
         "x86": "https://code-industry.net/public/appimage/Master_PDF_Editor_5-x86_64.AppImage",
         "x86_64": "https://github.com/AppImage/appimage.github.io/blob/master/data/Master_PDF_Editor_5.9.90-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:16:24Z"
+      "resolved_at": "2026-10-06T22:55:02Z"
     },
     {
       "id": "materialx_playground",
@@ -15755,7 +15751,7 @@
         "x86": "https://mediaarea.net/download/binary/mediaconch-gui/18.03.2/mediaconch-gui-18.03.2.glibc2.4-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:15:52Z"
+      "resolved_at": "2026-10-06T22:54:36Z"
     },
     {
       "id": "mediaelch",
@@ -15792,7 +15788,7 @@
         "x86": "https://mediaarea.net/download/binary/mediainfo-gui/17.12/mediainfo-gui-17.12.glibc2.3-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:16:10Z"
+      "resolved_at": "2026-10-06T22:54:15Z"
     },
     {
       "id": "medialyze",
@@ -15844,18 +15840,18 @@
         "url": "https://appimage.github.io/MediathekView/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
+      "download_url": "https://download.mediathekview.de/stabil/MediathekView-latest-linux.AppImage",
       "download_urls": {
-        "aarch64": "https://download.mediathekview.de/stabil/MediathekView-latest-linux.AppImage",
+        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://download.mediathekview.de/stabil/MediathekView-latest-linux.AppImage",
         "loongarch64": "https://download.mediathekview.de/stabil/MediathekView-latest-linux.AppImage",
         "ppc64le": "https://download.mediathekview.de/stabil/MediathekView-latest-linux.AppImage",
         "riscv64": "https://download.mediathekview.de/stabil/MediathekView-latest-linux.AppImage",
         "s390x": "https://download.mediathekview.de/stabil/MediathekView-latest-linux.AppImage",
         "x86": "https://download.mediathekview.de/stabil/MediathekView-latest-linux.AppImage",
-        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
+        "x86_64": "https://download.mediathekview.de/stabil/MediathekView-latest-linux.AppImage"
       },
-      "resolved_at": "2026-10-06T00:16:13Z"
+      "resolved_at": "2026-10-06T22:55:11Z"
     },
     {
       "id": "medusa_clip",
@@ -16429,7 +16425,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:18:05Z"
+      "resolved_at": "2026-10-06T22:56:34Z"
     },
     {
       "id": "mirage",
@@ -16551,7 +16547,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:17:27Z"
+      "resolved_at": "2026-10-06T22:55:53Z"
     },
     {
       "id": "mockman",
@@ -16764,7 +16760,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:18:14Z"
+      "resolved_at": "2026-10-06T22:57:11Z"
     },
     {
       "id": "moonlight-qt-mic",
@@ -16886,7 +16882,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:18:03Z"
+      "resolved_at": "2026-10-06T22:56:46Z"
     },
     {
       "id": "mt_sync",
@@ -16930,7 +16926,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:17:45Z"
+      "resolved_at": "2026-10-06T22:56:39Z"
     },
     {
       "id": "mudlet",
@@ -16948,7 +16944,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:18:15Z"
+      "resolved_at": "2026-10-06T22:56:31Z"
     },
     {
       "id": "multiclaude",
@@ -17027,7 +17023,7 @@
       },
       "download_url": "https://musescore.org/en/download/musescore-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://musescore.org/en/download/musescore-aarch64.AppImage",
+        "aarch64": "https://cdn.jsdelivr.net/musescore/v3.6/MuseScore-3.6.0.487916429-x86_64.AppImage",
         "armv7": "https://cdn.jsdelivr.net/musescore/v3.6/MuseScore-3.6.0.487916429-x86_64.AppImage",
         "loongarch64": "https://cdn.jsdelivr.net/musescore/v3.6/MuseScore-3.6.0.487916429-x86_64.AppImage",
         "ppc64le": "https://cdn.jsdelivr.net/musescore/v3.6/MuseScore-3.6.0.487916429-x86_64.AppImage",
@@ -17036,7 +17032,7 @@
         "x86": "https://cdn.jsdelivr.net/musescore/v3.6/MuseScore-3.6.0.487916429-x86_64.AppImage",
         "x86_64": "https://musescore.org/en/download/musescore-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:23:45Z"
+      "resolved_at": "2026-10-06T23:05:18Z"
     },
     {
       "id": "museeks",
@@ -17372,7 +17368,7 @@
         "x86": "http://download3.navicat.com/download/navicat15-mysql-en.AppImage",
         "x86_64": "http://download3.navicat.com/download/navicat15-mysql-en.AppImage"
       },
-      "resolved_at": "2026-10-06T00:23:50Z"
+      "resolved_at": "2026-10-06T23:03:47Z"
     },
     {
       "id": "navide",
@@ -17669,7 +17665,7 @@
         "x86": "https://download.nextcloud.com/desktop/releases/Linux/Nextcloud-2.5.1-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:19:43Z"
+      "resolved_at": "2026-10-06T22:58:21Z"
     },
     {
       "id": "nexus_wallet",
@@ -17736,7 +17732,7 @@
       },
       "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
+        "aarch64": "http://serv1cdn.setplex.net/pcapps/nimitv/linux/x64/nimitv-2.1.0-x86_64.AppImage",
         "armv7": "http://serv1cdn.setplex.net/pcapps/nimitv/linux/x64/nimitv-2.1.0-x86_64.AppImage",
         "loongarch64": "http://serv1cdn.setplex.net/pcapps/nimitv/linux/x64/nimitv-2.1.0-x86_64.AppImage",
         "ppc64le": "http://serv1cdn.setplex.net/pcapps/nimitv/linux/x64/nimitv-2.1.0-x86_64.AppImage",
@@ -17745,7 +17741,7 @@
         "x86": "http://serv1cdn.setplex.net/pcapps/nimitv/linux/x64/nimitv-2.1.0-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:18:50Z"
+      "resolved_at": "2026-10-06T22:58:27Z"
     },
     {
       "id": "nine",
@@ -17815,7 +17811,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:19:42Z"
+      "resolved_at": "2026-10-06T22:57:35Z"
     },
     {
       "id": "noter",
@@ -17878,7 +17874,7 @@
         "x86": "https://sourceforge.net/projects/nootka/files/Nootka-2.0.2/nootka-2.0.2-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:21:04Z"
+      "resolved_at": "2026-10-06T23:00:39Z"
     },
     {
       "id": "norago",
@@ -17902,7 +17898,7 @@
         "x86": "http://serv1cdn.setplex.net/pcapps/norago/linux/x64/norago-2.1.2-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:19:52Z"
+      "resolved_at": "2026-10-06T22:58:36Z"
     },
     {
       "id": "normcap",
@@ -18069,7 +18065,7 @@
         "x86": "https://s3.eu-central-1.amazonaws.com/repository.nuclino.com/downloads/Nuclino.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:19:32Z"
+      "resolved_at": "2026-10-06T22:59:22Z"
     },
     {
       "id": "nullchat",
@@ -18113,7 +18109,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:19:22Z"
+      "resolved_at": "2026-10-06T22:58:46Z"
     },
     {
       "id": "ocrmypdf",
@@ -18215,7 +18211,7 @@
         "x86": "http://www.lyndonhill.com/Downloads/OLL-1.0-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:19:14Z"
+      "resolved_at": "2026-10-06T22:58:57Z"
     },
     {
       "id": "ompchamber",
@@ -18324,7 +18320,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:20:28Z"
+      "resolved_at": "2026-10-06T22:59:37Z"
     },
     {
       "id": "ovideo",
@@ -19116,18 +19112,18 @@
         "url": "https://appimage.github.io/OpenSCAD/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://files.openscad.org/OpenSCAD-2019.05-x86_64.AppImage",
+      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
+        "aarch64": "https://files.openscad.org/OpenSCAD-2019.05-x86_64.AppImage",
         "armv7": "https://files.openscad.org/OpenSCAD-2019.05-x86_64.AppImage",
         "loongarch64": "https://files.openscad.org/OpenSCAD-2019.05-x86_64.AppImage",
         "ppc64le": "https://files.openscad.org/OpenSCAD-2019.05-x86_64.AppImage",
         "riscv64": "https://files.openscad.org/OpenSCAD-2019.05-x86_64.AppImage",
         "s390x": "https://files.openscad.org/OpenSCAD-2019.05-x86_64.AppImage",
         "x86": "https://files.openscad.org/OpenSCAD-2019.05-x86_64.AppImage",
-        "x86_64": "https://files.openscad.org/OpenSCAD-2019.05-x86_64.AppImage"
+        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:26:10Z"
+      "resolved_at": "2026-10-06T23:05:23Z"
     },
     {
       "id": "openscp",
@@ -19398,7 +19394,7 @@
         "x86": "https://s3.amazonaws.com/opentrons-app/builds/Opentrons-v3.5.1-linux-b12362.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:21:24Z"
+      "resolved_at": "2026-10-06T23:00:38Z"
     },
     {
       "id": "optees",
@@ -19972,7 +19968,7 @@
       },
       "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
+        "aarch64": "https://sourceforge.net/projects/papagayo-ng/files/stable/1.4.2/PapagayoNG-1.4.2-2017.07.31-65704-linux-64bit.appimage",
         "armv7": "https://sourceforge.net/projects/papagayo-ng/files/stable/1.4.2/PapagayoNG-1.4.2-2017.07.31-65704-linux-64bit.appimage",
         "loongarch64": "https://sourceforge.net/projects/papagayo-ng/files/stable/1.4.2/PapagayoNG-1.4.2-2017.07.31-65704-linux-64bit.appimage",
         "ppc64le": "https://sourceforge.net/projects/papagayo-ng/files/stable/1.4.2/PapagayoNG-1.4.2-2017.07.31-65704-linux-64bit.appimage",
@@ -19981,7 +19977,7 @@
         "x86": "https://sourceforge.net/projects/papagayo-ng/files/stable/1.4.2/PapagayoNG-1.4.2-2017.07.31-65704-linux-64bit.appimage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:20:20Z"
+      "resolved_at": "2026-10-06T23:00:25Z"
     },
     {
       "id": "paper",
@@ -20129,7 +20125,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:20:44Z"
+      "resolved_at": "2026-10-06T23:00:44Z"
     },
     {
       "id": "parson",
@@ -20178,7 +20174,7 @@
         "x86": "https://download.opensuse.org/repositories/home:/mkittler:/appimage/AppImage/passwordmanager-latest-x86_64.AppImage.mirrorlist",
         "x86_64": "https://download.opensuse.org/repositories/home:/mkittler:/appimage/AppImage/passwordmanager-latest-x86_64.AppImage.mirrorlist"
       },
-      "resolved_at": "2026-10-06T00:19:43Z"
+      "resolved_at": "2026-10-06T22:59:01Z"
     },
     {
       "id": "passy",
@@ -20248,7 +20244,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:21:12Z"
+      "resolved_at": "2026-10-06T23:00:38Z"
     },
     {
       "id": "patternpaint",
@@ -20279,7 +20275,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:21:07Z"
+      "resolved_at": "2026-10-06T23:00:34Z"
     },
     {
       "id": "pawse",
@@ -20320,7 +20316,7 @@
       },
       "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://files.peercoin.net/images/Peercoin-x86_64.AppImage.png",
+        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://files.peercoin.net/images/Peercoin-x86_64.AppImage.png",
         "loongarch64": "https://files.peercoin.net/images/Peercoin-x86_64.AppImage.png",
         "ppc64le": "https://files.peercoin.net/images/Peercoin-x86_64.AppImage.png",
@@ -20329,7 +20325,7 @@
         "x86": "https://files.peercoin.net/images/Peercoin-x86_64.AppImage.png",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:22:09Z"
+      "resolved_at": "2026-10-06T23:02:45Z"
     },
     {
       "id": "peerio",
@@ -20405,7 +20401,7 @@
         "x86": "https://download.kde.org/stable/peruse/Peruse-1.2-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:22:05Z"
+      "resolved_at": "2026-10-06T23:02:17Z"
     },
     {
       "id": "pext",
@@ -20507,7 +20503,7 @@
         "x86": "https://photoqt.org/downloads/appimages/PhotoQt-5.0-beta2.AppImage",
         "x86_64": "https://photoqt.org/downloads/appimages/PhotoQt-5.0-beta2.AppImage"
       },
-      "resolved_at": "2026-10-06T00:26:18Z"
+      "resolved_at": "2026-10-06T23:06:10Z"
     },
     {
       "id": "photoquick",
@@ -20544,7 +20540,7 @@
         "x86": "http://phototeleport.com/PhotoTeleport_0.13-0.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:22:25Z"
+      "resolved_at": "2026-10-06T23:02:08Z"
     },
     {
       "id": "photopea",
@@ -20659,7 +20655,7 @@
         "x86": "https://www.picotech.com/download/software/picolog6/sr/picolog-6.2.5-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:22:07Z"
+      "resolved_at": "2026-10-06T23:01:57Z"
     },
     {
       "id": "pikopixel",
@@ -20683,7 +20679,7 @@
         "x86": "http://twilightedge.com/downloads/PikoPixel-1.0_BETA10c-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:22:30Z"
+      "resolved_at": "2026-10-06T23:01:46Z"
     },
     {
       "id": "pikura",
@@ -20883,7 +20879,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:23:22Z"
+      "resolved_at": "2026-10-06T23:02:35Z"
     },
     {
       "id": "play_2048",
@@ -20959,7 +20955,7 @@
         "x86": "https://knapsu.eu/data/plex/Plex_Media_Player_2.58.1-ae73e074_x64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:23:30Z"
+      "resolved_at": "2026-10-06T23:02:26Z"
     },
     {
       "id": "plex_folder_playlist_creator",
@@ -21159,7 +21155,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:23:41Z"
+      "resolved_at": "2026-10-06T23:03:25Z"
     },
     {
       "id": "pomodoro",
@@ -21190,7 +21186,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:23:10Z"
+      "resolved_at": "2026-10-06T23:02:53Z"
     },
     {
       "id": "pool",
@@ -21331,7 +21327,7 @@
         "x86": "https://www.posnet.com.pl/files/download/posnet-ops-11.29.70.appimage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:23:04Z"
+      "resolved_at": "2026-10-06T23:02:53Z"
     },
     {
       "id": "postgly",
@@ -21498,7 +21494,7 @@
         "x86": "https://customautosys.com/proquaere/download/ProQuaere-2.0.13.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:23:15Z"
+      "resolved_at": "2026-10-06T23:03:56Z"
     },
     {
       "id": "procdepmonitor",
@@ -21724,7 +21720,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:24:07Z"
+      "resolved_at": "2026-10-06T23:03:49Z"
     },
     {
       "id": "psi",
@@ -21748,7 +21744,7 @@
         "x86": "https://sourceforge.net/projects/psiplus/files/Linux/tehnick/AppImageHub/Psi%2B-latest-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:24:54Z"
+      "resolved_at": "2026-10-06T23:04:43Z"
     },
     {
       "id": "pubman",
@@ -21828,7 +21824,7 @@
       },
       "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-beta-40.0.0-beta.464/Pulse-40.0.0-beta.464.AppImage",
+        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-beta-40.0.0-beta.464/Pulse-40.0.0-beta.464.AppImage",
         "loongarch64": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-beta-40.0.0-beta.464/Pulse-40.0.0-beta.464.AppImage",
         "ppc64le": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-beta-40.0.0-beta.464/Pulse-40.0.0-beta.464.AppImage",
@@ -21837,7 +21833,7 @@
         "x86": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-beta-40.0.0-beta.464/Pulse-40.0.0-beta.464.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:24:20Z"
+      "resolved_at": "2026-10-06T23:03:43Z"
     },
     {
       "id": "pulsern",
@@ -21900,7 +21896,7 @@
         "x86": "https://www.pureref.com/files/build.php?build=LINUX64.Appimage&version=1.11.1&downloadKey=KSb/e8dSXWiP5BL3oWfhng==",
         "x86_64": "https://www.pureref.com/files/build.php?build=LINUX64.Appimage&version=1.11.1&downloadKey=KSb/e8dSXWiP5BL3oWfhng=="
       },
-      "resolved_at": "2026-10-06T00:27:54Z"
+      "resolved_at": "2026-10-06T23:07:10Z"
     },
     {
       "id": "purevox",
@@ -21993,7 +21989,7 @@
       },
       "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://mediaarea.net/download/binary/qctools/1.0/qctools-1.0.glibc2.7-x86_64.AppImage",
+        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://mediaarea.net/download/binary/qctools/1.0/qctools-1.0.glibc2.7-x86_64.AppImage",
         "loongarch64": "https://mediaarea.net/download/binary/qctools/1.0/qctools-1.0.glibc2.7-x86_64.AppImage",
         "ppc64le": "https://mediaarea.net/download/binary/qctools/1.0/qctools-1.0.glibc2.7-x86_64.AppImage",
@@ -22002,7 +21998,7 @@
         "x86": "https://mediaarea.net/download/binary/qctools/1.0/qctools-1.0.glibc2.7-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:23:47Z"
+      "resolved_at": "2026-10-06T23:04:13Z"
     },
     {
       "id": "qcalc",
@@ -22072,7 +22068,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:25:27Z"
+      "resolved_at": "2026-10-06T23:04:17Z"
     },
     {
       "id": "qhot",
@@ -22103,7 +22099,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:24:28Z"
+      "resolved_at": "2026-10-06T23:04:17Z"
     },
     {
       "id": "qmplay2",
@@ -22165,7 +22161,7 @@
         "x86": "https://download.opensuse.org/repositories/home:/pbek:/QOwnNotes/AppImage/QOwnNotes-latest-x86_64.AppImage.mirrorlist",
         "x86_64": "https://download.opensuse.org/repositories/home:/pbek:/QOwnNotes/AppImage/QOwnNotes-latest-x86_64.AppImage.mirrorlist"
       },
-      "resolved_at": "2026-10-06T00:23:31Z"
+      "resolved_at": "2026-10-06T23:03:26Z"
     },
     {
       "id": "qplayer",
@@ -22209,7 +22205,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:25:07Z"
+      "resolved_at": "2026-10-06T23:05:06Z"
     },
     {
       "id": "qq_music",
@@ -22233,7 +22229,7 @@
         "x86": "https://dldir1.qq.com/music/clntupate/linux/AppImage/qqmusic-1.1.3.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:25:02Z"
+      "resolved_at": "2026-10-06T23:04:57Z"
     },
     {
       "id": "qtalarm",
@@ -22269,7 +22265,7 @@
         "x86": "https://download.opensuse.org/repositories/home:/jaimeMF:/qtaskwarrior/AppImage/qtaskwarrior-latest-x86_64.AppImage.mirrorlist",
         "x86_64": "https://download.opensuse.org/repositories/home:/jaimeMF:/qtaskwarrior/AppImage/qtaskwarrior-latest-x86_64.AppImage.mirrorlist"
       },
-      "resolved_at": "2026-10-06T00:24:17Z"
+      "resolved_at": "2026-10-06T23:03:47Z"
     },
     {
       "id": "qteletextmaker",
@@ -22331,7 +22327,7 @@
         "x86": "https://download.opensuse.org/repositories/home:/rncbc/AppImage/qxgedit-latest-x86_64.AppImage.mirrorlist",
         "x86_64": "https://download.opensuse.org/repositories/home:/rncbc/AppImage/qxgedit-latest-x86_64.AppImage.mirrorlist"
       },
-      "resolved_at": "2026-10-06T00:23:47Z"
+      "resolved_at": "2026-10-06T23:03:47Z"
     },
     {
       "id": "qaterialgallery",
@@ -22419,7 +22415,7 @@
         "x86": "https://download.opensuse.org/repositories/home:/rncbc/AppImage/qmidictl-latest-x86_64.AppImage.mirrorlist",
         "x86_64": "https://download.opensuse.org/repositories/home:/rncbc/AppImage/qmidictl-latest-x86_64.AppImage.mirrorlist"
       },
-      "resolved_at": "2026-10-06T00:24:17Z"
+      "resolved_at": "2026-10-06T23:04:12Z"
     },
     {
       "id": "qmidinet",
@@ -22442,7 +22438,7 @@
         "x86": "https://download.opensuse.org/repositories/home:/rncbc/AppImage/qmidinet-latest-x86_64.AppImage.mirrorlist",
         "x86_64": "https://download.opensuse.org/repositories/home:/rncbc/AppImage/qmidinet-latest-x86_64.AppImage.mirrorlist"
       },
-      "resolved_at": "2026-10-06T00:24:17Z"
+      "resolved_at": "2026-10-06T23:04:14Z"
     },
     {
       "id": "qortal_ui",
@@ -22517,7 +22513,7 @@
         "x86": "https://download.opensuse.org/repositories/home:/ppisa/AppImage/QtMips-latest-x86_64.AppImage.mirrorlist",
         "x86_64": "https://download.opensuse.org/repositories/home:/ppisa/AppImage/QtMips-latest-x86_64.AppImage.mirrorlist"
       },
-      "resolved_at": "2026-10-06T00:24:07Z"
+      "resolved_at": "2026-10-06T23:03:57Z"
     },
     {
       "id": "qt_dab",
@@ -22587,7 +22583,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:25:44Z"
+      "resolved_at": "2026-10-06T23:05:40Z"
     },
     {
       "id": "qucs-s",
@@ -22644,7 +22640,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:25:56Z"
+      "resolved_at": "2026-10-06T23:05:27Z"
     },
     {
       "id": "quickredis",
@@ -22735,7 +22731,7 @@
         "url": "https://appimage.github.io/Quixel_Bridge/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
+      "download_url": "https://d2shgxa8i058x8.cloudfront.net/bridge/linux/Bridge.AppImage",
       "download_urls": {
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://d2shgxa8i058x8.cloudfront.net/bridge/linux/Bridge.AppImage",
@@ -22744,9 +22740,9 @@
         "riscv64": "https://d2shgxa8i058x8.cloudfront.net/bridge/linux/Bridge.AppImage",
         "s390x": "https://d2shgxa8i058x8.cloudfront.net/bridge/linux/Bridge.AppImage",
         "x86": "https://d2shgxa8i058x8.cloudfront.net/bridge/linux/Bridge.AppImage",
-        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
+        "x86_64": "https://d2shgxa8i058x8.cloudfront.net/bridge/linux/Bridge.AppImage"
       },
-      "resolved_at": "2026-10-06T00:25:40Z"
+      "resolved_at": "2026-10-06T23:05:23Z"
     },
     {
       "id": "quotabar",
@@ -22837,18 +22833,18 @@
         "url": "https://appimage.github.io/RIFT_Intel_Fusion_Tool/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://riftforeve.online/download/appimage/RIFT_Intel_Fusion_Tool-6.0.0.AppImage",
+      "download_url": "https://riftforeve.online/download/appimage/RIFT_Intel_Fusion_Tool.AppImage",
       "download_urls": {
         "aarch64": "https://riftforeve.online/download/appimage/RIFT_Intel_Fusion_Tool.AppImage",
-        "armv7": "https://riftforeve.online/download/appimage/RIFT_Intel_Fusion_Tool.AppImage",
-        "loongarch64": "https://riftforeve.online/download/appimage/RIFT_Intel_Fusion_Tool.AppImage",
+        "armv7": "https://riftforeve.online/download/appimage/RIFT_Intel_Fusion_Tool-6.0.0.AppImage",
+        "loongarch64": "https://riftforeve.online/download/appimage/RIFT_Intel_Fusion_Tool-6.0.0.AppImage",
         "ppc64le": "https://riftforeve.online/download/appimage/RIFT_Intel_Fusion_Tool.AppImage",
         "riscv64": "https://riftforeve.online/download/appimage/RIFT_Intel_Fusion_Tool-6.0.0.AppImage",
-        "s390x": "https://riftforeve.online/download/appimage/RIFT_Intel_Fusion_Tool-6.0.0.AppImage",
-        "x86": "https://riftforeve.online/download/appimage/RIFT_Intel_Fusion_Tool-6.0.0.AppImage",
-        "x86_64": "https://riftforeve.online/download/appimage/RIFT_Intel_Fusion_Tool-6.0.0.AppImage"
+        "s390x": "https://riftforeve.online/download/appimage/RIFT_Intel_Fusion_Tool.AppImage",
+        "x86": "https://riftforeve.online/download/appimage/RIFT_Intel_Fusion_Tool.AppImage",
+        "x86_64": "https://riftforeve.online/download/appimage/RIFT_Intel_Fusion_Tool.AppImage"
       },
-      "resolved_at": "2026-10-06T00:26:26Z"
+      "resolved_at": "2026-10-06T23:06:09Z"
     },
     {
       "id": "rkdeveloptool-gui",
@@ -22879,7 +22875,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:25:47Z"
+      "resolved_at": "2026-10-06T23:06:34Z"
     },
     {
       "id": "rleapp",
@@ -22936,7 +22932,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:25:44Z"
+      "resolved_at": "2026-10-06T23:05:33Z"
     },
     {
       "id": "rsprox",
@@ -23246,7 +23242,7 @@
         "x86": "https://rawtherapee.com/shared/builds/linux/RawTherapee_5.12_release.AppImage",
         "x86_64": "https://github.com/RawTherapee/RawTherapee/releases/download/5.13/RawTherapee_5.13_x86_64_release.AppImage"
       },
-      "resolved_at": "2026-10-06T00:27:42Z"
+      "resolved_at": "2026-10-06T23:06:58Z"
     },
     {
       "id": "ray",
@@ -23264,7 +23260,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:26:29Z"
+      "resolved_at": "2026-10-06T23:06:02Z"
     },
     {
       "id": "reshade",
@@ -23334,7 +23330,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:26:26Z"
+      "resolved_at": "2026-10-06T23:06:19Z"
     },
     {
       "id": "rebaslight",
@@ -23391,7 +23387,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:26:23Z"
+      "resolved_at": "2026-10-06T23:05:52Z"
     },
     {
       "id": "red_eclipse-development",
@@ -23409,7 +23405,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:26:39Z"
+      "resolved_at": "2026-10-06T23:06:39Z"
     },
     {
       "id": "redict",
@@ -23448,7 +23444,7 @@
         "url": "https://appimage.github.io/RefOrg/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
+      "download_url": "http://www.lyndonhill.com/Downloads/RefOrg-1.1-x86_64.AppImage",
       "download_urls": {
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "http://www.lyndonhill.com/Downloads/RefOrg-1.1-x86_64.AppImage",
@@ -23457,9 +23453,9 @@
         "riscv64": "http://www.lyndonhill.com/Downloads/RefOrg-1.1-x86_64.AppImage",
         "s390x": "http://www.lyndonhill.com/Downloads/RefOrg-1.1-x86_64.AppImage",
         "x86": "http://www.lyndonhill.com/Downloads/RefOrg-1.1-x86_64.AppImage",
-        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
+        "x86_64": "http://www.lyndonhill.com/Downloads/RefOrg-1.1-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:26:35Z"
+      "resolved_at": "2026-10-06T23:06:28Z"
     },
     {
       "id": "reframe",
@@ -23542,7 +23538,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:26:25Z"
+      "resolved_at": "2026-10-06T23:06:46Z"
     },
     {
       "id": "requesto",
@@ -23729,7 +23725,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:26:44Z"
+      "resolved_at": "2026-10-06T23:06:31Z"
     },
     {
       "id": "rexpo_debugger",
@@ -23786,7 +23782,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:26:45Z"
+      "resolved_at": "2026-10-06T23:06:23Z"
     },
     {
       "id": "rigcontrol_web",
@@ -23838,7 +23834,7 @@
         "url": "https://appimage.github.io/Ripcord/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
+      "download_url": "https://cancel.fm/dl/Ripcord-0.3.12-x86_64.AppImage",
       "download_urls": {
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://cancel.fm/dl/Ripcord-0.3.12-x86_64.AppImage",
@@ -23847,9 +23843,9 @@
         "riscv64": "https://cancel.fm/dl/Ripcord-0.3.12-x86_64.AppImage",
         "s390x": "https://cancel.fm/dl/Ripcord-0.3.12-x86_64.AppImage",
         "x86": "https://cancel.fm/dl/Ripcord-0.3.12-x86_64.AppImage",
-        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
+        "x86_64": "https://cancel.fm/dl/Ripcord-0.3.12-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:26:34Z"
+      "resolved_at": "2026-10-06T23:06:22Z"
     },
     {
       "id": "ripes",
@@ -23925,7 +23921,7 @@
         "x86": "https://scdn.rokkr.net/desktop/linux/Rokkr-1.8.3.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:26:42Z"
+      "resolved_at": "2026-10-06T23:06:30Z"
     },
     {
       "id": "rolisteam",
@@ -23949,7 +23945,7 @@
         "x86": "http://sourceforge.net/projects/rolisteam/files/1.9.0/Rolisteam_v1.9.0-x86_64.AppImage/download",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:27:33Z"
+      "resolved_at": "2026-10-06T23:07:02Z"
     },
     {
       "id": "rollfilm",
@@ -24042,7 +24038,7 @@
       },
       "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://rubberbandaudio.com/files/RubberBandAudioDemo-2.0.1.1-x86_64.AppImage",
+        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://rubberbandaudio.com/files/RubberBandAudioDemo-2.0.1.1-x86_64.AppImage",
         "loongarch64": "https://rubberbandaudio.com/files/RubberBandAudioDemo-2.0.1.1-x86_64.AppImage",
         "ppc64le": "https://rubberbandaudio.com/files/RubberBandAudioDemo-2.0.1.1-x86_64.AppImage",
@@ -24051,7 +24047,7 @@
         "x86": "https://rubberbandaudio.com/files/RubberBandAudioDemo-2.0.1.1-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:26:53Z"
+      "resolved_at": "2026-10-06T23:06:48Z"
     },
     {
       "id": "rubick",
@@ -24607,7 +24603,7 @@
         "x86": "https://sayonara-player.com/files/appimage/sayonara-1.12.0-stable1-gf9cd12c2.AppImage",
         "x86_64": "https://sayonara-player.com/files/appimage/sayonara-1.12.0-stable1-gf9cd12c2.AppImage"
       },
-      "resolved_at": "2026-10-06T00:27:39Z"
+      "resolved_at": "2026-10-06T23:07:09Z"
     },
     {
       "id": "scanthesis",
@@ -24722,7 +24718,7 @@
         "x86": "https://scintillator-synth-coverage.s3-us-west-1.amazonaws.com/builds/scinsynth-63f9b53d7a8fe381b7b2e4db79c23f3c2ae6c8df-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:27:35Z"
+      "resolved_at": "2026-10-06T23:07:05Z"
     },
     {
       "id": "scope_launcher",
@@ -24753,7 +24749,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:27:22Z"
+      "resolved_at": "2026-10-06T23:07:07Z"
     },
     {
       "id": "scraper",
@@ -24823,7 +24819,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:28:37Z"
+      "resolved_at": "2026-10-06T23:09:25Z"
     },
     {
       "id": "scrite",
@@ -24841,7 +24837,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:27:33Z"
+      "resolved_at": "2026-10-06T23:07:07Z"
     },
     {
       "id": "scrum-retroboard",
@@ -24976,7 +24972,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:27:43Z"
+      "resolved_at": "2026-10-06T23:07:39Z"
     },
     {
       "id": "serialport_assistant",
@@ -25104,7 +25100,7 @@
         "x86": "https://update.shadow.tech/launcher/prod/linux/ubuntu_18.04/Shadow.AppImage",
         "x86_64": "https://update.shadow.tech/launcher/prod/linux/ubuntu_18.04/Shadow.AppImage"
       },
-      "resolved_at": "2026-10-06T00:27:38Z"
+      "resolved_at": "2026-10-06T23:08:08Z"
     },
     {
       "id": "shadowsocks",
@@ -25278,7 +25274,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:27:30Z"
+      "resolved_at": "2026-10-06T23:07:28Z"
     },
     {
       "id": "siderus_orion",
@@ -25296,7 +25292,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:27:30Z"
+      "resolved_at": "2026-10-06T23:07:38Z"
     },
     {
       "id": "sigdigger",
@@ -25333,7 +25329,7 @@
         "x86": "https://s3-us-west-2.amazonaws.com/lite.sigecloud.com.br/Installers/SIGE+Lite.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:27:59Z"
+      "resolved_at": "2026-10-06T23:07:50Z"
     },
     {
       "id": "sightings",
@@ -25396,7 +25392,7 @@
         "x86": "https://updates.signal.org/desktop/signal-desktop-beta_7.82.0-beta.1_x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:27:52Z"
+      "resolved_at": "2026-10-06T23:07:45Z"
     },
     {
       "id": "signature-one",
@@ -25489,7 +25485,7 @@
       },
       "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
+        "aarch64": "https://www2.informatik.hu-berlin.de/~naoth/ressources/simulator/Simspark_v0.7.0-naoth-3.AppImage",
         "armv7": "https://www2.informatik.hu-berlin.de/~naoth/ressources/simulator/Simspark_v0.7.0-naoth-3.AppImage",
         "loongarch64": "https://www2.informatik.hu-berlin.de/~naoth/ressources/simulator/Simspark_v0.7.0-naoth-3.AppImage",
         "ppc64le": "https://www2.informatik.hu-berlin.de/~naoth/ressources/simulator/Simspark_v0.7.0-naoth-3.AppImage",
@@ -25498,7 +25494,7 @@
         "x86": "https://www2.informatik.hu-berlin.de/~naoth/ressources/simulator/Simspark_v0.7.0-naoth-3.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:28:00Z"
+      "resolved_at": "2026-10-06T23:07:52Z"
     },
     {
       "id": "simtradedesk",
@@ -25630,7 +25626,7 @@
       },
       "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
+        "aarch64": "https://sourceforge.net/projects/simulide/files/SimulIDE_0.2.8/SimulIDE_0.2.8-SR1-Lin64.AppImage/download",
         "armv7": "https://sourceforge.net/projects/simulide/files/SimulIDE_0.2.8/SimulIDE_0.2.8-SR1-Lin64.AppImage/download",
         "loongarch64": "https://sourceforge.net/projects/simulide/files/SimulIDE_0.2.8/SimulIDE_0.2.8-SR1-Lin64.AppImage/download",
         "ppc64le": "https://sourceforge.net/projects/simulide/files/SimulIDE_0.2.8/SimulIDE_0.2.8-SR1-Lin64.AppImage/download",
@@ -25639,7 +25635,7 @@
         "x86": "https://sourceforge.net/projects/simulide/files/SimulIDE_0.2.8/SimulIDE_0.2.8-SR1-Lin64.AppImage/download",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:28:23Z"
+      "resolved_at": "2026-10-06T23:08:02Z"
     },
     {
       "id": "singlebox",
@@ -25689,7 +25685,7 @@
         "x86": "https://free-astro.org/download/Siril-1.4.4-x86_64.AppImage",
         "x86_64": "https://free-astro.org/download/Siril-1.4.4-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:40:59Z"
+      "resolved_at": "2026-10-06T23:22:38Z"
     },
     {
       "id": "skales",
@@ -25720,7 +25716,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:28:04Z"
+      "resolved_at": "2026-10-06T23:08:18Z"
     },
     {
       "id": "skerryssh",
@@ -25855,7 +25851,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:28:39Z"
+      "resolved_at": "2026-10-06T23:08:21Z"
     },
     {
       "id": "skyscraper",
@@ -26055,7 +26051,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:28:09Z"
+      "resolved_at": "2026-10-06T23:08:25Z"
     },
     {
       "id": "snakie",
@@ -26242,7 +26238,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:28:37Z"
+      "resolved_at": "2026-10-06T23:08:42Z"
     },
     {
       "id": "sonicvisualiser",
@@ -26260,7 +26256,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:28:55Z"
+      "resolved_at": "2026-10-06T23:08:46Z"
     },
     {
       "id": "sonist",
@@ -26498,7 +26494,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:28:38Z"
+      "resolved_at": "2026-10-06T23:09:00Z"
     },
     {
       "id": "sprocket",
@@ -26561,7 +26557,7 @@
         "x86": "https://bin.extensis.com/squishpic/squishpic-1.0.5116-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:28:24Z"
+      "resolved_at": "2026-10-06T23:09:15Z"
     },
     {
       "id": "stacer",
@@ -26644,7 +26640,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:28:47Z"
+      "resolved_at": "2026-10-06T23:08:43Z"
     },
     {
       "id": "starbase",
@@ -26714,7 +26710,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:29:22Z"
+      "resolved_at": "2026-10-06T23:08:38Z"
     },
     {
       "id": "statsbook_tool",
@@ -26745,7 +26741,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:29:01Z"
+      "resolved_at": "2026-10-06T23:08:47Z"
     },
     {
       "id": "statuspilatus",
@@ -26886,7 +26882,7 @@
         "x86": "https://releases.stello.news/electron/stello.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:29:10Z"
+      "resolved_at": "2026-10-06T23:08:53Z"
     },
     {
       "id": "stem",
@@ -27254,7 +27250,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:29:08Z"
+      "resolved_at": "2026-10-06T23:09:42Z"
     },
     {
       "id": "sultanpos",
@@ -27337,7 +27333,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:29:35Z"
+      "resolved_at": "2026-10-06T23:09:31Z"
     },
     {
       "id": "supernova_editor",
@@ -27446,7 +27442,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:30:01Z"
+      "resolved_at": "2026-10-06T23:10:23Z"
     },
     {
       "id": "swiftnessx",
@@ -27586,7 +27582,7 @@
         "x86": "https://download.opensuse.org/repositories/home:/mkittler:/appimage/AppImage/syncthingtray-latest-x86_64.AppImage.mirrorlist",
         "x86_64": "https://download.opensuse.org/repositories/home:/mkittler:/appimage/AppImage/syncthingtray-latest-x86_64.AppImage.mirrorlist"
       },
-      "resolved_at": "2026-10-06T00:28:39Z"
+      "resolved_at": "2026-10-06T23:08:42Z"
     },
     {
       "id": "synfigstudio",
@@ -27721,7 +27717,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:30:01Z"
+      "resolved_at": "2026-10-06T23:09:41Z"
     },
     {
       "id": "tfstudio",
@@ -27773,18 +27769,18 @@
         "url": "https://appimage.github.io/TRuDI/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "http://www.ivu-software.de/apps/TRuDI/TRuDI-1.1.0-x86_64.AppImage",
+      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "http://www.ivu-software.de/apps/TRuDI/TRuDI-1.1.0-x86_64.AppImage",
+        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "http://www.ivu-software.de/apps/TRuDI/TRuDI-1.1.0-x86_64.AppImage",
         "loongarch64": "http://www.ivu-software.de/apps/TRuDI/TRuDI-1.1.0-x86_64.AppImage",
         "ppc64le": "http://www.ivu-software.de/apps/TRuDI/TRuDI-1.1.0-x86_64.AppImage",
         "riscv64": "http://www.ivu-software.de/apps/TRuDI/TRuDI-1.1.0-x86_64.AppImage",
         "s390x": "http://www.ivu-software.de/apps/TRuDI/TRuDI-1.1.0-x86_64.AppImage",
         "x86": "http://www.ivu-software.de/apps/TRuDI/TRuDI-1.1.0-x86_64.AppImage",
-        "x86_64": "http://www.ivu-software.de/apps/TRuDI/TRuDI-1.1.0-x86_64.AppImage"
+        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:30:02Z"
+      "resolved_at": "2026-10-06T23:10:07Z"
     },
     {
       "id": "tvalb",
@@ -27802,7 +27798,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:29:29Z"
+      "resolved_at": "2026-10-06T23:10:20Z"
     },
     {
       "id": "tablo_tools",
@@ -27833,7 +27829,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:29:36Z"
+      "resolved_at": "2026-10-06T23:09:49Z"
     },
     {
       "id": "tagspaces",
@@ -27851,7 +27847,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:30:03Z"
+      "resolved_at": "2026-10-06T23:10:11Z"
     },
     {
       "id": "tagtime-desktop",
@@ -27887,7 +27883,7 @@
         "x86": "https://download.opensuse.org/repositories/home:/mkittler:/appimage/AppImage/tageditor-latest-x86_64.AppImage.mirrorlist",
         "x86_64": "https://download.opensuse.org/repositories/home:/mkittler:/appimage/AppImage/tageditor-latest-x86_64.AppImage.mirrorlist"
       },
-      "resolved_at": "2026-10-06T00:29:02Z"
+      "resolved_at": "2026-10-06T23:09:00Z"
     },
     {
       "id": "tagstoo",
@@ -27905,7 +27901,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:29:55Z"
+      "resolved_at": "2026-10-06T23:10:13Z"
     },
     {
       "id": "tanzo",
@@ -27968,7 +27964,7 @@
         "x86": "https://tmog.org/rtm/downloads/TaskManagerOG-1.0.0-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:29:58Z"
+      "resolved_at": "2026-10-06T23:10:11Z"
     },
     {
       "id": "taskizer",
@@ -28064,7 +28060,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:30:06Z"
+      "resolved_at": "2026-10-06T23:10:27Z"
     },
     {
       "id": "teledrive",
@@ -28263,7 +28259,7 @@
       "download_urls": {
         "x86_64": "https://github.com/martinrotter/textosaurus/releases/download/0.9.13/textosaurus-0.9.13-9cb7064-linux64.AppImage"
       },
-      "resolved_at": "2026-10-06T02:03:08Z"
+      "resolved_at": "2026-10-06T23:10:41Z"
     },
     {
       "id": "thecloudportal_signage_client",
@@ -28281,7 +28277,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:30:19Z"
+      "resolved_at": "2026-10-06T23:10:24Z"
     },
     {
       "id": "themagi",
@@ -28364,7 +28360,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:30:40Z"
+      "resolved_at": "2026-10-06T23:10:50Z"
     },
     {
       "id": "thorium_reader",
@@ -28551,7 +28547,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:30:18Z"
+      "resolved_at": "2026-10-06T23:10:57Z"
     },
     {
       "id": "tobe",
@@ -30077,7 +30073,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:30:34Z"
+      "resolved_at": "2026-10-06T23:10:50Z"
     },
     {
       "id": "visigit",
@@ -30121,7 +30117,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:30:43Z"
+      "resolved_at": "2026-10-06T23:10:52Z"
     },
     {
       "id": "vitaeum_ac",
@@ -30256,7 +30252,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:30:30Z"
+      "resolved_at": "2026-10-06T23:10:46Z"
     },
     {
       "id": "vorn",
@@ -30313,7 +30309,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:30:34Z"
+      "resolved_at": "2026-10-06T23:10:50Z"
     },
     {
       "id": "vusic",
@@ -30331,7 +30327,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:31:03Z"
+      "resolved_at": "2026-10-06T23:11:16Z"
     },
     {
       "id": "vyact",
@@ -30362,7 +30358,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:30:57Z"
+      "resolved_at": "2026-10-06T23:10:55Z"
     },
     {
       "id": "wfhelper",
@@ -30502,7 +30498,7 @@
         "x86": "https://download.opensuse.org/repositories/home:/hawkeye116477:/waterfox/AppImage/waterfox-classic-latest-x86_64.AppImage.mirrorlist",
         "x86_64": "https://download.opensuse.org/repositories/home:/hawkeye116477:/waterfox/AppImage/waterfox-classic-latest-x86_64.AppImage.mirrorlist"
       },
-      "resolved_at": "2026-10-06T00:30:19Z"
+      "resolved_at": "2026-10-06T23:10:24Z"
     },
     {
       "id": "waterfox_current",
@@ -30525,7 +30521,7 @@
         "x86": "https://download.opensuse.org/repositories/home:/hawkeye116477:/waterfox/AppImage/waterfox-g-latest-x86_64.AppImage.mirrorlist",
         "x86_64": "https://download.opensuse.org/repositories/home:/hawkeye116477:/waterfox/AppImage/waterfox-g-latest-x86_64.AppImage.mirrorlist"
       },
-      "resolved_at": "2026-10-06T00:30:22Z"
+      "resolved_at": "2026-10-06T23:10:41Z"
     },
     {
       "id": "wavescope",
@@ -30569,7 +30565,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:31:27Z"
+      "resolved_at": "2026-10-06T23:11:18Z"
     },
     {
       "id": "waypaper-engine",
@@ -30673,18 +30669,18 @@
         "url": "https://appimage.github.io/Webitel_Phone/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
+      "download_url": "http://phone.webitel.com/builds/webitel-phone-alpha_linux.AppImage",
       "download_urls": {
-        "aarch64": "http://phone.webitel.com/builds/webitel-phone-alpha_linux.AppImage",
+        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "http://phone.webitel.com/builds/webitel-phone-alpha_linux.AppImage",
         "loongarch64": "http://phone.webitel.com/builds/webitel-phone-alpha_linux.AppImage",
         "ppc64le": "http://phone.webitel.com/builds/webitel-phone-alpha_linux.AppImage",
         "riscv64": "http://phone.webitel.com/builds/webitel-phone-alpha_linux.AppImage",
         "s390x": "http://phone.webitel.com/builds/webitel-phone-alpha_linux.AppImage",
         "x86": "http://phone.webitel.com/builds/webitel-phone-alpha_linux.AppImage",
-        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
+        "x86_64": "http://phone.webitel.com/builds/webitel-phone-alpha_linux.AppImage"
       },
-      "resolved_at": "2026-10-06T00:30:50Z"
+      "resolved_at": "2026-10-06T23:11:21Z"
     },
     {
       "id": "wexond",
@@ -30773,7 +30769,7 @@
         "x86": "https://www.budbrain.de/appimage/wheredidmystoragego-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:30:53Z"
+      "resolved_at": "2026-10-06T23:11:27Z"
     },
     {
       "id": "whisper_desktop",
@@ -30856,7 +30852,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:31:03Z"
+      "resolved_at": "2026-10-06T23:11:23Z"
     },
     {
       "id": "wireboi",
@@ -30978,7 +30974,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:31:32Z"
+      "resolved_at": "2026-10-06T23:11:43Z"
     },
     {
       "id": "woke",
@@ -31184,7 +31180,7 @@
         "x86": "https://pilotfiber.dl.sourceforge.net/project/xmedcon/XMedCon-AppImage/0.21.2/XMedCon-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:31:06Z"
+      "resolved_at": "2026-10-06T23:11:31Z"
     },
     {
       "id": "xpeviewer",
@@ -31241,7 +31237,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:31:29Z"
+      "resolved_at": "2026-10-06T23:11:57Z"
     },
     {
       "id": "xtomarkdown",
@@ -31590,7 +31586,7 @@
         "x86": "https://developers.yubico.com/yubikey-manager-qt/Releases/yubikey-manager-qt-1.1.0-linux.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:31:18Z"
+      "resolved_at": "2026-10-06T23:11:31Z"
     },
     {
       "id": "zcode-ce",
@@ -31764,7 +31760,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:31:28Z"
+      "resolved_at": "2026-10-06T23:11:28Z"
     },
     {
       "id": "zenroomstudio",
@@ -31910,15 +31906,9 @@
       "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
-        "armv7": "https://github.com/Acreom/releases/releases/download/v1.20.2/acreom-1.20.2.AppImage",
-        "loongarch64": "https://github.com/Acreom/releases/releases/download/v1.20.2/acreom-1.20.2.AppImage",
-        "ppc64le": "https://github.com/Acreom/releases/releases/download/v1.20.2/acreom-1.20.2.AppImage",
-        "riscv64": "https://github.com/Acreom/releases/releases/download/v1.20.2/acreom-1.20.2.AppImage",
-        "s390x": "https://github.com/Acreom/releases/releases/download/v1.20.2/acreom-1.20.2.AppImage",
-        "x86": "https://github.com/Acreom/releases/releases/download/v1.20.2/acreom-1.20.2.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T03:24:04Z"
+      "resolved_at": "2026-10-06T23:11:35Z"
     },
     {
       "id": "admin-tools",
@@ -31941,7 +31931,7 @@
         "x86": "https://download.opensuse.org/repositories/home:/dmulder:/YaST:/AppImage/AppImage/admin-tools-latest-x86_64.AppImage.mirrorlist",
         "x86_64": "https://download.opensuse.org/repositories/home:/dmulder:/YaST:/AppImage/AppImage/admin-tools-latest-x86_64.AppImage.mirrorlist"
       },
-      "resolved_at": "2026-10-06T00:30:44Z"
+      "resolved_at": "2026-10-06T23:11:06Z"
     },
     {
       "id": "agentglass",
@@ -32034,7 +32024,7 @@
       },
       "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://dist.m-industries.com/share/application-webclient/alan-connect-0.19.0-x86_64.AppImage",
+        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://dist.m-industries.com/share/application-webclient/alan-connect-0.19.0-x86_64.AppImage",
         "loongarch64": "https://dist.m-industries.com/share/application-webclient/alan-connect-0.19.0-x86_64.AppImage",
         "ppc64le": "https://dist.m-industries.com/share/application-webclient/alan-connect-0.19.0-x86_64.AppImage",
@@ -32043,7 +32033,7 @@
         "x86": "https://dist.m-industries.com/share/application-webclient/alan-connect-0.19.0-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:31:36Z"
+      "resolved_at": "2026-10-06T23:12:00Z"
     },
     {
       "id": "altair",
@@ -32087,7 +32077,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:31:50Z"
+      "resolved_at": "2026-10-06T23:13:11Z"
     },
     {
       "id": "android-messages-desktop",
@@ -32191,7 +32181,7 @@
         "url": "https://appimage.github.io/appimagehelper/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "http://bin.ceicer.com/zsync/appimagehelper-x86_64.AppImage",
+      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "http://bin.ceicer.com/zsync/appimagehelper-x86_64.AppImage",
@@ -32200,9 +32190,9 @@
         "riscv64": "http://bin.ceicer.com/zsync/appimagehelper-x86_64.AppImage",
         "s390x": "http://bin.ceicer.com/zsync/appimagehelper-x86_64.AppImage",
         "x86": "http://bin.ceicer.com/zsync/appimagehelper-x86_64.AppImage",
-        "x86_64": "http://bin.ceicer.com/zsync/appimagehelper-x86_64.AppImage"
+        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:31:23Z"
+      "resolved_at": "2026-10-06T23:11:55Z"
     },
     {
       "id": "appimagelint",
@@ -32577,7 +32567,7 @@
         "x86": "https://www.blub-game.com/d/linux64/blubVolley.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:32:04Z"
+      "resolved_at": "2026-10-06T23:11:51Z"
     },
     {
       "id": "boardown",
@@ -32770,7 +32760,7 @@
         "x86": "https://github.com//casm-lang/casm/releases/download/0.2.0/casm-linux-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:31:34Z"
+      "resolved_at": "2026-10-06T23:12:04Z"
     },
     {
       "id": "ceasta",
@@ -32931,7 +32921,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:31:40Z"
+      "resolved_at": "2026-10-06T23:12:02Z"
     },
     {
       "id": "clin-rs",
@@ -33079,7 +33069,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:31:31Z"
+      "resolved_at": "2026-10-06T23:12:11Z"
     },
     {
       "id": "conduit-desktop",
@@ -33227,7 +33217,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:31:40Z"
+      "resolved_at": "2026-10-06T23:12:11Z"
     },
     {
       "id": "cumora-releases",
@@ -33557,7 +33547,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:31:44Z"
+      "resolved_at": "2026-10-06T23:12:39Z"
     },
     {
       "id": "dingtalk",
@@ -33585,7 +33575,7 @@
       },
       "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
+        "aarch64": "https://www.dropbox.com/s/cfw3whbdb77gjuf/discographer-1.0.0-x86_64.AppImage?dl=1",
         "armv7": "https://www.dropbox.com/s/cfw3whbdb77gjuf/discographer-1.0.0-x86_64.AppImage?dl=1",
         "loongarch64": "https://www.dropbox.com/s/cfw3whbdb77gjuf/discographer-1.0.0-x86_64.AppImage?dl=1",
         "ppc64le": "https://www.dropbox.com/s/cfw3whbdb77gjuf/discographer-1.0.0-x86_64.AppImage?dl=1",
@@ -33594,7 +33584,7 @@
         "x86": "https://www.dropbox.com/s/cfw3whbdb77gjuf/discographer-1.0.0-x86_64.AppImage?dl=1",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:32:48Z"
+      "resolved_at": "2026-10-06T23:12:10Z"
     },
     {
       "id": "disk-space-saver",
@@ -33618,7 +33608,7 @@
         "x86": "https://www.dropbox.com/s/4rd35k9cokzxqp5/disk-space-saver-2.1.1-x86_64.AppImage?dl=1",
         "x86_64": "https://www.dropbox.com/s/4rd35k9cokzxqp5/disk-space-saver-2.1.1-x86_64.AppImage?dl=1"
       },
-      "resolved_at": "2026-10-06T00:31:50Z"
+      "resolved_at": "2026-10-06T23:12:21Z"
     },
     {
       "id": "diskfmt",
@@ -35084,7 +35074,7 @@
         "x86": "https://download.beroux.com/iPuissance_4D-x86_64.AppImage",
         "x86_64": "https://download.beroux.com/iPuissance_4D-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:37:04Z"
+      "resolved_at": "2026-10-06T23:18:04Z"
     },
     {
       "id": "iqpuzzle",
@@ -35107,7 +35097,7 @@
         "x86": "https://download.opensuse.org/repositories/home:/ElThoro/AppImage/iQPuzzle-latest-x86_64.AppImage.mirrorlist",
         "x86_64": "https://download.opensuse.org/repositories/home:/ElThoro/AppImage/iQPuzzle-latest-x86_64.AppImage.mirrorlist"
       },
-      "resolved_at": "2026-10-06T00:31:31Z"
+      "resolved_at": "2026-10-06T23:11:51Z"
     },
     {
       "id": "ideamaker",
@@ -35122,7 +35112,7 @@
       },
       "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
+        "aarch64": "https://s3.amazonaws.com/ideamaker/linux/ideaMaker-3.4.2.3140.glibc2.15-x86_64.AppImage",
         "armv7": "https://s3.amazonaws.com/ideamaker/linux/ideaMaker-3.4.2.3140.glibc2.15-x86_64.AppImage",
         "loongarch64": "https://s3.amazonaws.com/ideamaker/linux/ideaMaker-3.4.2.3140.glibc2.15-x86_64.AppImage",
         "ppc64le": "https://s3.amazonaws.com/ideamaker/linux/ideaMaker-3.4.2.3140.glibc2.15-x86_64.AppImage",
@@ -35131,7 +35121,7 @@
         "x86": "https://s3.amazonaws.com/ideamaker/linux/ideaMaker-3.4.2.3140.glibc2.15-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:32:14Z"
+      "resolved_at": "2026-10-06T23:13:05Z"
     },
     {
       "id": "igloo-desktop",
@@ -35253,7 +35243,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:32:54Z"
+      "resolved_at": "2026-10-06T23:13:09Z"
     },
     {
       "id": "ipfs-desktop",
@@ -35485,7 +35475,7 @@
         "x86": "https://www.budbrain.de/appimage/jsblobpop-x86_64.AppImage",
         "x86_64": "https://www.budbrain.de/appimage/jsblobpop-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:33:33Z"
+      "resolved_at": "2026-10-06T23:13:29Z"
     },
     {
       "id": "jsbudbrainequalizer",
@@ -35508,7 +35498,7 @@
         "x86": "https://www.budbrain.de/appimage/jsbudbrainequalizer-x86_64.AppImage",
         "x86_64": "https://www.budbrain.de/appimage/jsbudbrainequalizer-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:31:36Z"
+      "resolved_at": "2026-10-06T23:12:17Z"
     },
     {
       "id": "jsbudbrainplayer",
@@ -35532,7 +35522,7 @@
         "x86": "https://www.budbrain.de/appimage/jsbudbrainplayer-x86_64.AppImage",
         "x86_64": "https://www.budbrain.de/appimage/jsbudbrainplayer-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:33:35Z"
+      "resolved_at": "2026-10-06T23:15:05Z"
     },
     {
       "id": "jsbudbrainsmarbles",
@@ -35556,7 +35546,7 @@
         "x86": "https://www.budbrain.de/appimage/jsbudbrainsmarbles-x86_64.AppImage",
         "x86_64": "https://www.budbrain.de/appimage/jsbudbrainsmarbles-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:37:56Z"
+      "resolved_at": "2026-10-06T23:18:21Z"
     },
     {
       "id": "jscpuinspector",
@@ -35580,7 +35570,7 @@
         "x86": "https://www.budbrain.de/appimage/jscpuinspector-x86_64.AppImage",
         "x86_64": "https://www.budbrain.de/appimage/jscpuinspector-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:33:11Z"
+      "resolved_at": "2026-10-06T23:14:02Z"
     },
     {
       "id": "jscpumonitor",
@@ -35604,7 +35594,7 @@
         "x86": "https://www.budbrain.de/appimage/jscpumonitor-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:32:52Z"
+      "resolved_at": "2026-10-06T23:13:23Z"
     },
     {
       "id": "jschess",
@@ -35628,7 +35618,7 @@
         "x86": "https://www.budbrain.de/appimage/jschess-x86_64.AppImage",
         "x86_64": "https://www.budbrain.de/appimage/jschess-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:33:31Z"
+      "resolved_at": "2026-10-06T23:14:59Z"
     },
     {
       "id": "jsduodom",
@@ -35652,7 +35642,7 @@
         "x86": "https://www.budbrain.de/appimage/jsduodom-x86_64.AppImage",
         "x86_64": "https://www.budbrain.de/appimage/jsduodom-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:34:19Z"
+      "resolved_at": "2026-10-06T23:14:45Z"
     },
     {
       "id": "jsfilemanager",
@@ -35667,7 +35657,7 @@
       },
       "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
+        "aarch64": "https://www.budbrain.de/appimage/jsfilemanager-x86_64.AppImage",
         "armv7": "https://www.budbrain.de/appimage/jsfilemanager-x86_64.AppImage",
         "loongarch64": "https://www.budbrain.de/appimage/jsfilemanager-x86_64.AppImage",
         "ppc64le": "https://www.budbrain.de/appimage/jsfilemanager-x86_64.AppImage",
@@ -35676,7 +35666,7 @@
         "x86": "https://www.budbrain.de/appimage/jsfilemanager-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:33:21Z"
+      "resolved_at": "2026-10-06T23:14:07Z"
     },
     {
       "id": "jslinuxcleanup",
@@ -35700,7 +35690,7 @@
         "x86": "https://www.budbrain.de/appimage/jslinuxcleanup-x86_64.AppImage",
         "x86_64": "https://www.budbrain.de/appimage/jslinuxcleanup-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:37:51Z"
+      "resolved_at": "2026-10-06T23:19:33Z"
     },
     {
       "id": "jsmahjong",
@@ -35724,7 +35714,7 @@
         "x86": "https://www.budbrain.de/appimage/jsmahjong-x86_64.AppImage",
         "x86_64": "https://www.budbrain.de/appimage/jsmahjong-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:37:58Z"
+      "resolved_at": "2026-10-06T23:19:14Z"
     },
     {
       "id": "jsmediaeditor",
@@ -35748,7 +35738,7 @@
         "x86": "https://www.budbrain.de/appimage/jsmediaeditor-x86_64.AppImage",
         "x86_64": "https://www.budbrain.de/appimage/jsmediaeditor-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:34:56Z"
+      "resolved_at": "2026-10-06T23:15:20Z"
     },
     {
       "id": "jspicpuzzler",
@@ -35772,7 +35762,7 @@
         "x86": "https://www.budbrain.de/appimage/jspicpuzzler-x86_64.AppImage",
         "x86_64": "https://www.budbrain.de/appimage/jspicpuzzler-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:35:00Z"
+      "resolved_at": "2026-10-06T23:15:23Z"
     },
     {
       "id": "jsshowhardwareinfos",
@@ -35796,7 +35786,7 @@
         "x86": "https://www.budbrain.de/appimage/jsshowhardwareinfos-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:33:49Z"
+      "resolved_at": "2026-10-06T23:15:19Z"
     },
     {
       "id": "jscad-desktop",
@@ -36092,7 +36082,7 @@
         "x86": "https://download.opensuse.org/repositories/home:/pbartfai/AppImage/ldview-latest-x86_64.AppImage.mirrorlist",
         "x86_64": "https://download.opensuse.org/repositories/home:/pbartfai/AppImage/ldview-latest-x86_64.AppImage.mirrorlist"
       },
-      "resolved_at": "2026-10-06T00:33:12Z"
+      "resolved_at": "2026-10-06T23:13:30Z"
     },
     {
       "id": "le",
@@ -36170,18 +36160,18 @@
         "url": "https://appimage.github.io/levior/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
+      "download_url": "https://gitlab.com/cipres/levior/-/releases/continuous-master/downloads/levior-latest-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://gitlab.com/cipres/levior/-/releases/continuous-master/downloads/levior-latest-x86_64.AppImage",
+        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://gitlab.com/cipres/levior/-/releases/continuous-master/downloads/levior-latest-x86_64.AppImage",
         "loongarch64": "https://gitlab.com/cipres/levior/-/releases/continuous-master/downloads/levior-latest-x86_64.AppImage",
         "ppc64le": "https://gitlab.com/cipres/levior/-/releases/continuous-master/downloads/levior-latest-x86_64.AppImage",
         "riscv64": "https://gitlab.com/cipres/levior/-/releases/continuous-master/downloads/levior-latest-x86_64.AppImage",
         "s390x": "https://gitlab.com/cipres/levior/-/releases/continuous-master/downloads/levior-latest-x86_64.AppImage",
         "x86": "https://gitlab.com/cipres/levior/-/releases/continuous-master/downloads/levior-latest-x86_64.AppImage",
-        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
+        "x86_64": "https://gitlab.com/cipres/levior/-/releases/continuous-master/downloads/levior-latest-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:34:54Z"
+      "resolved_at": "2026-10-06T23:14:42Z"
     },
     {
       "id": "light-git-client",
@@ -36417,7 +36407,7 @@
       },
       "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
+        "aarch64": "https://bitbucket.org/kfj/pv/downloads",
         "armv7": "https://bitbucket.org/kfj/pv/downloads",
         "loongarch64": "https://bitbucket.org/kfj/pv/downloads",
         "ppc64le": "https://bitbucket.org/kfj/pv/downloads",
@@ -36426,7 +36416,7 @@
         "x86": "https://bitbucket.org/kfj/pv/downloads",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:35:27Z"
+      "resolved_at": "2026-10-06T23:16:04Z"
     },
     {
       "id": "m8c",
@@ -36652,7 +36642,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:35:11Z"
+      "resolved_at": "2026-10-06T23:15:26Z"
     },
     {
       "id": "meta-grabber",
@@ -36696,7 +36686,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:37:00Z"
+      "resolved_at": "2026-10-06T23:16:57Z"
     },
     {
       "id": "mikutter",
@@ -36720,7 +36710,7 @@
         "x86": "https://mikutter.hachune.net/bin/mikutter-4.0.2-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:35:03Z"
+      "resolved_at": "2026-10-06T23:16:12Z"
     },
     {
       "id": "mimi",
@@ -36764,7 +36754,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:36:01Z"
+      "resolved_at": "2026-10-06T23:16:41Z"
     },
     {
       "id": "miniserve_gui",
@@ -36847,7 +36837,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:35:52Z"
+      "resolved_at": "2026-10-06T23:17:02Z"
     },
     {
       "id": "modbux",
@@ -37157,7 +37147,7 @@
         "x86": "https://man-public-downloads.s3.eu-west-2.amazonaws.com/downloads/nextoncloudLogistic-latest.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:36:17Z"
+      "resolved_at": "2026-10-06T23:16:41Z"
     },
     {
       "id": "nexus",
@@ -37183,7 +37173,7 @@
         "url": "https://appimage.github.io/nfctools/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
+      "download_url": "https://apps.wakdev.com/ntgui/releases/linux/nfctools-latest.AppImage",
       "download_urls": {
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://apps.wakdev.com/ntgui/releases/linux/nfctools-latest.AppImage",
@@ -37192,9 +37182,9 @@
         "riscv64": "https://apps.wakdev.com/ntgui/releases/linux/nfctools-latest.AppImage",
         "s390x": "https://apps.wakdev.com/ntgui/releases/linux/nfctools-latest.AppImage",
         "x86": "https://apps.wakdev.com/ntgui/releases/linux/nfctools-latest.AppImage",
-        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
+        "x86_64": "https://apps.wakdev.com/ntgui/releases/linux/nfctools-latest.AppImage"
       },
-      "resolved_at": "2026-10-06T00:36:31Z"
+      "resolved_at": "2026-10-06T23:16:19Z"
     },
     {
       "id": "ngpost",
@@ -37272,7 +37262,7 @@
         "url": "https://appimage.github.io/nis-one-click-backup/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://gitlab.com/dev-nis/nis-one-click-backup-qt/uploads/22f4c487068d31f9cccacd804853a8b9/NIS_One-Click-Backup-x86_64.AppImage",
+      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://gitlab.com/dev-nis/nis-one-click-backup-qt/uploads/22f4c487068d31f9cccacd804853a8b9/NIS_One-Click-Backup-x86_64.AppImage",
@@ -37281,9 +37271,9 @@
         "riscv64": "https://gitlab.com/dev-nis/nis-one-click-backup-qt/uploads/22f4c487068d31f9cccacd804853a8b9/NIS_One-Click-Backup-x86_64.AppImage",
         "s390x": "https://gitlab.com/dev-nis/nis-one-click-backup-qt/uploads/22f4c487068d31f9cccacd804853a8b9/NIS_One-Click-Backup-x86_64.AppImage",
         "x86": "https://gitlab.com/dev-nis/nis-one-click-backup-qt/uploads/22f4c487068d31f9cccacd804853a8b9/NIS_One-Click-Backup-x86_64.AppImage",
-        "x86_64": "https://gitlab.com/dev-nis/nis-one-click-backup-qt/uploads/22f4c487068d31f9cccacd804853a8b9/NIS_One-Click-Backup-x86_64.AppImage"
+        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:36:27Z"
+      "resolved_at": "2026-10-06T23:16:43Z"
     },
     {
       "id": "nmap",
@@ -37444,7 +37434,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:36:48Z"
+      "resolved_at": "2026-10-06T23:17:18Z"
     },
     {
       "id": "odoo-manager",
@@ -37641,7 +37631,7 @@
       },
       "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
+        "aarch64": "https://www.dropbox.com/s/61uw0woiqa5ky7f/organize-my-files-2.5.2-x86_64.AppImage?dl=1",
         "armv7": "https://www.dropbox.com/s/61uw0woiqa5ky7f/organize-my-files-2.5.2-x86_64.AppImage?dl=1",
         "loongarch64": "https://www.dropbox.com/s/61uw0woiqa5ky7f/organize-my-files-2.5.2-x86_64.AppImage?dl=1",
         "ppc64le": "https://www.dropbox.com/s/61uw0woiqa5ky7f/organize-my-files-2.5.2-x86_64.AppImage?dl=1",
@@ -37650,7 +37640,7 @@
         "x86": "https://www.dropbox.com/s/61uw0woiqa5ky7f/organize-my-files-2.5.2-x86_64.AppImage?dl=1",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:36:40Z"
+      "resolved_at": "2026-10-06T23:17:23Z"
     },
     {
       "id": "ossia_score",
@@ -37741,7 +37731,7 @@
         "url": "https://appimage.github.io/paferashare/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
+      "download_url": "https://codeberg.org/pafera/paferafileserverbrowser/raw/branch/main/bin/PaferaShare-1.0.2-x86_64.AppImage",
       "download_urls": {
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://codeberg.org/pafera/paferafileserverbrowser/raw/branch/main/bin/PaferaShare-1.0.2-x86_64.AppImage",
@@ -37750,9 +37740,9 @@
         "riscv64": "https://codeberg.org/pafera/paferafileserverbrowser/raw/branch/main/bin/PaferaShare-1.0.2-x86_64.AppImage",
         "s390x": "https://codeberg.org/pafera/paferafileserverbrowser/raw/branch/main/bin/PaferaShare-1.0.2-x86_64.AppImage",
         "x86": "https://codeberg.org/pafera/paferafileserverbrowser/raw/branch/main/bin/PaferaShare-1.0.2-x86_64.AppImage",
-        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
+        "x86_64": "https://codeberg.org/pafera/paferafileserverbrowser/raw/branch/main/bin/PaferaShare-1.0.2-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:37:18Z"
+      "resolved_at": "2026-10-06T23:17:18Z"
     },
     {
       "id": "paint.software",
@@ -37952,7 +37942,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:37:20Z"
+      "resolved_at": "2026-10-06T23:17:42Z"
     },
     {
       "id": "phoenix-desktop",
@@ -38106,7 +38096,7 @@
         "x86": "https://plexamp.plex.tv/plexamp.plex.tv/desktop/Plexamp-3.1.1.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:37:05Z"
+      "resolved_at": "2026-10-06T23:17:39Z"
     },
     {
       "id": "plugdata",
@@ -38129,7 +38119,7 @@
         "x86": "https://download.opensuse.org/repositories/home:/plugdata/AppImage/plugdata-latest-x86_64.AppImage.mirrorlist",
         "x86_64": "https://download.opensuse.org/repositories/home:/plugdata/AppImage/plugdata-latest-x86_64.AppImage.mirrorlist"
       },
-      "resolved_at": "2026-10-06T00:36:48Z"
+      "resolved_at": "2026-10-06T23:16:56Z"
     },
     {
       "id": "pnpm",
@@ -38316,7 +38306,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:38:11Z"
+      "resolved_at": "2026-10-06T23:19:16Z"
     },
     {
       "id": "pyappimage",
@@ -38498,18 +38488,18 @@
         "url": "https://appimage.github.io/qtchan/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
+      "download_url": "https://f.abcdn.co/qtchan-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
+        "aarch64": "https://f.abcdn.co/qtchan-x86_64.AppImage",
         "armv7": "https://f.abcdn.co/qtchan-x86_64.AppImage",
         "loongarch64": "https://f.abcdn.co/qtchan-x86_64.AppImage",
         "ppc64le": "https://f.abcdn.co/qtchan-x86_64.AppImage",
         "riscv64": "https://f.abcdn.co/qtchan-x86_64.AppImage",
         "s390x": "https://f.abcdn.co/qtchan-x86_64.AppImage",
         "x86": "https://f.abcdn.co/qtchan-x86_64.AppImage",
-        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
+        "x86_64": "https://f.abcdn.co/qtchan-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:37:44Z"
+      "resolved_at": "2026-10-06T23:18:20Z"
     },
     {
       "id": "qtrfpowermeter",
@@ -38546,7 +38536,7 @@
         "x86": "https://storage.quick-share.app/dl/QuickShare-latest-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:37:53Z"
+      "resolved_at": "2026-10-06T23:17:57Z"
     },
     {
       "id": "quokkagit",
@@ -38715,7 +38705,7 @@
         "url": "https://appimage.github.io/retail/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
+      "download_url": "https://retail-app-image.s3.ap-south-1.amazonaws.com/retail-0.0.2.AppImage",
       "download_urls": {
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://retail-app-image.s3.ap-south-1.amazonaws.com/retail-0.0.2.AppImage",
@@ -38724,9 +38714,9 @@
         "riscv64": "https://retail-app-image.s3.ap-south-1.amazonaws.com/retail-0.0.2.AppImage",
         "s390x": "https://retail-app-image.s3.ap-south-1.amazonaws.com/retail-0.0.2.AppImage",
         "x86": "https://retail-app-image.s3.ap-south-1.amazonaws.com/retail-0.0.2.AppImage",
-        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
+        "x86_64": "https://retail-app-image.s3.ap-south-1.amazonaws.com/retail-0.0.2.AppImage"
       },
-      "resolved_at": "2026-10-06T00:37:51Z"
+      "resolved_at": "2026-10-06T23:18:09Z"
     },
     {
       "id": "retrovibed",
@@ -39147,7 +39137,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:37:46Z"
+      "resolved_at": "2026-10-06T23:18:21Z"
     },
     {
       "id": "simple-s3-uploader",
@@ -39223,7 +39213,7 @@
         "x86": "https://sipgate-desktop-app.s3.eu-central-1.amazonaws.com/sipgate-softphone.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:37:54Z"
+      "resolved_at": "2026-10-06T23:18:23Z"
     },
     {
       "id": "siyuan-patch",
@@ -39392,7 +39382,7 @@
         "url": "https://appimage.github.io/speedy-duplicate-finder/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://www.dropbox.com/s/nk1bigim0dfma33/speedy-duplicate-finder-1.0.2-x86_64.AppImage?dl=1",
+      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://www.dropbox.com/s/nk1bigim0dfma33/speedy-duplicate-finder-1.0.2-x86_64.AppImage?dl=1",
@@ -39401,9 +39391,9 @@
         "riscv64": "https://www.dropbox.com/s/nk1bigim0dfma33/speedy-duplicate-finder-1.0.2-x86_64.AppImage?dl=1",
         "s390x": "https://www.dropbox.com/s/nk1bigim0dfma33/speedy-duplicate-finder-1.0.2-x86_64.AppImage?dl=1",
         "x86": "https://www.dropbox.com/s/nk1bigim0dfma33/speedy-duplicate-finder-1.0.2-x86_64.AppImage?dl=1",
-        "x86_64": "https://www.dropbox.com/s/nk1bigim0dfma33/speedy-duplicate-finder-1.0.2-x86_64.AppImage?dl=1"
+        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:37:49Z"
+      "resolved_at": "2026-10-06T23:18:24Z"
     },
     {
       "id": "spm",
@@ -39525,7 +39515,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:38:01Z"
+      "resolved_at": "2026-10-06T23:18:35Z"
     },
     {
       "id": "sticker-convert",
@@ -39608,7 +39598,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:38:01Z"
+      "resolved_at": "2026-10-06T23:19:00Z"
     },
     {
       "id": "stretchly",
@@ -39691,7 +39681,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:38:02Z"
+      "resolved_at": "2026-10-06T23:18:54Z"
     },
     {
       "id": "swradio",
@@ -39850,7 +39840,7 @@
       "download_urls": {
         "x86_64": "https://github.com/martinrotter/textosaurus/releases/download/0.9.13/textosaurus-0.9.13-9cb7064-linux64.AppImage"
       },
-      "resolved_at": "2026-10-06T02:04:31Z"
+      "resolved_at": "2026-10-06T23:19:29Z"
     },
     {
       "id": "theframe",
@@ -39952,7 +39942,7 @@
         "x86": "https://tinyclerk.com/download/tinyclerk.x86_64.AppImage",
         "x86_64": "https://tinyclerk.com/download/tinyclerk.x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:39:42Z"
+      "resolved_at": "2026-10-06T23:20:30Z"
     },
     {
       "id": "tipitaka_pali_reader",
@@ -40093,7 +40083,7 @@
         "x86": "https://ftp.zap.org.au/pub/trader/unix/binary/appimage/trader-latest-x86_64.AppImage",
         "x86_64": "https://ftp.zap.org.au/pub/trader/unix/binary/appimage/trader-latest-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:40:50Z"
+      "resolved_at": "2026-10-06T23:21:32Z"
     },
     {
       "id": "triagem-touch",
@@ -40134,7 +40124,7 @@
       },
       "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
       "download_urls": {
-        "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
+        "aarch64": "https://updates.tubcloud.tu-berlin.de/clients/linux/64/tubCloud-latest.x86_64.AppImage",
         "armv7": "https://updates.tubcloud.tu-berlin.de/clients/linux/64/tubCloud-latest.x86_64.AppImage",
         "loongarch64": "https://updates.tubcloud.tu-berlin.de/clients/linux/64/tubCloud-latest.x86_64.AppImage",
         "ppc64le": "https://updates.tubcloud.tu-berlin.de/clients/linux/64/tubCloud-latest.x86_64.AppImage",
@@ -40143,7 +40133,7 @@
         "x86": "https://updates.tubcloud.tu-berlin.de/clients/linux/64/tubCloud-latest.x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:38:14Z"
+      "resolved_at": "2026-10-06T23:19:21Z"
     },
     {
       "id": "turul-app",
@@ -40219,7 +40209,7 @@
         "x86": "http://update.ufactory.cc/releases/studio/uArmStudio-prod-1.1.20.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:38:36Z"
+      "resolved_at": "2026-10-06T23:19:54Z"
     },
     {
       "id": "ubpm",
@@ -40232,7 +40222,7 @@
         "url": "https://appimage.github.io/ubpm/",
         "reason": "AppImage feed entry has no GitHub or direct AppImage download link; yai will search the website for an AppImage"
       },
-      "download_url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage",
+      "download_url": "https://codeberg.org/LazyT/ubpm/releases/download/1.9.0/ubpm_qt5-1.9.0-x86_64.AppImage",
       "download_urls": {
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "armv7": "https://codeberg.org/LazyT/ubpm/releases/download/1.9.0/ubpm_qt5-1.9.0-x86_64.AppImage",
@@ -40241,9 +40231,9 @@
         "riscv64": "https://codeberg.org/LazyT/ubpm/releases/download/1.9.0/ubpm_qt5-1.9.0-x86_64.AppImage",
         "s390x": "https://codeberg.org/LazyT/ubpm/releases/download/1.9.0/ubpm_qt5-1.9.0-x86_64.AppImage",
         "x86": "https://codeberg.org/LazyT/ubpm/releases/download/1.9.0/ubpm_qt5-1.9.0-x86_64.AppImage",
-        "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
+        "x86_64": "https://codeberg.org/LazyT/ubpm/releases/download/1.9.0/ubpm_qt5-1.9.0-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:38:43Z"
+      "resolved_at": "2026-10-06T23:19:09Z"
     },
     {
       "id": "ultra-tracker",
@@ -40410,7 +40400,7 @@
         "x86": "https://svn.zdechov.net/vcard-studio/bin/appimage/vCardStudio-1.5.0-x86_64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:38:42Z"
+      "resolved_at": "2026-10-06T23:19:02Z"
     },
     {
       "id": "vcloudcam",
@@ -41000,7 +40990,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:38:19Z"
+      "resolved_at": "2026-10-06T23:19:33Z"
     },
     {
       "id": "xlights",
@@ -41018,7 +41008,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:38:41Z"
+      "resolved_at": "2026-10-06T23:19:46Z"
     },
     {
       "id": "xmmusic",
@@ -41205,7 +41195,7 @@
         "aarch64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
         "x86_64": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
       },
-      "resolved_at": "2026-10-06T00:38:59Z"
+      "resolved_at": "2026-10-06T23:19:45Z"
     },
     {
       "id": "zipax",
