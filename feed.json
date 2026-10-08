@@ -797,6 +797,22 @@
         },
     
         {
+        "name": "Alpaka_Desktop",
+    
+        "description": "Native desktop client for Ollama",
+    
+        "categories": [null],
+        "authors" : [{"name":"nikoteressi","url":"https://github.com/nikoteressi"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"nikoteressi/alpaka-desktop"},{"type":"Download","url":"https://github.com/nikoteressi/alpaka-desktop/releases"}],
+        "icons": ["Alpaka_Desktop/icons/128x128/alpaka-desktop.png"],
+        "screenshots" : ["Alpaka_Desktop/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "Alpine_Client",
     
         "description": "<p>Alpine Client is an all-in-one modpack for Minecraft that offers\n            a multitude of enhancements and optimizations to improve your gameplay.\n            It brings together popular mods, exclusive features, player cosmetics,\n            and multi-version support to curate the ultimate player experience.</p>",
@@ -1059,6 +1075,22 @@
         "links": [{"type":"GitHub","url":"matthias-stemmler/annimate"},{"type":"Download","url":"https://github.com/matthias-stemmler/annimate/releases"}],
         "icons": ["Annimate/icons/128x128/Annimate.png"],
         "screenshots" : ["Annimate/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
+        "name": "Another",
+    
+        "description": "Android screen another and control",
+    
+        "categories": [null],
+        "authors" : [{"name":"Zfinix","url":"https://github.com/Zfinix"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"Zfinix/another"},{"type":"Download","url":"https://github.com/Zfinix/another/releases"}],
+        "icons": ["Another/icons/128x128/Another.png"],
+        "screenshots" : ["Another/screenshot.png"],
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.35"
@@ -3608,6 +3640,17 @@
         },
     
         {
+        "name": "CC_Logins",
+    
+        "categories": [null],
+        "authors" : [{"name":"yashsoni369","url":"https://github.com/yashsoni369"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"yashsoni369/cc-logins"},{"type":"Download","url":"https://github.com/yashsoni369/cc-logins/releases"}],
+        "icons": ["CC_Logins/icons/128x128/cc-logins.png"],
+        "screenshots" : ["CC_Logins/screenshot.png"]
+        },
+    
+        {
         "name": "CIAA_Suite",
     
         "description": "Makefile based IDE for embedded systems",
@@ -4607,10 +4650,10 @@
     
         "categories": ["Game"],
         "authors" : [{"name":"FromChaosComesClarity","url":"https://github.com/FromChaosComesClarity"}],
-        "license" : "GPL-3.0",
+        "license" : "GPL-3.0-or-later",
         "links": [{"type":"GitHub","url":"FromChaosComesClarity/Clarity"},{"type":"Download","url":"https://github.com/FromChaosComesClarity/Clarity/releases"}],
         "icons": ["Clarity/icons/scalable/clarity.svg"],
-        "screenshots" : ["Clarity/screenshot.png"],
+        "screenshots" : ["https://fromchaoscomesclarity.github.io/ClarityWebSite/assets/gallery/008_library_all_games.webp"],
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.34"
@@ -8743,6 +8786,17 @@
         },
     
         {
+        "name": "FOFA_Leak_Search",
+    
+        "categories": [null],
+        "authors" : [{"name":"Mr-xn","url":"https://github.com/Mr-xn"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"Mr-xn/fofa_leak_search"},{"type":"Download","url":"https://github.com/Mr-xn/fofa_leak_search/releases"}],
+        "icons": ["FOFA_Leak_Search/icons/128x128/fofa-leak-search.png"],
+        "screenshots" : ["FOFA_Leak_Search/screenshot.png"]
+        },
+    
+        {
         "name": "FPVThePlanet",
     
         "description": "FPVThePlanet! — FPV drone flight over real cities, in the browser",
@@ -9310,6 +9364,22 @@
         "links": null,
         "icons": ["FlightGear/icons/scalable/flightgear.svg"],
         "screenshots" : ["FlightGear/screenshot.png"]
+        },
+    
+        {
+        "name": "FlipperUI",
+    
+        "description": "FlipperUI - A Tauri-based Flipper Zero file-manager and Signal-Library",
+    
+        "categories": [null],
+        "authors" : [{"name":"fuckmaz","url":"https://github.com/fuckmaz"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"fuckmaz/FlipperUI"},{"type":"Download","url":"https://github.com/fuckmaz/FlipperUI/releases"}],
+        "icons": ["FlipperUI/icons/128x128/flipperui.png"],
+        "screenshots" : ["FlipperUI/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -11559,6 +11629,22 @@
         },
     
         {
+        "name": "Hash-GUI",
+    
+        "description": "Hash-GUI (GUI frontend for Hashcat)",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"R0h1tAnand","url":"https://github.com/R0h1tAnand"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"R0h1tAnand/Hash-GUI"},{"type":"Download","url":"https://github.com/R0h1tAnand/Hash-GUI/releases"}],
+        "icons": ["Hash-GUI/icons/128x128/hash-gui.png"],
+        "screenshots" : ["Hash-GUI/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
+        },
+    
+        {
         "name": "HashVerifier",
     
         "description": "Checksum generation and verification tool",
@@ -12262,6 +12348,17 @@
         "links": null,
         "icons": ["Iceworks/icons/128x128/iceworks-desktop.png"],
         "screenshots" : ["Iceworks/screenshot.png"]
+        },
+    
+        {
+        "name": "Idea_Note",
+    
+        "categories": [null],
+        "authors" : [{"name":"Liubsyy","url":"https://github.com/Liubsyy"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"Liubsyy/idea-note"},{"type":"Download","url":"https://github.com/Liubsyy/idea-note/releases"}],
+        "icons": ["Idea_Note/icons/128x128/idea-note.png"],
+        "screenshots" : ["Idea_Note/screenshot.png"]
         },
     
         {
@@ -13353,6 +13450,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.25"
+        },
+    
+        {
+        "name": "Karasu",
+    
+        "description": "Anime & manga tracker for AniList",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"Kyusetzu","url":"https://github.com/Kyusetzu"}],
+        "license" : "AGPL-3.0",
+        "links": [{"type":"GitHub","url":"Kyusetzu/Karasu"},{"type":"Download","url":"https://github.com/Kyusetzu/Karasu/releases"}],
+        "icons": ["Karasu/icons/128x128/karasu.png"],
+        "screenshots" : ["Karasu/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -16875,6 +16988,22 @@
         },
     
         {
+        "name": "Metrik",
+    
+        "description": "Accurate, local-first AI agent usage monitoring",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"keros68","url":"https://github.com/keros68"}],
+        "license" : "AGPL-3.0",
+        "links": [{"type":"GitHub","url":"keros68/metrik"},{"type":"Download","url":"https://github.com/keros68/metrik/releases"}],
+        "icons": ["Metrik/icons/128x128/metrik.png"],
+        "screenshots" : ["Metrik/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "MetroidPrimeHuntersRecomp",
     
         "categories": ["Game"],
@@ -18539,6 +18668,22 @@
         },
     
         {
+        "name": "NiLLM",
+    
+        "description": "NiLLM Arena App",
+    
+        "categories": [null],
+        "authors" : [{"name":"ni00","url":"https://github.com/ni00"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"ni00/NiLLM"},{"type":"Download","url":"https://github.com/ni00/NiLLM/releases"}],
+        "icons": ["NiLLM/icons/128x128/nillm.png"],
+        "screenshots" : ["NiLLM/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "Niffler",
     
         "description": "Niffler, a grin gui wallet",
@@ -19251,6 +19396,22 @@
         },
     
         {
+        "name": "Octa",
+    
+        "description": "Multi-format data viewer and editor",
+    
+        "categories": ["Office"],
+        "authors" : [{"name":"thorstenfoltz","url":"https://github.com/thorstenfoltz"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"thorstenfoltz/octa"},{"type":"Download","url":"https://github.com/thorstenfoltz/octa/releases"}],
+        "icons": ["Octa/icons/256x256/octa.png"],
+        "screenshots" : ["Octa/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "OctoShrink",
     
         "description": "OctoShrink",
@@ -19403,6 +19564,38 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.25"
+        },
+    
+        {
+        "name": "Omnicross",
+    
+        "description": "Omnicross desktop control panel",
+    
+        "categories": [null],
+        "authors" : [{"name":"DumoeDss","url":"https://github.com/DumoeDss"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"DumoeDss/omnicross"},{"type":"Download","url":"https://github.com/DumoeDss/omnicross/releases"}],
+        "icons": ["Omnicross/icons/128x128/omnicross-app.png"],
+        "screenshots" : ["Omnicross/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
+        "name": "Omnio",
+    
+        "description": "Local-first hobby tracker",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"TonyMontania","url":"https://github.com/TonyMontania"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"TonyMontania/Omnio"},{"type":"Download","url":"https://github.com/TonyMontania/Omnio/releases"}],
+        "icons": ["Omnio/icons/128x128/omnio.png"],
+        "screenshots" : ["Omnio/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -27538,6 +27731,22 @@
         },
     
         {
+        "name": "Spindle",
+    
+        "description": "Native EPUB reader with highlights, search and local AI translation",
+    
+        "categories": ["Office"],
+        "authors" : [{"name":"fukuyori","url":"https://github.com/fukuyori"}],
+        "license" : "Apache-2.0",
+        "links": [{"type":"GitHub","url":"fukuyori/Spindle"},{"type":"Download","url":"https://github.com/fukuyori/Spindle/releases"}],
+        "icons": ["Spindle/icons/scalable/spindle.svg"],
+        "screenshots" : ["Spindle/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
+        },
+    
+        {
         "name": "Spivak",
     
         "description": "Portable free Karaoke Player",
@@ -29801,6 +30010,17 @@
         },
     
         {
+        "name": "Token_Dashboard",
+    
+        "categories": [null],
+        "authors" : [{"name":"Arylmera","url":"https://github.com/Arylmera"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"Arylmera/Token-Dashboard"},{"type":"Download","url":"https://github.com/Arylmera/Token-Dashboard/releases"}],
+        "icons": ["Token_Dashboard/icons/128x128/token-dashboard-app.png"],
+        "screenshots" : ["Token_Dashboard/screenshot.png"]
+        },
+    
+        {
         "name": "TombLauncher",
     
         "description": "<p>Tomb Launcher is a manager and downloader for Tomb Raider custom levels.\nIt allows you to browse, download and install custom levels from community\nsites such as TRLE.net, TRCustoms.org and AspideTR.com.</p>\n<ul>\n  <li>Browse and search thousands of custom levels from multiple community sites</li>\n  <li>Download and install levels with a single click</li>\n  <li>Track your play time and statistics</li>\n  <li>Manage save files and game settings</li>\n  <li>Supports multiple Tomb Raider engines including TRNG, TombEngine, TR1X and TR2X</li>\n  <li>Available on Windows and Linux</li>\n</ul>",
@@ -30818,6 +31038,22 @@
         "links": [{"type":"GitHub","url":"tamlok/vnote"},{"type":"Download","url":"https://github.com/tamlok/vnote/releases"}],
         "icons": null,
         "screenshots" : ["VNote/screenshot.png"]
+        },
+    
+        {
+        "name": "VOSK_Dictation",
+    
+        "description": "<p>VOSK Dictation recognizes Russian speech offline and inserts the result into the focused text field. It runs in the system tray without a main window.</p>\n<p>Hold the left Alt key for about 1.2 seconds to start recording, then hold it again to stop recording and insert the recognized text. The included model is vosk-model-small-ru-0.22.</p>",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"OzzyLabz","url":"https://github.com/OzzyLabz"}],
+        "license" : "Apache-2.0",
+        "links": [{"type":"GitHub","url":"OzzyLabz/vosk-dictation"},{"type":"Download","url":"https://github.com/OzzyLabz/vosk-dictation/releases"}],
+        "icons": ["VOSK_Dictation/icons/512x512/icon.png"],
+        "screenshots" : ["VOSK_Dictation/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
         },
     
         {
@@ -33272,6 +33508,22 @@
         },
     
         {
+        "name": "Zlack",
+    
+        "description": "A lightweight Slack desktop client built with Tauri",
+    
+        "categories": [null],
+        "authors" : [{"name":"sanguneo","url":"https://github.com/sanguneo"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"sanguneo/zlack"},{"type":"Download","url":"https://github.com/sanguneo/zlack/releases"}],
+        "icons": ["Zlack/icons/128x128/zlack.png"],
+        "screenshots" : ["Zlack/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "Znax",
     
         "categories": ["Game"],
@@ -33750,6 +34002,22 @@
         "links": [{"type":"GitHub","url":"saeeedhany/ase"},{"type":"Download","url":"https://github.com/saeeedhany/ase/releases"}],
         "icons": ["ase/icons/512x512/ase.png"],
         "screenshots" : ["ase/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
+        "name": "asyar",
+    
+        "description": "A fast, open-source launcher for macOS, Windows, and Linux.",
+    
+        "categories": [null],
+        "authors" : [{"name":"Xoshbin","url":"https://github.com/Xoshbin"}],
+        "license" : "GPL-3.0",
+        "links": [{"type":"GitHub","url":"Xoshbin/asyar"},{"type":"Download","url":"https://github.com/Xoshbin/asyar/releases"}],
+        "icons": ["asyar/icons/128x128/asyar.png"],
+        "screenshots" : ["asyar/screenshot.png"],
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.35"
@@ -34603,6 +34871,21 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.25"
+        },
+    
+        {
+        "name": "colmap-openmvs-app",
+    
+        "description": "<p>Photos to 3D Model Offline (colmap-openmvs-app) provides a local, offline photogrammetry pipeline using COLMAP and OpenMVS. It reconstructs dense 3D point clouds and textured meshes directly from sets of images, featuring an interactive 3D viewer and real-time pipeline monitoring.</p>",
+    
+        "categories": ["Graphics"],
+        "authors" : [{"name":"yeicor","url":"https://github.com/yeicor"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"yeicor/colmap-openmvs-app"},{"type":"Download","url":"https://github.com/yeicor/colmap-openmvs-app/releases"}],
+        "icons": ["colmap-openmvs-app/icons/256x256/colmap-openmvs-app.png"],
+        "screenshots" : ["https://yeicor.github.io/colmap-openmvs-app/screenshots/light/viewer-textured-mesh.jpg"],
+        "libc": "bundled",
+        "self_contained": true
         },
     
         {
@@ -37226,6 +37509,22 @@
         },
     
         {
+        "name": "jsBudbrainCaveRescue",
+    
+        "description": "<p>Lift off from the moon base, find the way down into the caves and land\n      gently next to the stranded astronauts. They run to your ship and climb\n      aboard. Fly them back to the base, refuel and head out again.</p>\n<p>Every world has its real gravity, from the Moon to Io, so every flight\n      feels different. The caves grow deeper and more winding from level to\n      level. Land too hard or scrape the rock and your shield takes the hit.</p>\n<ul>\n  <li>100 levels on ten real worlds, each one checked to be solvable</li>\n  <li>Simple controls: four buttons, nothing more</li>\n  <li>Upgrade your ship with experience and credits</li>\n  <li>Fuel cans and shield cells to pick up along the way</li>\n  <li>Four difficulty levels, from Normal to Hardcore</li>\n  <li>A mission gallery with a map of every flight</li>\n  <li>Available in 44 languages</li>\n</ul>\n<ul>\n  <li>100 Level auf zehn echten Welten, jedes auf Lösbarkeit geprüft</li>\n  <li>Einfache Steuerung: vier Knöpfe, mehr nicht</li>\n  <li>Schiff ausbauen mit Erfahrung und Credits</li>\n  <li>Kanister und Schildzellen zum Einsammeln unterwegs</li>\n  <li>Vier Schwierigkeitsstufen, von Normal bis Hardcore</li>\n  <li>Eine Missionsgalerie mit der Karte jedes Flugs</li>\n  <li>In 44 Sprachen</li>\n</ul>",
+    
+        "categories": ["Game"],
+        "authors" : null,
+        "license" : "LicenseRef-proprietaryLicenseRef-proprietary",
+        "links": [{"type":"Download","url":"https://www.budbrain.de/appimage/jsbudbraincaverescue-x86_64.AppImage"}],
+        "icons": ["jsBudbrainCaveRescue/icons/128x128/jsBudbrainCaveRescue.png"],
+        "screenshots" : ["https://www.budbrain.de/budbrain-software/images/linux/caverescue_01-delivery.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
+        },
+    
+        {
         "name": "jsBudbrainEqualizer",
     
         "description": "<p>Music, videos, games, calls in the browser — everything your computer\n      plays goes through ten sliders, and above them a colourful display shows\n      what you are hearing right now.</p>\n<p>Pick one of the ready-made sound settings or shape your own and save it\n      under a name. One click switches the equalizer off, and the sound goes\n      straight to your speakers again.</p>\n<p>Make it as big as you like, fold the sliders away, or keep a small\n      window on top while you work.</p>\n<ul>\n  <li>Ten sliders from deep bass to bright treble</li>\n  <li>Live display of what is playing, left, right or both</li>\n  <li>Ready-made sound settings and your own, saved under a name</li>\n  <li>Sliders glide smoothly into place when you switch</li>\n  <li>Mute button for when the phone rings</li>\n  <li>Choose which speakers or headphones to use</li>\n  <li>Fold the sliders away and keep only the display</li>\n  <li>Small window that stays on top</li>\n  <li>Starts when you log in, if you like</li>\n  <li>Light and dark design</li>\n  <li>Available in 44 languages</li>\n</ul>",
@@ -39431,6 +39730,22 @@
         "links": null,
         "icons": ["paferashare/icons/512x512/icon.png"],
         "screenshots" : ["paferashare/screenshot.png"]
+        },
+    
+        {
+        "name": "paint.c",
+    
+        "description": "Edit images with layers, effects and adjustments",
+    
+        "categories": ["Graphics"],
+        "authors" : [{"name":"vancevoj","url":"https://github.com/vancevoj"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"vancevoj/paint.c"},{"type":"Download","url":"https://github.com/vancevoj/paint.c/releases"}],
+        "icons": ["paint.c/icons/128x128/io.github.vancevoj.paintc.png"],
+        "screenshots" : ["https://raw.githubusercontent.com/vancevoj/paint.c/v0.1.2/packaging/screenshots/main.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.29"
         },
     
         {
