@@ -41,7 +41,7 @@ jobs:
       - name: 全量解析所有架构，遇限流则每小时补一轮
         run: |
           for i in 1 2 3; do
-            ./yai-src/yai repo resolve --arch all --concurrency 16 --skip-github || true
+            ./yai-src/yai repo resolve --arch all --concurrency 16 || true
             if [ "$i" -lt 3 ]; then sleep 3600; fi
           done
 
