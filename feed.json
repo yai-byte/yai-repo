@@ -1980,6 +1980,22 @@
         },
     
         {
+        "name": "Audiobooklet",
+    
+        "description": "Listen to audiobooks and podcasts from your Audiobookshelf server",
+    
+        "categories": ["AudioVideo"],
+        "authors" : [{"name":"gdr-aislop","url":"https://github.com/gdr-aislop"}],
+        "license" : "GPL-3.0-or-later",
+        "links": [{"type":"GitHub","url":"gdr-aislop/audiobooklet"},{"type":"Download","url":"https://github.com/gdr-aislop/audiobooklet/releases"}],
+        "icons": ["Audiobooklet/icons/scalable/io.github.gdr_aislop.audiobooklet.svg"],
+        "screenshots" : ["Audiobooklet/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "Audiola",
     
         "description": "Audiola 1.2.12",
@@ -8072,11 +8088,11 @@
         "description": "Offline first brainstorming and whiteboard app",
     
         "categories": ["Graphics"],
-        "authors" : null,
-        "license" : null,
-        "links": [{"type":"Download","url":"https://cdn.crabnebula.app/asset/01M4KFXS0B316TQ0SNNF61P4CV"}],
+        "authors" : [{"name":"Pratyay360","url":"https://github.com/Pratyay360"}],
+        "license" : "Apache-2.0",
+        "links": [{"type":"GitHub","url":"Pratyay360/drawx"},{"type":"Download","url":"https://github.com/Pratyay360/drawx/releases"}],
         "icons": ["Drawx/icons/128x128/drawx.png"],
-        "screenshots" : ["Drawx/screenshot.png"],
+        "screenshots" : ["https://ibb.co/ZRPL5xnt"],
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.35"
@@ -12702,6 +12718,22 @@
         },
     
         {
+        "name": "Hibiki",
+    
+        "description": "Hibiki — Plex music client",
+    
+        "categories": [null],
+        "authors" : [{"name":"karbowiak","url":"https://github.com/karbowiak"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"karbowiak/hibiki"},{"type":"Download","url":"https://github.com/karbowiak/hibiki/releases"}],
+        "icons": ["Hibiki/icons/128x128/hibiki.png"],
+        "screenshots" : ["Hibiki/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "HilbertRaum",
     
         "description": "HilbertRaum desktop app (Electron).",
@@ -15360,6 +15392,21 @@
         },
     
         {
+        "name": "LISTEN.moe",
+    
+        "description": "<p>It is time to ditch other radios. Stream and metadata provided by LISTEN.moe.</p>\n<ul>\n  <li>Listen to J-POP and K-POP</li>\n  <li>Animated sound bars that react to the music</li>\n  <li>Dynamic colors based on the current album or artist cover</li>\n  <li>No ads</li>\n  <li>Optional Discord activity sharing</li>\n</ul>",
+    
+        "categories": ["AudioVideo"],
+        "authors" : [{"name":"noobping","url":"https://github.com/noobping"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"noobping/listenmoe"},{"type":"Download","url":"https://github.com/noobping/listenmoe/releases"}],
+        "icons": ["LISTEN.moe/icons/scalable/io.github.noobping.listenmoe.svg"],
+        "screenshots" : ["LISTEN.moe/screenshot.png"],
+        "libc": "bundled",
+        "self_contained": true
+        },
+    
+        {
         "name": "LMMS",
     
         "description": "Music sequencer and synthesizer",
@@ -15383,6 +15430,20 @@
         "links": null,
         "icons": ["LOVE/icons/scalable/love.svg"],
         "screenshots" : ["LOVE/screenshot.png"]
+        },
+    
+        {
+        "name": "LOVR",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"bjornbytes","url":"https://github.com/bjornbytes"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"bjornbytes/lovr"},{"type":"Download","url":"https://github.com/bjornbytes/lovr/releases"}],
+        "icons": ["LOVR/icons/scalable/logo.svg"],
+        "screenshots" : ["LOVR/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.29"
         },
     
         {
@@ -28722,6 +28783,22 @@
         },
     
         {
+        "name": "SimpleNotes",
+    
+        "description": "<p>A small Apple Notes for Linux, macOS and iPhone/iPad. Every note is kept\n      on the device and works offline; notes sync through a server of your\n      own. When the same note is edited on two devices that could not reach\n      each other, both edits end up in the note: nobody is asked to pick a\n      version.</p>\n<ul>\n  <li>Rich text with titles, headings, lists and checklists, block quotes, colours and highlights, collapsible sections,\nlinks, images, files and tables</li>\n  <li>Folders in folders, tags, smart folders, pinning, a gallery view, an attachments browser, search and Recently Deleted</li>\n  <li>Find and replace, printing and export as PDF, export as Markdown, and import from Markdown, Obsidian, Joplin, Bear\nand Trilium</li>\n  <li>Version history, kept by the server</li>\n  <li>Sync with your own server, or directly with your devices on the same network</li>\n</ul>",
+    
+        "categories": ["Office"],
+        "authors" : [{"name":"ashalkhakov","url":"https://github.com/ashalkhakov"}],
+        "license" : "LGPL-2.1-or-later",
+        "links": [{"type":"GitHub","url":"ashalkhakov/TopoText"},{"type":"Download","url":"https://github.com/ashalkhakov/TopoText/releases"}],
+        "icons": ["SimpleNotes/icons/256x256/simplenotes.png"],
+        "screenshots" : ["https://raw.githubusercontent.com/ashalkhakov/TopoText/master/Examples/SimpleNotes/Screenshots/gnustep.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "SimpleX",
     
         "description": "<p>Security assessment was done by Trail of Bits in November 2022.</p>\n<p>SimpleX Chat features:</p>\n<ul>\n  <li>end-to-end encrypted messages, with editing, replies and deletion of messages.</li>\n  <li>sending end-to-end encrypted images and files.</li>\n  <li>single-use and long-term user addresses.</li>\n  <li>secret chat groups - only group members know it exists and who is the member.</li>\n  <li>end-to-end encrypted audio and video calls.</li>\n  <li>private instant notifications.</li>\n  <li>portable chat profile - you can transfer your chat contacts and history to another device (terminal or mobile).</li>\n  <li>encrypted app database and files in the app storage (except videos).</li>\n  <li>18 interface languages.</li>\n</ul>\n<p>SimpleX Chat advantages:</p>\n<ul>\n  <li>Full privacy of your identity, profile, contacts and metadata: unlike any other existing messaging platform, SimpleX\nuses no phone numbers or any other identifiers assigned to the users - not even random numbers. This protects the privacy of who you are communicating with, hiding it from SimpleX platform servers and from any observers.</li>\n  <li>Complete protection against spam and abuse: as you have no identifier on SimpleX platform, you cannot be contacted\nunless you share a one-time invitation link or an optional temporary user address.</li>\n  <li>Full ownership, control and security of your data: SimpleX stores all user data on client devices, the messages\nare only held temporarily on SimpleX relay servers until they are received.</li>\n  <li>Decentralized network: you can use SimpleX with your own servers and still communicate with people using the servers\nthat are pre-configured in the apps or any other SimpleX servers.</li> </ul>\n<p>You can connect to anybody you know via link or scan QR code (in the video call or in person) and start sending messages instantly - no emails, phone numbers or passwords needed.</p>\n<p>Your profile and contacts are only stored in the app on your device - our servers do not have access to this information.</p>\n<p>All messages are end-to-end encrypted using open-source double-ratchet protocol; the messages are routed via our servers using open-source SimpleX Messaging Protocol.</p>\n<p>Please send us any questions via the app or submit an issue on GitHub.</p>\n<p>Follow us on Mastodon, Twitter and Reddit for the latest updates.</p>\n<p>Once you install SimpleX Chat, &quot;connect to developers&quot; for any questions, to share feedback, and to discover the groups (the link for directory service will be in response).</p>",
@@ -33576,6 +33653,21 @@
         },
     
         {
+        "name": "Vibe_Wallet",
+    
+        "description": "<p>Vibe Wallet is a native GTK 4 and libadwaita desktop wallet for Solana.\n      It is non-custodial: your keys are encrypted and stored only on your\n      computer by the bundled signer (vibe-vault), and every transaction is\n      reviewed and confirmed locally before it is signed.</p>\n<p>Features:</p>\n<ul>\n  <li>Send and receive SOL and SPL / Token-2022 tokens, including .sol and .sns names</li>\n  <li>Token swaps routed through Jupiter, with the quote and fee shown before you confirm</li>\n  <li>Native SOL staking</li>\n  <li>Ledger and Trezor hardware wallet support, with confirmation on the device</li>\n  <li>NFT gallery and a portfolio view of your holdings</li>\n  <li>Optional startup password and idle auto-lock</li>\n</ul>\n<p>Vibe Wallet is not a bank, broker or custodian. Always keep an offline\n      backup of your recovery phrase.</p>",
+    
+        "categories": ["Office"],
+        "authors" : [{"name":"vibewalletsol","url":"https://github.com/vibewalletsol"}],
+        "license" : "LicenseRef-proprietary=https://vibewallet.net/eula AND GPL-3.0-only",
+        "links": [{"type":"GitHub","url":"vibewalletsol/VibeWallet"},{"type":"Download","url":"https://github.com/vibewalletsol/VibeWallet/releases"}],
+        "icons": ["Vibe_Wallet/icons/scalable/com.vibewallet.App.svg"],
+        "screenshots" : ["https://vibewallet.net/images/screens/wallet-desk.png"],
+        "libc": "bundled",
+        "self_contained": true
+        },
+    
+        {
         "name": "Viber",
     
         "description": "Viber VoIP and messenger",
@@ -36008,6 +36100,22 @@
         "links": [{"type":"Download","url":"https://download.opensuse.org/repositories/home:/dmulder:/YaST:/AppImage/AppImage/admin-tools-latest-x86_64.AppImage.mirrorlist"}],
         "icons": ["admin-tools/icons/48x48/admin-tools.png"],
         "screenshots" : ["admin-tools/screenshot.png"]
+        },
+    
+        {
+        "name": "ag-repatch",
+    
+        "description": "Restore the Antigravity IDE and agy patch",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"etosheartem","url":"https://github.com/etosheartem"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"etosheartem/ag-repatch"},{"type":"Download","url":"https://github.com/etosheartem/ag-repatch/releases"}],
+        "icons": ["ag-repatch/icons/1024x1024/ag-repatch.png"],
+        "screenshots" : ["ag-repatch/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -40087,6 +40195,22 @@
         "links": null,
         "icons": ["jsBudbrainPlayer/icons/128x128/jsbudbrainplayer.png"],
         "screenshots" : ["https://www.budbrain.de/budbrain-software/images/linux/jsbudbrainplayer_01-main-light.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
+        },
+    
+        {
+        "name": "jsBudbrainSoundEditor",
+    
+        "description": "<p>A sound editor for your recordings and your music: cut, copy and paste with the waveform in view, zoom in down to a single sample, set markers and play just the part between two of them. Every step can be undone, and long files stay in memory as long as there is room.</p>\n<p>Clean up and polish: normalize to a peak or a loudness target, fade in and out, remove background noise with a noise profile, find the tempo and the bass drum, and change the tempo with or without changing the pitch. The effects of the Budbrain sound apps are built in — equalizer, tube and compressor, limiter and FX studio — each with live preview.</p>\n<p>Opens and saves WAV, AIFF, FLAC, Ogg Vorbis and Opus. Opens MP3, and saves MP3 when the MP3 encoder of the system is installed.</p>\n<ul>\n  <li>Cut, copy, paste, mix in, delete and trim</li>\n  <li>Zoom with the mouse wheel down to single samples</li>\n  <li>Markers: set, name, play or select between them</li>\n  <li>Undo without a fixed limit</li>\n  <li>Several files in tabs, and the last session comes back</li>\n  <li>Normalize to a peak or to loudness (LUFS), fade, reverse, invert, remove DC offset, change the sample rate</li>\n  <li>Noise removal with a noise profile and live preview</li>\n  <li>Tempo detection (BPM) with bass drum, beat grid and snapping</li>\n  <li>Change the tempo: keep the pitch, or like a turntable</li>\n  <li>Equalizer, tube and compressor, limiter and FX studio with live preview</li>\n  <li>Record from any input, choose the output</li>\n  <li>Level meters, statistics and loudness measurement</li>\n  <li>Light and dark design</li>\n  <li>Available in 47 languages</li>\n</ul>",
+    
+        "categories": ["AudioVideo"],
+        "authors" : null,
+        "license" : "LicenseRef-proprietaryLicenseRef-proprietary",
+        "links": [{"type":"Download","url":"https://www.budbrain.de/appimage/jsbudbrainsoundeditor-x86_64.AppImage"}],
+        "icons": ["jsBudbrainSoundEditor/icons/128x128/jsbudbrainsoundeditor.png"],
+        "screenshots" : ["https://www.budbrain.de/budbrain-software/images/linux/jsbudbrainsoundeditor_01-dark.png"],
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.34"
