@@ -15309,6 +15309,22 @@
         },
     
         {
+        "name": "Kye",
+    
+        "description": "<p>Kye is a current-gen remake of the Windows 3.1 puzzle game from 1992 by Colin Garbutt. In Kye, you must navigate each level to reach every diamond. Experiment to find the properties of the objects encountered to pass each level. Contains 500+ original and community levels and a level editor to make and share your own.</p>",
+    
+        "categories": ["Game"],
+        "authors" : null,
+        "license" : "MIT",
+        "links": null,
+        "icons": ["Kye/icons/512x512/kye31.png"],
+        "screenshots" : ["https://playkye.com/images/2.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
+        },
+    
+        {
         "name": "LANShare",
     
         "description": "Local Area Network (LAN) File Transfer",
@@ -22360,6 +22376,22 @@
         },
     
         {
+        "name": "PG_Orbit",
+    
+        "description": "<p>PG Orbit is a PostgreSQL client for your desktop and your phone. Browse\n      databases, schemas, and tables, run SQL with highlighting and\n      autocomplete, and edit rows in place.</p>\n<ul>\n  <li>Schema browser for tables, views, materialized views, functions, and sequences</li>\n  <li>SQL editor with syntax highlighting, autocomplete, query parameters, history, and saved queries</li>\n  <li>Results grid with filtering, sorting, inline editing, and CSV export</li>\n  <li>Connections over SSL, SSH tunnels, and Kubernetes port forwarding</li>\n  <li>Passwords and SSH keys stay in your system keyring</li>\n  <li>On Omarchy, the app follows your desktop theme and changes with it</li>\n</ul>\n<p>Browsing and read-only queries are free. Premium, a one-time purchase,\n      unlocks writes, table design, and CSV export. An optional subscription\n      syncs connections and saved queries across your devices.</p>",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"acrogenesis","url":"https://github.com/acrogenesis"}],
+        "license" : "LicenseRef-proprietary=https://github.com/acrogenesis/pg-orbit-releases",
+        "links": [{"type":"GitHub","url":"acrogenesis/pg-orbit-releases"},{"type":"Download","url":"https://github.com/acrogenesis/pg-orbit-releases/releases"}],
+        "icons": ["PG_Orbit/icons/128x128/com.acrogenesis.pgOrbit.png"],
+        "screenshots" : ["https://pgorbit.com/images/screenshots/linux-query.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
+        },
+    
+        {
         "name": "PIA",
     
         "description": "Version Portable Outil PIA",
@@ -22899,6 +22931,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.34"
+        },
+    
+        {
+        "name": "ParCAD",
+    
+        "description": "parcad desktop application",
+    
+        "categories": [null],
+        "authors" : [{"name":"ierehon1905","url":"https://github.com/ierehon1905"}],
+        "license" : "AGPL-3.0",
+        "links": [{"type":"GitHub","url":"ierehon1905/parcad"},{"type":"Download","url":"https://github.com/ierehon1905/parcad/releases"}],
+        "icons": ["ParCAD/icons/128x128/parcad-app.png"],
+        "screenshots" : ["ParCAD/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
