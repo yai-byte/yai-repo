@@ -148,6 +148,17 @@
         },
     
         {
+        "name": "ACE-Step_Studio",
+    
+        "categories": [null],
+        "authors" : [{"name":"timoncool","url":"https://github.com/timoncool"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"timoncool/ACE-Step-Studio"},{"type":"Download","url":"https://github.com/timoncool/ACE-Step-Studio/releases"}],
+        "icons": ["ACE-Step_Studio/icons/128x128/ACE-Step-Studio.png"],
+        "screenshots" : ["ACE-Step_Studio/screenshot.png"]
+        },
+    
+        {
         "name": "ACP_Inspector",
     
         "description": "ACP Inspector is a developer tool for testing and debugging agents that speak the Agent Client Protocol (ACP) - inspect the JSON-RPC traffic, sessions, permission requests, and slash commands.",
@@ -555,6 +566,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.29"
+        },
+    
+        {
+        "name": "AeroFTP",
+    
+        "description": "Modern Multi-Protocol File Client with AI, Encryption & Cloud Storage",
+    
+        "categories": ["Network"],
+        "authors" : [{"name":"axpdev-lab","url":"https://github.com/axpdev-lab"}],
+        "license" : "GPL-3.0",
+        "links": [{"type":"GitHub","url":"axpdev-lab/aeroftp"},{"type":"Download","url":"https://github.com/axpdev-lab/aeroftp/releases"}],
+        "icons": ["AeroFTP/icons/128x128/aeroftp.png"],
+        "screenshots" : ["AeroFTP/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -1614,6 +1641,22 @@
         },
     
         {
+        "name": "Arroxy",
+    
+        "description": "Arroxy - YouTube downloader app",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"antonio-orionus","url":"https://github.com/antonio-orionus"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"antonio-orionus/Arroxy"},{"type":"Download","url":"https://github.com/antonio-orionus/Arroxy/releases"}],
+        "icons": ["Arroxy/icons/1003x1123/arroxy.png"],
+        "screenshots" : ["Arroxy/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.28"
+        },
+    
+        {
         "name": "ArtMoon",
     
         "description": "<p>ArtMoon is a gamepad-first streaming client built on Moonlight. It streams games and other applications from another PC running Sunshine, Apollo or GeForce Experience, with a native companion integration for ArtLight on the host.</p>\n<p>Features include:</p>\n<ul>\n  <li>Hardware accelerated video decoding with VAAPI, VDPAU, and Vulkan Video support</li>\n  <li>H.264, HEVC, and AV1 codec support</li>\n  <li>7.1 surround sound audio support</li>\n  <li>10-point multitouch support</li>\n  <li>Gamepad-first interface with force feedback for up to 16 players</li>\n  <li>Support for both pointer capture (for games) and direct mouse control (for remote desktop)</li>\n  <li>Support for passing system-wide keyboard shortcuts like Alt+Tab to the host</li>\n  <li>Per-host profiles, per-game overrides, and native display refresh-rate detection</li>\n</ul>",
@@ -1688,6 +1731,38 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.35"
+        },
+    
+        {
+        "name": "Arwing",
+    
+        "description": "Star Fox",
+    
+        "categories": ["Game"],
+        "authors" : [{"name":"carlosrmz009","url":"https://github.com/carlosrmz009"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"carlosrmz009/arwing"},{"type":"Download","url":"https://github.com/carlosrmz009/arwing/releases"}],
+        "icons": ["Arwing/icons/256x256/project-arwing.png"],
+        "screenshots" : ["Arwing/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
+        },
+    
+        {
+        "name": "Arwing_2",
+    
+        "description": "Star Fox 2",
+    
+        "categories": ["Game"],
+        "authors" : [{"name":"carlosrmz009","url":"https://github.com/carlosrmz009"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"carlosrmz009/arwing2"},{"type":"Download","url":"https://github.com/carlosrmz009/arwing2/releases"}],
+        "icons": ["Arwing_2/icons/256x256/project-arwing-2.png"],
+        "screenshots" : ["Arwing_2/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
         },
     
         {
@@ -1909,6 +1984,22 @@
         },
     
         {
+        "name": "Atomic_Agent",
+    
+        "description": "Desktop app for Atomic Agent. Starts the bundled agent locally and gives it a chat window.",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"AtomicBot-ai","url":"https://github.com/AtomicBot-ai"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"AtomicBot-ai/atomic-agent"},{"type":"Download","url":"https://github.com/AtomicBot-ai/atomic-agent/releases"}],
+        "icons": ["Atomic_Agent/icons/128x128/atomic-agent-desktop.png"],
+        "screenshots" : ["Atomic_Agent/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
+        },
+    
+        {
         "name": "Atomicwallet",
     
         "description": "atomic vue-electron",
@@ -1982,14 +2073,14 @@
         {
         "name": "Audiobooklet",
     
-        "description": "Listen to audiobooks and podcasts from your Audiobookshelf server",
+        "description": "<p>GNOME-native client for an Audiobookshelf media server, designed for\n      mobile Linux (Phosh on the Librem 5, also usable on desktop).</p>\n<p>Browse your library, stream or play downloaded audiobooks and podcasts,\n      and keep listening progress in sync with the server. Integrates with the\n      desktop via MPRIS2 and pauses during phone calls.</p>",
     
         "categories": ["AudioVideo"],
         "authors" : [{"name":"gdr-aislop","url":"https://github.com/gdr-aislop"}],
         "license" : "GPL-3.0-or-later",
         "links": [{"type":"GitHub","url":"gdr-aislop/audiobooklet"},{"type":"Download","url":"https://github.com/gdr-aislop/audiobooklet/releases"}],
         "icons": ["Audiobooklet/icons/scalable/io.github.gdr_aislop.audiobooklet.svg"],
-        "screenshots" : ["Audiobooklet/screenshot.png"],
+        "screenshots" : ["https://raw.githubusercontent.com/gdr-aislop/audiobooklet/main/docs/images/shot3.png"],
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.35"
@@ -2746,6 +2837,22 @@
         },
     
         {
+        "name": "BetterSource2Viewer",
+    
+        "description": "Browse, view and export Source 2 resources",
+    
+        "categories": ["Graphics"],
+        "authors" : [{"name":"J0nathan550","url":"https://github.com/J0nathan550"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"J0nathan550/BetterSource2Viewer"},{"type":"Download","url":"https://github.com/J0nathan550/BetterSource2Viewer/releases"}],
+        "icons": ["BetterSource2Viewer/icons/512x512/source2viewer.png"],
+        "screenshots" : ["BetterSource2Viewer/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
+        },
+    
+        {
         "name": "BetterYandexMusic",
     
         "description": "Installer and patcher for BetterYandexMusic sync",
@@ -2831,11 +2938,14 @@
         "description": "Electron-based SpringRTS Launcher app",
     
         "categories": ["Game"],
-        "authors" : null,
+        "authors" : [{"name":"beyond-all-reason","url":"https://github.com/beyond-all-reason"}],
         "license" : null,
-        "links": null,
+        "links": [{"type":"GitHub","url":"beyond-all-reason/BYAR-Chobby"},{"type":"Download","url":"https://github.com/beyond-all-reason/BYAR-Chobby/releases"}],
         "icons": ["Beyond_All_Reason/icons/256x256/beyond-all-reason.png"],
-        "screenshots" : ["Beyond_All_Reason/screenshot.png"]
+        "screenshots" : ["Beyond_All_Reason/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
         },
     
         {
@@ -4424,6 +4534,22 @@
         },
     
         {
+        "name": "Carthage",
+    
+        "description": "Game launcher",
+    
+        "categories": ["Game"],
+        "authors" : [{"name":"lopiksaa","url":"https://github.com/lopiksaa"}],
+        "license" : "GPL-3.0",
+        "links": [{"type":"GitHub","url":"lopiksaa/carthage"},{"type":"Download","url":"https://github.com/lopiksaa/carthage/releases"}],
+        "icons": ["Carthage/icons/512x512/io.github.lopiksa.Carthage.png"],
+        "screenshots" : ["Carthage/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "Carvera_Controller",
     
         "categories": ["Utility"],
@@ -4794,6 +4920,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.28"
+        },
+    
+        {
+        "name": "Chismoso",
+    
+        "description": "Client for Frigate NVR",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"DanielGarc","url":"https://github.com/DanielGarc"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"DanielGarc/chismoso"},{"type":"Download","url":"https://github.com/DanielGarc/chismoso/releases"}],
+        "icons": ["Chismoso/icons/128x128/chismoso.png"],
+        "screenshots" : ["Chismoso/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -5433,6 +5575,22 @@
         },
     
         {
+        "name": "Clippy_Vision",
+    
+        "description": "Local AI desktop companion with screen awareness",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"protocorn","url":"https://github.com/protocorn"}],
+        "license" : "AGPL-3.0",
+        "links": [{"type":"GitHub","url":"protocorn/clippy-vision"},{"type":"Download","url":"https://github.com/protocorn/clippy-vision/releases"}],
+        "icons": ["Clippy_Vision/icons/1024x1024/clippy-vision.png"],
+        "screenshots" : ["Clippy_Vision/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
+        },
+    
+        {
         "name": "Clipy",
     
         "description": "YouTube video downloader and editor",
@@ -5502,6 +5660,22 @@
         "links": [{"type":"GitHub","url":"Clownacy/ClownMapEd"},{"type":"Download","url":"https://github.com/Clownacy/ClownMapEd/releases"}],
         "icons": ["ClownMapEd/icons/128x128/ClownMapEd.png"],
         "screenshots" : ["https://raw.githubusercontent.com/Clownacy/ClownMapEd/20494fb0c484ab4a77ef3053ba58ddb527574acf/screenshot.png"]
+        },
+    
+        {
+        "name": "Clutch",
+    
+        "description": "A modern transmission RPC client.",
+    
+        "categories": [null],
+        "authors" : [{"name":"shitz","url":"https://github.com/shitz"}],
+        "license" : "Apache-2.0",
+        "links": [{"type":"GitHub","url":"shitz/clutch"},{"type":"Download","url":"https://github.com/shitz/clutch/releases"}],
+        "icons": ["Clutch/icons/512x512/clutch.png"],
+        "screenshots" : ["Clutch/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -6828,6 +7002,17 @@
         },
     
         {
+        "name": "DBI_Backend",
+    
+        "categories": [null],
+        "authors" : [{"name":"lemonteaau","url":"https://github.com/lemonteaau"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"lemonteaau/dbi-backend"},{"type":"Download","url":"https://github.com/lemonteaau/dbi-backend/releases"}],
+        "icons": ["DBI_Backend/icons/128x128/dbi-backend.png"],
+        "screenshots" : ["DBI_Backend/screenshot.png"]
+        },
+    
+        {
         "name": "DBPTK_Desktop",
     
         "description": "Database Preservation Toolkit",
@@ -7073,6 +7258,33 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.16"
+        },
+    
+        {
+        "name": "DS5_Dongle_OLED_Edition",
+    
+        "description": "Settings, remapping, pairing slots, diagnostics and firmware updates for the DS5 Dongle (DualSense Bluetooth bridge).",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"MarcelineVPQ","url":"https://github.com/MarcelineVPQ"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"MarcelineVPQ/DS5Dongle-OLED-Edition"},{"type":"Download","url":"https://github.com/MarcelineVPQ/DS5Dongle-OLED-Edition/releases"}],
+        "icons": ["DS5_Dongle_OLED_Edition/icons/1024x1024/ds5-dongle-configurator.png"],
+        "screenshots" : ["DS5_Dongle_OLED_Edition/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
+        },
+    
+        {
+        "name": "DSH_Java_Desktop",
+    
+        "categories": [null],
+        "authors" : [{"name":"fuzhengwei","url":"https://github.com/fuzhengwei"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"fuzhengwei/DSH-Java-Desktop"},{"type":"Download","url":"https://github.com/fuzhengwei/DSH-Java-Desktop/releases"}],
+        "icons": ["DSH_Java_Desktop/icons/128x128/dsh-java-desktop.png"],
+        "screenshots" : ["DSH_Java_Desktop/screenshot.png"]
         },
     
         {
@@ -7625,6 +7837,22 @@
         },
     
         {
+        "name": "DevCleaner",
+    
+        "description": "<p>DevCleaner for Linux scans developer caches and temporary files, explains cleanup risks, and can move selected Safe caches to Trash.</p>",
+    
+        "categories": ["Development"],
+        "authors" : null,
+        "license" : "Apache-2.0",
+        "links": [{"type":"Download","url":"https://devcleaner.app/downloads/linux/DevCleaner-x86_64.AppImage"}],
+        "icons": ["DevCleaner/icons/256x256/app.devcleaner.Linux.png"],
+        "screenshots" : ["DevCleaner/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "DevHub",
     
         "description": "TweetDeck for GitHub",
@@ -7635,6 +7863,22 @@
         "links": [{"type":"GitHub","url":"devhubapp/devhub"},{"type":"Download","url":"https://github.com/devhubapp/devhub/releases"}],
         "icons": ["DevHub/icons/512x512/devhub.png"],
         "screenshots" : ["DevHub/screenshot.png"]
+        },
+    
+        {
+        "name": "Deviload",
+    
+        "description": "Deviload: desktop front-end for yt-dlp and FFmpeg",
+    
+        "categories": [null],
+        "authors" : [{"name":"Pronexsteam","url":"https://github.com/Pronexsteam"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"Pronexsteam/deviload"},{"type":"Download","url":"https://github.com/Pronexsteam/deviload/releases"}],
+        "icons": ["Deviload/icons/128x128/deviload.png"],
+        "screenshots" : ["Deviload/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -8602,6 +8846,22 @@
         },
     
         {
+        "name": "Editora",
+    
+        "description": "A keyboard-driven, cross-platform programmer's text editor",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"adriandeleon","url":"https://github.com/adriandeleon"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"adriandeleon/Editora"},{"type":"Download","url":"https://github.com/adriandeleon/Editora/releases"}],
+        "icons": ["Editora/icons/512x512/editora.png"],
+        "screenshots" : ["Editora/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.9"
+        },
+    
+        {
         "name": "EiskaltDC++",
     
         "description": "<p>EiskaltDC++ is a cross-platform program that uses the Direct Connect and Advanced Direct Connect protocols. It is compatible with DC++, AirDC++, FlylinkDC++ and other DC clients. EiskaltDC++ also interoperates with all common DC hub software.</p>\n<p>Currently supported systems (in order of decreasing importance): GNU/Linux, macOS, MS Windows, FreeBSD, Haiku and GNU/Hurd.</p>\n<p>Features:</p>\n<ul>\n  <li>Highly customizable user interface</li>\n  <li>User interface is translated to many languages</li>\n  <li>Encryption of traffic</li>\n  <li>Multi-threaded download of files</li>\n  <li>Support of binding to specific network interface or address</li>\n  <li>Support of UPnP (Universal Plug and Play)</li>\n  <li>Support of PFSR (partial file sharing)</li>\n  <li>Support of DHT (Distributed Hash Table)</li>\n  <li>Support of case-sensitive file lists</li>\n  <li>Lists of downloaded and uploaded files</li>\n  <li>Lists of public and favorite hubs</li>\n  <li>Lists of favorite users</li>\n  <li>List of active transfers</li>\n  <li>Flexible search with the ability to group results</li>\n  <li>Flexible settings for downloading files</li>\n  <li>Indicator of free space on disk</li>\n  <li>Support of IP filter and basic antispam</li>\n  <li>Search spy</li>\n  <li>ADL search</li>\n  <li>Full-featured chat</li>\n  <li>User commands on hub</li>\n  <li>Flexible keyboard shortcuts settings</li>\n  <li>Text and sound notifications for different events</li>\n  <li>Flexible settings for files hashing</li>\n  <li>Special tool for calculating of TTH for any file</li>\n  <li>Support of limitations of download/upload speed</li>\n  <li>Support of limitations by size of shared files</li>\n  <li>Support of handling of magnet links, web magnet links and hub links</li>\n  <li>Support of automatic replies to private messages when user is inactive</li>\n  <li>Support of IDNA (recognition of national domain names)</li>\n  <li>Support of URL encoded strings for hub addresses</li>\n</ul>",
@@ -8765,6 +9025,22 @@
         "links": [{"type":"GitHub","url":"FlorianFe/Elements"},{"type":"Download","url":"https://github.com/FlorianFe/Elements/releases"}],
         "icons": ["Elements/icons/128x128/elements.png"],
         "screenshots" : ["Elements/screenshot.png"]
+        },
+    
+        {
+        "name": "ElixirOffice",
+    
+        "description": "Local ElixirOffice desktop editors",
+    
+        "categories": ["Office"],
+        "authors" : [{"name":"leag1234","url":"https://github.com/leag1234"}],
+        "license" : "AGPL-3.0",
+        "links": [{"type":"GitHub","url":"leag1234/elixiroffice"},{"type":"Download","url":"https://github.com/leag1234/elixiroffice/releases"}],
+        "icons": ["ElixirOffice/icons/512x512/elixiroffice.png"],
+        "screenshots" : ["ElixirOffice/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
         },
     
         {
@@ -10686,6 +10962,22 @@
         },
     
         {
+        "name": "FreeVideo",
+    
+        "description": "Install and open FreeVideo in ComfyUI",
+    
+        "categories": ["AudioVideo"],
+        "authors" : [{"name":"FlashML-org","url":"https://github.com/FlashML-org"}],
+        "license" : "Apache-2.0",
+        "links": [{"type":"GitHub","url":"FlashML-org/FreeVideo"},{"type":"Download","url":"https://github.com/FlashML-org/FreeVideo/releases"}],
+        "icons": ["FreeVideo/icons/512x512/org.flashml.FreeVideo.png"],
+        "screenshots" : ["FreeVideo/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "Free_Google_Index_Checker",
     
         "description": "Open source desktop Google index checker by IndexBolt",
@@ -11205,6 +11497,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.17"
+        },
+    
+        {
+        "name": "GeekEZ.Browser",
+    
+        "description": "Stealthy Anti-Detect Browser for E-Commerce",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"EchoHS","url":"https://github.com/EchoHS"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"EchoHS/GeekezBrowser"},{"type":"Download","url":"https://github.com/EchoHS/GeekezBrowser/releases"}],
+        "icons": ["GeekEZ.Browser/icons/512x512/geekez-browser.png"],
+        "screenshots" : ["GeekEZ.Browser/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
         },
     
         {
@@ -11984,6 +12292,17 @@
         },
     
         {
+        "name": "Gorilla_Wallet",
+    
+        "categories": [null],
+        "authors" : [{"name":"agustinkassis","url":"https://github.com/agustinkassis"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"agustinkassis/gorilla-wallet"},{"type":"Download","url":"https://github.com/agustinkassis/gorilla-wallet/releases"}],
+        "icons": ["Gorilla_Wallet/icons/128x128/gorilla-wallet.png"],
+        "screenshots" : ["Gorilla_Wallet/screenshot.png"]
+        },
+    
+        {
         "name": "GospelPdfViewer",
     
         "description": "<p>A fast pdf viewer based on Poppler or MuPdf.</p>",
@@ -12620,6 +12939,22 @@
         },
     
         {
+        "name": "Heronite",
+    
+        "description": "<p>Heronite gathers Epic Games, sideloaded and Steam games and emulated ROMs in one\n      Collection, and launches them with Wine, Proton or natively.</p>\n<ul>\n  <li>Statuses, ratings, playtime, sessions and statistics for every game</li>\n  <li>Metadata and artwork from IGDB, Steam and Lutris</li>\n  <li>Wine and Proton manager, save backups with Ludusavi</li>\n  <li>A controller-first console mode</li>\n</ul>",
+    
+        "categories": ["Game"],
+        "authors" : [{"name":"RafaelGoulartB","url":"https://github.com/RafaelGoulartB"}],
+        "license" : "GPL-3.0-only",
+        "links": [{"type":"GitHub","url":"RafaelGoulartB/Heronite"},{"type":"Download","url":"https://github.com/RafaelGoulartB/Heronite/releases"}],
+        "icons": ["Heronite/icons/256x256/com.heronite.rs.png"],
+        "screenshots" : ["Heronite/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "Herta",
     
         "description": "Herta — the self that uses the agent",
@@ -12763,6 +13098,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.34"
+        },
+    
+        {
+        "name": "Hoard",
+    
+        "description": "Self-hosted cloud sync for game saves",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"rleeon","url":"https://github.com/rleeon"}],
+        "license" : "AGPL-3.0",
+        "links": [{"type":"GitHub","url":"rleeon/hoard"},{"type":"Download","url":"https://github.com/rleeon/hoard/releases"}],
+        "icons": ["Hoard/icons/128x128/hoard-desktop.png"],
+        "screenshots" : ["Hoard/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -13380,6 +13731,22 @@
         "links": [{"type":"GitHub","url":"fetacore/Infinitex"},{"type":"Download","url":"https://github.com/fetacore/Infinitex/releases"}],
         "icons": null,
         "screenshots" : ["Infinitex/screenshot.png"]
+        },
+    
+        {
+        "name": "InfloWave",
+    
+        "description": "Modern time-series database management tool",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"chenqi92","url":"https://github.com/chenqi92"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"chenqi92/inflowave"},{"type":"Download","url":"https://github.com/chenqi92/inflowave/releases"}],
+        "icons": ["InfloWave/icons/128x128/InfloWave.png"],
+        "screenshots" : ["InfloWave/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -16145,6 +16512,33 @@
         },
     
         {
+        "name": "Libre_Calculator",
+    
+        "categories": [null],
+        "authors" : [{"name":"tonyzedginidze","url":"https://github.com/tonyzedginidze"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"tonyzedginidze/librecalculator"},{"type":"Download","url":"https://github.com/tonyzedginidze/librecalculator/releases"}],
+        "icons": ["Libre_Calculator/icons/128x128/libre-calculator-desktop.png"],
+        "screenshots" : ["Libre_Calculator/screenshot.png"]
+        },
+    
+        {
+        "name": "Libre_Panel",
+    
+        "description": "Shows system sensors on a USB monitor panel",
+    
+        "categories": ["System"],
+        "authors" : [{"name":"syntensa","url":"https://github.com/syntensa"}],
+        "license" : "GPL-3.0",
+        "links": [{"type":"GitHub","url":"syntensa/libre-panel"},{"type":"Download","url":"https://github.com/syntensa/libre-panel/releases"}],
+        "icons": ["Libre_Panel/icons/256x256/libre-panel.png"],
+        "screenshots" : ["Libre_Panel/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "Light_Matter",
     
         "description": "<p>Light Matter is an HDR image and photo viewer for Windows and Linux.\n      It features a simple and intuitive UI, photo browser with customisable locations,\n      support for both High Dynamic Range (HDR) and Standard Dynamic Range (SDR) images,\n      wide colour gamut, and ICC profiles.</p>\n<p>Supported image formats: JPEG, JPEG UltraHDR, JPEG XL, AVIF, PNG, WebP, GIF.</p>\n<p>Supported colour gamuts: sRGB, AdobeRGB, P3, BT.2020/BT.2100, custom colour primaries.</p>\n<p>Supported HDR EOTF: PQ (SMPTE ST 2084), HLG (ARIB STD-B67).</p>",
@@ -16334,6 +16728,22 @@
         },
     
         {
+        "name": "Little_Planet",
+    
+        "description": "Sonic CD for the Mega-CD",
+    
+        "categories": ["Game"],
+        "authors" : [{"name":"carlosrmz009","url":"https://github.com/carlosrmz009"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"carlosrmz009/littleplanet"},{"type":"Download","url":"https://github.com/carlosrmz009/littleplanet/releases"}],
+        "icons": ["Little_Planet/icons/256x256/littleplanet.png"],
+        "screenshots" : ["Little_Planet/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "LiveClaw",
     
         "description": "An Electron desktop AI companion — a Live2D character you chat with.",
@@ -16376,6 +16786,22 @@
         "links": [{"type":"GitHub","url":"thecoder75/liveme-pro-tools"},{"type":"Download","url":"https://github.com/thecoder75/liveme-pro-tools/releases"}],
         "icons": ["LiveMe_Pro_Tools/icons/1024x1024/liveme-pro-tools.png"],
         "screenshots" : ["LiveMe_Pro_Tools/screenshot.png"]
+        },
+    
+        {
+        "name": "Locademy",
+    
+        "description": "Local course player",
+    
+        "categories": [null],
+        "authors" : [{"name":"swimshahriar","url":"https://github.com/swimshahriar"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"swimshahriar/locademy"},{"type":"Download","url":"https://github.com/swimshahriar/locademy/releases"}],
+        "icons": ["Locademy/icons/128x128/locademy.png"],
+        "screenshots" : ["Locademy/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -16499,6 +16925,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.38"
+        },
+    
+        {
+        "name": "LogDeck",
+    
+        "description": "Read-only Kubernetes and OKD/OpenShift log explorer for macOS, Linux and Windows",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"wisecort","url":"https://github.com/wisecort"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"wisecort/LogDeck"},{"type":"Download","url":"https://github.com/wisecort/LogDeck/releases"}],
+        "icons": ["LogDeck/icons/128x128/logdeck.png"],
+        "screenshots" : ["LogDeck/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
         },
     
         {
@@ -16791,6 +17233,17 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.28"
+        },
+    
+        {
+        "name": "Lumiverse",
+    
+        "categories": [null],
+        "authors" : [{"name":"prolix-oc","url":"https://github.com/prolix-oc"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"prolix-oc/Lumiverse"},{"type":"Download","url":"https://github.com/prolix-oc/Lumiverse/releases"}],
+        "icons": ["Lumiverse/icons/128x128/lumiverse-tray.png"],
+        "screenshots" : ["Lumiverse/screenshot.png"]
         },
     
         {
@@ -17683,6 +18136,22 @@
         },
     
         {
+        "name": "Markion",
+    
+        "description": "A Rust + GPUI Markdown editor with live preview, themes, and i18n.",
+    
+        "categories": ["Office"],
+        "authors" : [{"name":"willmove","url":"https://github.com/willmove"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"willmove/markion"},{"type":"Download","url":"https://github.com/willmove/markion/releases"}],
+        "icons": ["Markion/icons/512x512/markion.png"],
+        "screenshots" : ["Markion/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "Markman",
     
         "categories": ["Utility"],
@@ -17733,6 +18202,20 @@
         "links": null,
         "icons": ["Marvin/icons/128x128/marvin.png"],
         "screenshots" : ["Marvin/screenshot.png"]
+        },
+    
+        {
+        "name": "Masame",
+    
+        "categories": ["Game"],
+        "authors" : [{"name":"Slymaster","url":"https://github.com/Slymaster"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"Slymaster/masame"},{"type":"Download","url":"https://github.com/Slymaster/masame/releases"}],
+        "icons": ["Masame/icons/128x128/masame.png"],
+        "screenshots" : ["Masame/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -18735,6 +19218,22 @@
         },
     
         {
+        "name": "Mixdog",
+    
+        "description": "Mixdog desktop host for Windows, macOS, and Linux",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"tribgames","url":"https://github.com/tribgames"}],
+        "license" : "Apache-2.0",
+        "links": [{"type":"GitHub","url":"tribgames/mixdog"},{"type":"Download","url":"https://github.com/tribgames/mixdog/releases"}],
+        "icons": ["Mixdog/icons/128x128/mixdog-desktop.png"],
+        "screenshots" : ["Mixdog/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.28"
+        },
+    
+        {
         "name": "Mixi",
     
         "description": "Deterministic Audio Workstation",
@@ -19259,6 +19758,17 @@
         },
     
         {
+        "name": "Multi_Codex",
+    
+        "categories": [null],
+        "authors" : [{"name":"wrestle-R","url":"https://github.com/wrestle-R"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"wrestle-R/multi-codex"},{"type":"Download","url":"https://github.com/wrestle-R/multi-codex/releases"}],
+        "icons": ["Multi_Codex/icons/128x128/multi-codex-desktop.png"],
+        "screenshots" : ["Multi_Codex/screenshot.png"]
+        },
+    
+        {
         "name": "Multistream",
     
         "description": "Watch multiple streams simultaneously on Twitch, YouTube and Kick",
@@ -19341,6 +19851,22 @@
         "links": null,
         "icons": ["MuseScore/icons/scalable/mscore-portable.svg"],
         "screenshots" : ["https://raw.githubusercontent.com/flathub/org.musescore.MuseScore/master/screenshots/01-start-center.png"]
+        },
+    
+        {
+        "name": "Muse_Desktop",
+    
+        "description": "Unofficial macOS, Windows, and Linux desktop companion for Muse Code. Not affiliated with Meta.",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"robzilla1738","url":"https://github.com/robzilla1738"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"robzilla1738/muse-desktop"},{"type":"Download","url":"https://github.com/robzilla1738/muse-desktop/releases"}],
+        "icons": ["Muse_Desktop/icons/1254x1254/muse-desktop.png"],
+        "screenshots" : ["Muse_Desktop/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
         },
     
         {
@@ -21013,6 +21539,22 @@
         },
     
         {
+        "name": "OmniPacker",
+    
+        "description": "Download and pack Steam games with DepotDownloader and 7-Zip",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"elgreams","url":"https://github.com/elgreams"}],
+        "license" : "GPL-3.0",
+        "links": [{"type":"GitHub","url":"elgreams/OmniPacker"},{"type":"Download","url":"https://github.com/elgreams/OmniPacker/releases"}],
+        "icons": ["OmniPacker/icons/128x128/omnipacker.png"],
+        "screenshots" : ["OmniPacker/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "Omni_Control",
     
         "description": "Omni Control - Remote PC Control Desktop Server",
@@ -21471,6 +22013,22 @@
         },
     
         {
+        "name": "OpenDoctrines",
+    
+        "description": "Run a country: its industry, armies, research, politics and neighbours",
+    
+        "categories": ["Game"],
+        "authors" : [{"name":"Pr1nted","url":"https://github.com/Pr1nted"}],
+        "license" : "LicenseRef-proprietary=https://github.com/Pr1nted/Open-Doctrines/blob/main/LICENSE",
+        "links": [{"type":"GitHub","url":"Pr1nted/Open-Doctrines"},{"type":"Download","url":"https://github.com/Pr1nted/Open-Doctrines/releases"}],
+        "icons": ["OpenDoctrines/icons/256x256/io.github.Pr1nted.OpenDoctrines.png"],
+        "screenshots" : ["https://cdn.jsdelivr.net/gh/Pr1nted/Open-Doctrines@main/docs/img/world-map.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "OpenDrop_VJ",
     
         "categories": ["AudioVideo"],
@@ -21715,10 +22273,10 @@
     
         "categories": ["Game"],
         "authors" : [{"name":"OpenRA","url":"https://github.com/OpenRA"}],
-        "license" : null,
+        "license" : "GPL-3.0",
         "links": [{"type":"GitHub","url":"OpenRA/OpenRA"},{"type":"Download","url":"https://github.com/OpenRA/OpenRA/releases"}],
         "icons": ["OpenRA/icons/scalable/openra-ra.svg"],
-        "screenshots" : ["OpenRA/screenshot.png"],
+        "screenshots" : ["https://www.openra.net/images/appdata/ingame-ra.png"],
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.27"
@@ -21783,6 +22341,22 @@
         },
     
         {
+        "name": "OpenSGolf",
+    
+        "description": "Build and run a golf resort (a free engine that plays like SimGolf)",
+    
+        "categories": ["Game"],
+        "authors" : [{"name":"crspytopgn","url":"https://github.com/crspytopgn"}],
+        "license" : "GPL-2.0",
+        "links": [{"type":"GitHub","url":"crspytopgn/opensgolf"},{"type":"Download","url":"https://github.com/crspytopgn/opensgolf/releases"}],
+        "icons": ["OpenSGolf/icons/256x256/opensgolf.png"],
+        "screenshots" : ["OpenSGolf/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.39"
+        },
+    
+        {
         "name": "OpenScreenPLUS",
     
         "categories": ["Utility"],
@@ -21794,6 +22368,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.25"
+        },
+    
+        {
+        "name": "OpenSharkX11",
+    
+        "description": "Configurador do mouse Attack Shark X11 para Linux",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"clevim","url":"https://github.com/clevim"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"clevim/OpenSharkX11"},{"type":"Download","url":"https://github.com/clevim/OpenSharkX11/releases"}],
+        "icons": ["OpenSharkX11/icons/128x128/opensharkx11.png"],
+        "screenshots" : ["OpenSharkX11/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -21930,6 +22520,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.30"
+        },
+    
+        {
+        "name": "OpenWar3",
+    
+        "description": "Browser-first, asset-compatible re-creation of the Warcraft III engine (TypeScript). Ships zero Blizzard assets.",
+    
+        "categories": ["Game"],
+        "authors" : [{"name":"elevchyt","url":"https://github.com/elevchyt"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"elevchyt/openwar3"},{"type":"Download","url":"https://github.com/elevchyt/openwar3/releases"}],
+        "icons": ["OpenWar3/icons/128x128/openwar3.png"],
+        "screenshots" : ["OpenWar3/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
         },
     
         {
@@ -22212,6 +22818,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.34"
+        },
+    
+        {
+        "name": "Otto",
+    
+        "description": "A calm home for your cloud coding agents",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"jaygupta17","url":"https://github.com/jaygupta17"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"jaygupta17/otto"},{"type":"Download","url":"https://github.com/jaygupta17/otto/releases"}],
+        "icons": ["Otto/icons/128x128/otto.png"],
+        "screenshots" : ["Otto/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -25041,6 +25663,22 @@
         },
     
         {
+        "name": "PyQuark",
+    
+        "description": "Nintendo Switch USB file server",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"Zannael","url":"https://github.com/Zannael"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"Zannael/PyQuark"},{"type":"Download","url":"https://github.com/Zannael/PyQuark/releases"}],
+        "icons": ["PyQuark/icons/scalable/pyquark.svg"],
+        "screenshots" : ["PyQuark/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "Pybient",
     
         "description": "The intuitive Python code editor",
@@ -25886,6 +26524,22 @@
         },
     
         {
+        "name": "RESO_Tools",
+    
+        "description": "RESO Reference Server — Desktop Client",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"RESOStandards","url":"https://github.com/RESOStandards"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"RESOStandards/reso-tools"},{"type":"Download","url":"https://github.com/RESOStandards/reso-tools/releases"}],
+        "icons": ["RESO_Tools/icons/128x128/reso-desktop-client.png"],
+        "screenshots" : ["RESO_Tools/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.29"
+        },
+    
+        {
         "name": "RHB",
     
         "description": "Rapid HTML Builder/Prototyper, built with Electron and Grapesjs",
@@ -25912,6 +26566,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.28"
+        },
+    
+        {
+        "name": "RITMO_Music_Tracker",
+    
+        "description": "Music tracker for the POKEY chip of the Atari XL/XE",
+    
+        "categories": ["AudioVideo"],
+        "authors" : [{"name":"gianlucarenzi","url":"https://github.com/gianlucarenzi"}],
+        "license" : "GPL-3.0",
+        "links": [{"type":"GitHub","url":"gianlucarenzi/RITMO-Music-Tracker"},{"type":"Download","url":"https://github.com/gianlucarenzi/RITMO-Music-Tracker/releases"}],
+        "icons": ["RITMO_Music_Tracker/icons/256x256/ritmo.png"],
+        "screenshots" : ["RITMO_Music_Tracker/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.30"
         },
     
         {
@@ -28498,6 +29168,22 @@
         },
     
         {
+        "name": "Shroudly",
+    
+        "description": "Shroudly - Unseen. Unstoppable. | Cross-platform DPI bypass (self-contained engine)",
+    
+        "categories": ["Network"],
+        "authors" : [{"name":"umutxyp","url":"https://github.com/umutxyp"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"umutxyp/Shroudly"},{"type":"Download","url":"https://github.com/umutxyp/Shroudly/releases"}],
+        "icons": ["Shroudly/icons/512x512/shroudly.png"],
+        "screenshots" : ["Shroudly/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
+        },
+    
+        {
         "name": "ShuffleStudy",
     
         "description": "A modern note-taking app for college students",
@@ -28984,6 +29670,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.29"
+        },
+    
+        {
+        "name": "Sketchover",
+    
+        "description": "Draw on your screen during calls",
+    
+        "categories": ["Office"],
+        "authors" : [{"name":"ProAnima","url":"https://github.com/ProAnima"}],
+        "license" : "Apache-2.0",
+        "links": [{"type":"GitHub","url":"ProAnima/Sketchover"},{"type":"Download","url":"https://github.com/ProAnima/Sketchover/releases"}],
+        "icons": ["Sketchover/icons/128x128/sketchover.png"],
+        "screenshots" : ["Sketchover/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -29872,11 +30574,14 @@
         "description": "Electron-based SpringRTS Launcher app",
     
         "categories": ["Game"],
-        "authors" : null,
-        "license" : null,
-        "links": null,
+        "authors" : [{"name":"Spring-SpringBoard","url":"https://github.com/Spring-SpringBoard"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"Spring-SpringBoard/SpringBoard-Core"},{"type":"Download","url":"https://github.com/Spring-SpringBoard/SpringBoard-Core/releases"}],
         "icons": ["SpringBoard/icons/512x512/springboard.png"],
-        "screenshots" : ["SpringBoard/screenshot.png"]
+        "screenshots" : ["SpringBoard/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
         },
     
         {
@@ -30575,6 +31280,22 @@
         },
     
         {
+        "name": "Stunts_HD",
+    
+        "description": "Stunts (1990) in HD: the website’s game, as a desktop app",
+    
+        "categories": ["Game"],
+        "authors" : [{"name":"mr-finster","url":"https://github.com/mr-finster"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"mr-finster/stunts-hd"},{"type":"Download","url":"https://github.com/mr-finster/stunts-hd/releases"}],
+        "icons": ["Stunts_HD/icons/1024x1024/stunts-hd.png"],
+        "screenshots" : ["Stunts_HD/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
+        },
+    
+        {
         "name": "SubCat",
     
         "description": "Get notified when a GitHub Actions CI run finishes and investigate flaky tests automatically.",
@@ -30775,6 +31496,22 @@
         "links": null,
         "icons": null,
         "screenshots" : ["SuperTux/screenshot.png"]
+        },
+    
+        {
+        "name": "Super_MD",
+    
+        "description": "Interactive Markdown studio with native Qt controls and typeset PDF export",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"YashMahawa","url":"https://github.com/YashMahawa"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"YashMahawa/super-md"},{"type":"Download","url":"https://github.com/YashMahawa/super-md/releases"}],
+        "icons": ["Super_MD/icons/scalable/super-md.svg"],
+        "screenshots" : ["Super_MD/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -31172,6 +31909,22 @@
         },
     
         {
+        "name": "Syspeek",
+    
+        "description": "Compact on-screen focused-process monitor",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"codeafridi","url":"https://github.com/codeafridi"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"codeafridi/Syspeek"},{"type":"Download","url":"https://github.com/codeafridi/Syspeek/releases"}],
+        "icons": ["Syspeek/icons/scalable/syspeek.svg"],
+        "screenshots" : ["Syspeek/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
+        },
+    
+        {
         "name": "T.Viewer",
     
         "categories": ["Utility"],
@@ -31299,6 +32052,22 @@
         "links": null,
         "icons": null,
         "screenshots" : ["TVALB/screenshot.png"]
+        },
+    
+        {
+        "name": "Tabchat",
+    
+        "description": "WhatsApp, Discord, Teams, Outlook en OneDrive in één venster",
+    
+        "categories": ["Network"],
+        "authors" : [{"name":"MMV2408","url":"https://github.com/MMV2408"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"MMV2408/tabchat"},{"type":"Download","url":"https://github.com/MMV2408/tabchat/releases"}],
+        "icons": ["Tabchat/icons/512x512/tabchat.png"],
+        "screenshots" : ["Tabchat/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.28"
         },
     
         {
@@ -31463,6 +32232,22 @@
         },
     
         {
+        "name": "Tatap",
+    
+        "description": "Pemutar anime lokal ringan tanpa akun",
+    
+        "categories": ["AudioVideo"],
+        "authors" : [{"name":"asfaraguest","url":"https://github.com/asfaraguest"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"asfaraguest/tatap"},{"type":"Download","url":"https://github.com/asfaraguest/tatap/releases"}],
+        "icons": ["Tatap/icons/256x256/tatap.png"],
+        "screenshots" : ["Tatap/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
+        },
+    
+        {
         "name": "Taurvia",
     
         "description": "Non-custodial desktop wallet",
@@ -31553,6 +32338,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.28"
+        },
+    
+        {
+        "name": "Team-X",
+    
+        "description": "Strategia-X Team-X desktop app for operating an AI company.",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"Git-Rocky-Stack","url":"https://github.com/Git-Rocky-Stack"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"Git-Rocky-Stack/Team-X"},{"type":"Download","url":"https://github.com/Git-Rocky-Stack/Team-X/releases"}],
+        "icons": ["Team-X/icons/512x512/team-x.png"],
+        "screenshots" : ["Team-X/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
         },
     
         {
@@ -31721,6 +32522,22 @@
         },
     
         {
+        "name": "Termos",
+    
+        "description": "Termos: SSH client, SFTP, port forwarding and Proxmox manager",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"adriyansyah-mf","url":"https://github.com/adriyansyah-mf"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"adriyansyah-mf/TERMOS"},{"type":"Download","url":"https://github.com/adriyansyah-mf/TERMOS/releases"}],
+        "icons": ["Termos/icons/512x512/termos.png"],
+        "screenshots" : ["Termos/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
+        },
+    
+        {
         "name": "TeslaCam_Browser",
     
         "description": "A minimal TeslaCam Browser",
@@ -31731,6 +32548,22 @@
         "links": [{"type":"GitHub","url":"BobStrogg/teslacam-browser"},{"type":"Download","url":"https://github.com/BobStrogg/teslacam-browser/releases"}],
         "icons": ["TeslaCam_Browser/icons/128x128/teslacam-browser.png"],
         "screenshots" : ["TeslaCam_Browser/screenshot.png"]
+        },
+    
+        {
+        "name": "TeslaCam_Viewer",
+    
+        "description": "TeslaCam Viewer as a desktop app: your Tesla’s Sentry and dashcam clips, on your own computer",
+    
+        "categories": ["AudioVideo"],
+        "authors" : [{"name":"darkmariachi","url":"https://github.com/darkmariachi"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"darkmariachi/teslacamviewer"},{"type":"Download","url":"https://github.com/darkmariachi/teslacamviewer/releases"}],
+        "icons": ["TeslaCam_Viewer/icons/1024x1024/teslacam-viewer.png"],
+        "screenshots" : ["TeslaCam_Viewer/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
         },
     
         {
@@ -32765,6 +33598,22 @@
         },
     
         {
+        "name": "TuxTalk",
+    
+        "description": "<p>TuxTalk (formerly TalkType) is free voice dictation for Linux. Hold F8 and talk, let go, and your words\n      are typed wherever your cursor is, in any app. Or tap F9 to start and tap again to stop.\n      It works on Wayland and X11, on GNOME, KDE, Sway, Hyprland and more.</p>\n<p>Everything runs on your own computer. Nothing you say is sent anywhere, and after the\n      first download it works with no internet at all.</p>\n<ul>\n  <li>NVIDIA&apos;s Parakeet by default, fast even without a graphics card, for English and 24 European languages</li>\n  <li>OpenAI&apos;s Whisper for 99 languages, from Tiny up to Large-v3</li>\n  <li>Any graphics card through Vulkan (NVIDIA, AMD or Intel), or CUDA on NVIDIA</li>\n  <li>First run picks a setup for your computer and language</li>\n  <li>Voice commands for punctuation, new lines and undo, plus your own phrases</li>\n  <li>Optional AI corrections, also on your computer: &quot;three o&apos;clock, no wait, four&quot; types &quot;four o&apos;clock&quot;</li>\n  <li>Fix a Word teaches it names and terms it keeps getting wrong</li>\n  <li>Hands-free mode that stops by itself when you go quiet</li>\n  <li>Back up your settings and load them on another computer</li>\n  <li>Your dictation stats and how much typing time you saved</li>\n</ul>",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"ronb1964","url":"https://github.com/ronb1964"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"ronb1964/TuxTalk"},{"type":"Download","url":"https://github.com/ronb1964/TuxTalk/releases"}],
+        "icons": ["TuxTalk/icons/2606x2563/io.github.ronb1964.TuxTalk.png"],
+        "screenshots" : ["https://raw.githubusercontent.com/ronb1964/TuxTalk/main/screenshots/dictating.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "TweakPHP",
     
         "description": "Tweak your PHP code easily",
@@ -32807,6 +33656,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.25"
+        },
+    
+        {
+        "name": "TwinDesk",
+    
+        "description": "TwinDesk for Linux: share mouse, keyboard, clipboard, files, sound and screens with a Mac, a PC or another Linux computer.",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"InukaAsith","url":"https://github.com/InukaAsith"}],
+        "license" : "GPL-3.0",
+        "links": [{"type":"GitHub","url":"InukaAsith/TwinDesk"},{"type":"Download","url":"https://github.com/InukaAsith/TwinDesk/releases"}],
+        "icons": ["TwinDesk/icons/512x512/twindesk.png"],
+        "screenshots" : ["TwinDesk/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
         },
     
         {
@@ -32882,6 +33747,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.36"
+        },
+    
+        {
+        "name": "UDCalc",
+    
+        "description": "<p>A clone of the Calculator that comes with macOS, ported to GNUstep.</p>\n<ul>\n  <li>Basic, scientific and programmer modes</li>\n  <li>Reverse Polish Notation</li>\n  <li>A paper tape of the calculations made</li>\n  <li>Unit conversions, with the recent ones a click away</li>\n</ul>",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"ashalkhakov","url":"https://github.com/ashalkhakov"}],
+        "license" : "BSD-2-Clause",
+        "links": [{"type":"GitHub","url":"ashalkhakov/UDCalc"},{"type":"Download","url":"https://github.com/ashalkhakov/UDCalc/releases"}],
+        "icons": ["UDCalc/icons/256x256/udcalc.png"],
+        "screenshots" : ["https://raw.githubusercontent.com/ashalkhakov/UDCalc/main/docs/images/basic-mode.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -33669,6 +34550,22 @@
         },
     
         {
+        "name": "VibeHub",
+    
+        "description": "A cross-platform launcher for development tools",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"ChenM0M","url":"https://github.com/ChenM0M"}],
+        "license" : "Apache-2.0",
+        "links": [{"type":"GitHub","url":"ChenM0M/VibeHub"},{"type":"Download","url":"https://github.com/ChenM0M/VibeHub/releases"}],
+        "icons": ["VibeHub/icons/128x128/vibehub.png"],
+        "screenshots" : ["VibeHub/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "VibeShot",
     
         "description": "A fast screenshot shelf for coding-agent workflows.",
@@ -33934,6 +34831,22 @@
         },
     
         {
+        "name": "Virtual_Jaguar_libretro",
+    
+        "description": "Play Atari Jaguar and Jaguar CD games",
+    
+        "categories": ["Game"],
+        "authors" : [{"name":"libretro","url":"https://github.com/libretro"}],
+        "license" : "GPL-3.0-only",
+        "links": [{"type":"GitHub","url":"libretro/virtualjaguar-libretro"},{"type":"Download","url":"https://github.com/libretro/virtualjaguar-libretro/releases"}],
+        "icons": ["Virtual_Jaguar_libretro/icons/scalable/io.github.libretro.VirtualJaguar.svg"],
+        "screenshots" : ["https://jaguar.provenance-emu.com/assets/app_library.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
+        },
+    
+        {
         "name": "VisiCut",
     
         "description": "A userfriendly tool to create, save and send Jobs to a Lasercutter",
@@ -34141,6 +35054,22 @@
         },
     
         {
+        "name": "Voidstrap",
+    
+        "description": "<p>Voidstrap is an open source Roblox launcher for Linux. It installs and launches Roblox through Sober, bringing settings, mods, and everyday tools together in one app.</p>\n<p>Use classic character sounds, choose a different cursor, adjust graphics settings, or customize the launcher. Save FastFlag profiles for different setups and switch between them without rebuilding your configuration each time.</p>\n<ul>\n  <li>Sober and launching: set up Sober, launch Roblox experiences, and manage your launch preferences.</li>\n  <li>Graphics and performance: adjust available options, edit FastFlags, and create, rename, or switch saved profiles.</li>\n  <li>Mods: manage custom cursors, character sounds, fonts, textures, and other visual replacements.</li>\n  <li>Appearance: choose themes, colors, gradients, and launcher styles to match your desktop.</li>\n  <li>Roblox tools: access account and server tools, view session information, and track your playtime.</li>\n  <li>Desktop integration: customize Discord Rich Presence and use shortcuts to open Roblox or Voidstrap settings.</li>\n</ul>\n<p>Roblox runs through Sober on Linux. The effect of individual FastFlags and mods depends on the current Roblox and Sober versions.</p>\n<p>The source code, releases, and issue tracker are available on GitHub. Browse the project, follow updates, or report a problem.</p>",
+    
+        "categories": ["Game"],
+        "authors" : [{"name":"KloBraticc","url":"https://github.com/KloBraticc"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"KloBraticc/Voidstrap"},{"type":"Download","url":"https://github.com/KloBraticc/Voidstrap/releases"}],
+        "icons": ["Voidstrap/icons/256x256/io.github.KloBraticc.Voidstrap.png"],
+        "screenshots" : ["https://raw.githubusercontent.com/KloBraticc/Voidstrap/main/assets/screenshots/linux/voidstrap.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.29"
+        },
+    
+        {
         "name": "Voltra",
     
         "description": "Voltra Co. Music Player",
@@ -34233,12 +35162,15 @@
         {
         "name": "Vusic",
     
-        "categories": ["Utility"],
-        "authors" : null,
-        "license" : null,
-        "links": null,
-        "icons": ["Vusic/icons/128x128/vusic.png"],
-        "screenshots" : ["Vusic/screenshot.png"]
+        "categories": ["Audio"],
+        "authors" : [{"name":"dawg","url":"https://github.com/dawg"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"dawg/dawg"},{"type":"Download","url":"https://github.com/dawg/dawg/releases"}],
+        "icons": ["Vusic/icons/128x128/dawg.png"],
+        "screenshots" : ["Vusic/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.17"
         },
     
         {
@@ -35253,6 +36185,36 @@
         },
     
         {
+        "name": "XKNX_Editor",
+    
+        "description": "<p>XKNX Editor is a multi-platform desktop app for KNX building-automation\n      projects. Import and export .knxproj files, browse product catalogs, and\n      program KNX devices over a real bus.</p>",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"XKNX","url":"https://github.com/XKNX"}],
+        "license" : "GPL-2.0-only",
+        "links": [{"type":"GitHub","url":"XKNX/xknx-editor"},{"type":"Download","url":"https://github.com/XKNX/xknx-editor/releases"}],
+        "icons": ["XKNX_Editor/icons/512x512/xknx-editor.png"],
+        "screenshots" : ["XKNX_Editor/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
+        "name": "XMSGi_Studio",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"molodoy01","url":"https://github.com/molodoy01"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"molodoy01/XMSGi-Studio"},{"type":"Download","url":"https://github.com/molodoy01/XMSGi-Studio/releases"}],
+        "icons": ["XMSGi_Studio/icons/2048x2048/xmsgi-studio.png"],
+        "screenshots" : ["XMSGi_Studio/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
+        },
+    
+        {
         "name": "XMedCon",
     
         "description": "An open-source toolkit for medical image conversion",
@@ -35721,6 +36683,17 @@
         },
     
         {
+        "name": "YuE2_Studio",
+    
+        "categories": [null],
+        "authors" : [{"name":"timoncool","url":"https://github.com/timoncool"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"timoncool/YuE2-Studio"},{"type":"Download","url":"https://github.com/timoncool/YuE2-Studio/releases"}],
+        "icons": ["YuE2_Studio/icons/128x128/YuE2-Studio.png"],
+        "screenshots" : ["YuE2_Studio/screenshot.png"]
+        },
+    
+        {
         "name": "YubiKey_Manager",
     
         "description": "Graphical application for configuring your YubiKey over all USB transports.",
@@ -35763,6 +36736,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.34"
+        },
+    
+        {
+        "name": "ZENDER",
+    
+        "description": "Internet Radio Player with Podcast Support",
+    
+        "categories": ["Audio"],
+        "authors" : null,
+        "license" : null,
+        "links": null,
+        "icons": ["ZENDER/icons/256x256/zender.png"],
+        "screenshots" : ["ZENDER/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.14"
         },
     
         {
@@ -35889,6 +36878,22 @@
         "links": [{"type":"GitHub","url":"konradmb/zegarek"},{"type":"Download","url":"https://github.com/konradmb/zegarek/releases"}],
         "icons": ["Zegarek/icons/scalable/zegarek-icon.svg"],
         "screenshots" : ["Zegarek/screenshot.png"]
+        },
+    
+        {
+        "name": "ZeldaWWHDRecomp",
+    
+        "description": "The Wind Waker HD (native PC port)",
+    
+        "categories": ["Game"],
+        "authors" : [{"name":"ZeldaWWHDRecomp","url":"https://github.com/ZeldaWWHDRecomp"}],
+        "license" : "MPL-2.0",
+        "links": [{"type":"GitHub","url":"ZeldaWWHDRecomp/ZeldaWWHDRecomp"},{"type":"Download","url":"https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp/releases"}],
+        "icons": ["ZeldaWWHDRecomp/icons/192x192/wwhd.png"],
+        "screenshots" : ["ZeldaWWHDRecomp/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
         },
     
         {
@@ -38030,6 +39035,17 @@
         },
     
         {
+        "name": "dh-to-do",
+    
+        "categories": [null],
+        "authors" : [{"name":"digitalhabits","url":"https://github.com/digitalhabits"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"digitalhabits/dh-to-do"},{"type":"Download","url":"https://github.com/digitalhabits/dh-to-do/releases"}],
+        "icons": ["dh-to-do/icons/128x128/digital-habits-todo.png"],
+        "screenshots" : ["dh-to-do/screenshot.png"]
+        },
+    
+        {
         "name": "digikam",
     
         "description": "Manage your photographs like a professional with the power of open source",
@@ -38644,7 +39660,7 @@
         "license" : "GPL-3.0",
         "links": [{"type":"GitHub","url":"bmsuseluda/emuze"},{"type":"Download","url":"https://github.com/bmsuseluda/emuze/releases"}],
         "icons": ["emuze/icons/512x512/emuze.png"],
-        "screenshots" : ["emuze/screenshot.png"],
+        "screenshots" : ["https://github.com/bmsuseluda/emuze/blob/main/screenshots/library.png?raw=true"],
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.34"
@@ -39358,6 +40374,22 @@
         "links": [{"type":"GitHub","url":"dino-/glulxe-appimage-build"},{"type":"Download","url":"https://github.com/dino-/glulxe-appimage-build/releases"}],
         "icons": ["glulxe/icons/scalable/unix-terminal.svg"],
         "screenshots" : ["glulxe/screenshot.png"]
+        },
+    
+        {
+        "name": "gmaps-scraper-studio",
+    
+        "description": "GMST Scraper - Google Maps business directory intelligence desktop app",
+    
+        "categories": ["Office"],
+        "authors" : [{"name":"99apps-id","url":"https://github.com/99apps-id"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"99apps-id/gmaps-scraper-studio"},{"type":"Download","url":"https://github.com/99apps-id/gmaps-scraper-studio/releases"}],
+        "icons": ["gmaps-scraper-studio/icons/512x512/google-maps-scrapper.png"],
+        "screenshots" : ["gmaps-scraper-studio/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
         },
     
         {
@@ -40211,6 +41243,22 @@
         "links": [{"type":"Download","url":"https://www.budbrain.de/appimage/jsbudbrainequalizer-x86_64.AppImage"}],
         "icons": ["jsBudbrainEqualizer/icons/128x128/jsbudbrainequalizer.png"],
         "screenshots" : ["https://www.budbrain.de/budbrain-software/images/linux/jsbudbrainequalizer_01-dark.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
+        },
+    
+        {
+        "name": "jsBudbrainLaufwerksTest",
+    
+        "description": "<p>Writes a test file to a drive, reads it back, checks every block and deletes it again. Two level meters show the current speed live, two charts record the whole run.</p>\n<ul>\n  <li>Test size from 1024 MB up to 16 GB, or a fixed duration from 5 seconds to 16 minutes</li>\n  <li>Measures the drive itself, not the computer&apos;s memory</li>\n  <li>Every block is verified on reading, which helps to uncover drives with a faked capacity</li>\n  <li>Shows when a fast drive runs out of breath and the speed drops</li>\n  <li>Worst, average and best value for writing and reading</li>\n  <li>History of all runs, export as text</li>\n  <li>Never fills a drive: space for the system stays free</li>\n  <li>Light and dark design</li>\n  <li>Available in 47 languages</li>\n</ul>",
+    
+        "categories": ["System"],
+        "authors" : null,
+        "license" : "LicenseRef-proprietaryLicenseRef-proprietary",
+        "links": [{"type":"Download","url":"https://www.budbrain.de/appimage/jsbudbrainlaufwerkstest-x86_64.AppImage"}],
+        "icons": ["jsBudbrainLaufwerksTest/icons/128x128/jsbudbrainlaufwerkstest.png"],
+        "screenshots" : ["https://www.budbrain.de/budbrain-software/images/linux/jsbudbrainlaufwerkstest_01-result-light.png"],
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.34"
@@ -42426,6 +43474,22 @@
         },
     
         {
+        "name": "orca-imboss",
+    
+        "description": "One man company agent",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"sethyuan","url":"https://github.com/sethyuan"}],
+        "license" : "GPL-3.0",
+        "links": [{"type":"GitHub","url":"sethyuan/orca-imboss"},{"type":"Download","url":"https://github.com/sethyuan/orca-imboss/releases"}],
+        "icons": ["orca-imboss/icons/768x768/orca-imboss.png"],
+        "screenshots" : ["orca-imboss/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
+        },
+    
+        {
         "name": "organize-my-files",
     
         "description": "Organize My Files",
@@ -43482,14 +44546,14 @@
         {
         "name": "railreader2",
     
-        "description": "<p>RailReader2 is a desktop PDF viewer with AI-guided &quot;rail reading&quot; mode for\n      high-magnification viewing. It uses an ONNX layout-detection model to\n      identify text blocks, then locks the viewport to one block at a time so the\n      reader can comfortably read at very high zoom levels without losing context.</p>\n<p>Features:</p>\n<ul>\n  <li>AI-detected layout for rail-style line-by-line reading at high magnification</li>\n  <li>Annotations: highlight, freehand, rectangle, text notes</li>\n  <li>Named bookmarks, outline navigation, full-text search</li>\n  <li>Markdown export via VLM transcription of figures, tables, equations</li>\n  <li>Colour effects (high contrast, amber, invert) for vision comfort</li>\n</ul>",
+        "description": "AI-guided rail reading PDF viewer",
     
         "categories": ["Office"],
         "authors" : [{"name":"sjvrensburg","url":"https://github.com/sjvrensburg"}],
-        "license" : "MITMIT",
+        "license" : "MIT",
         "links": [{"type":"GitHub","url":"sjvrensburg/railreader2"},{"type":"Download","url":"https://github.com/sjvrensburg/railreader2/releases"}],
         "icons": ["railreader2/icons/256x256/io.github.sjvrensburg.RailReader2.png"],
-        "screenshots" : ["railreader2/screenshot.png"],
+        "screenshots" : ["https://raw.githubusercontent.com/sjvrensburg/railreader2/main/docs/img/rail_mode.png"],
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.28"
@@ -44165,6 +45229,22 @@
         },
     
         {
+        "name": "simpleVoiceover",
+    
+        "description": "A local voiceover and audio editing studio",
+    
+        "categories": ["AudioVideo"],
+        "authors" : [{"name":"arconw","url":"https://github.com/arconw"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"arconw/simpleVoiceover"},{"type":"Download","url":"https://github.com/arconw/simpleVoiceover/releases"}],
+        "icons": ["simpleVoiceover/icons/32x32/simpleVoiceover.png"],
+        "screenshots" : ["simpleVoiceover/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "simplechroot",
     
         "description": "<p>Setup a chroot without having to mount and bind partitions manually.</p>",
@@ -44780,6 +45860,22 @@
         },
     
         {
+        "name": "tabularis",
+    
+        "description": "tabularis - A database manager for developers",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"TabularisDB","url":"https://github.com/TabularisDB"}],
+        "license" : "Apache-2.0",
+        "links": [{"type":"GitHub","url":"TabularisDB/tabularis"},{"type":"Download","url":"https://github.com/TabularisDB/tabularis/releases"}],
+        "icons": ["tabularis/icons/128x128/tabularis.png"],
+        "screenshots" : ["tabularis/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "tagspaces",
     
         "description": "Offline file organizer and browser with tagging support.",
@@ -44885,11 +45981,14 @@
         "description": "<p>Textosaurus is simple cross-platform text editor based on Qt and QScintilla. Textosaurus aims to provide similar workflow as Notepad++ does.</p>",
     
         "categories": ["Office"],
-        "authors" : null,
+        "authors" : [{"name":"martinrotter","url":"https://github.com/martinrotter"}],
         "license" : "GPL-3.0",
-        "links": null,
+        "links": [{"type":"GitHub","url":"martinrotter/textosaurus"},{"type":"Download","url":"https://github.com/martinrotter/textosaurus/releases"}],
         "icons": ["textosaurus/icons/512x512/textosaurus.png"],
-        "screenshots" : ["https://raw.githubusercontent.com/martinrotter/textosaurus/master/resources/screenshots/textosaurus-linux.png"]
+        "screenshots" : ["https://raw.githubusercontent.com/martinrotter/textosaurus/master/resources/screenshots/textosaurus-linux.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.18"
         },
     
         {
