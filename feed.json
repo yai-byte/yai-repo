@@ -987,6 +987,22 @@
         },
     
         {
+        "name": "Agasthy",
+    
+        "description": "Developer machine intelligence",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"HMAKT99","url":"https://github.com/HMAKT99"}],
+        "license" : "Apache-2.0",
+        "links": [{"type":"GitHub","url":"HMAKT99/Agasthy"},{"type":"Download","url":"https://github.com/HMAKT99/Agasthy/releases"}],
+        "icons": ["Agasthy/icons/128x128/agasthy-desktop.png"],
+        "screenshots" : ["Agasthy/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "AgentFlow",
     
         "description": "AgentFlow desktop workspace for multi-agent workflows",
@@ -1303,6 +1319,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.27"
+        },
+    
+        {
+        "name": "Aktar",
+    
+        "description": "Your files. Your storage. One shortcut away.",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"getaktar","url":"https://github.com/getaktar"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"getaktar/desktop"},{"type":"Download","url":"https://github.com/getaktar/desktop/releases"}],
+        "icons": ["Aktar/icons/128x128/aktar.png"],
+        "screenshots" : ["Aktar/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -2262,6 +2294,22 @@
         "links": [{"type":"GitHub","url":"arduino/arduino-ide"},{"type":"Download","url":"https://github.com/arduino/arduino-ide/releases"}],
         "icons": ["Arduino_IDE/icons/512x512/arduino-ide.png"],
         "screenshots" : ["Arduino_IDE/screenshot.png"]
+        },
+    
+        {
+        "name": "Argentum",
+    
+        "description": "A blazingly-fast, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.",
+    
+        "categories": ["Graphics"],
+        "authors" : [{"name":"akhater","url":"https://github.com/akhater"}],
+        "license" : "AGPL-3.0",
+        "links": [{"type":"GitHub","url":"akhater/Argentum"},{"type":"Download","url":"https://github.com/akhater/Argentum/releases"}],
+        "icons": ["Argentum/icons/128x128/Argentum.png"],
+        "screenshots" : ["Argentum/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -5785,6 +5833,22 @@
         },
     
         {
+        "name": "CadencR",
+    
+        "description": "Cadencr desktop shell — Electron app with a React frontend for driving local AI coding agents.",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"merkr-software","url":"https://github.com/merkr-software"}],
+        "license" : "Apache-2.0",
+        "links": [{"type":"GitHub","url":"merkr-software/CadencR"},{"type":"Download","url":"https://github.com/merkr-software/CadencR/releases"}],
+        "icons": ["CadencR/icons/128x128/cadencr.png"],
+        "screenshots" : ["CadencR/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
+        },
+    
+        {
         "name": "Caelo",
     
         "description": "Caelo 2.0 — desktopowe studio AI dla modeli xAI Grok oraz Google Gemini / Vertex AI",
@@ -7760,6 +7824,22 @@
         },
     
         {
+        "name": "Cogvivo",
+    
+        "description": "Funny challenges, real monuments and your own buddy in your taskbar",
+    
+        "categories": ["Network"],
+        "authors" : null,
+        "license" : "LicenseRef-proprietary=https://cogvivo.com/info/voorwaarden",
+        "links": [{"type":"Download","url":"https://media.cogvivo.com/pc/linux/Cogvivo-x86_64.AppImage"}],
+        "icons": ["Cogvivo/icons/128x128/cogvivo.png"],
+        "screenshots" : ["https://media.cogvivo.com/pc/linux/scherm-1.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "Colin_McRae_Rally_2005_Launcher",
     
         "description": "Play your own copy of Colin McRae Rally 2005 with modern compatibility fixes",
@@ -8147,6 +8227,22 @@
         },
     
         {
+        "name": "Context-Heavy_Diagrams",
+    
+        "description": "Offline desktop diagramming: git-friendly plain-text diagrams, drill-down linked diagrams, and per-node notes and tags. Early open-source release.",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"NoobsDeSroobs","url":"https://github.com/NoobsDeSroobs"}],
+        "license" : "GPL-3.0",
+        "links": [{"type":"GitHub","url":"NoobsDeSroobs/context-heavy-diagrams"},{"type":"Download","url":"https://github.com/NoobsDeSroobs/context-heavy-diagrams/releases"}],
+        "icons": ["Context-Heavy_Diagrams/icons/1024x1024/context-heavy-diagrams.png"],
+        "screenshots" : ["Context-Heavy_Diagrams/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
+        },
+    
+        {
         "name": "Context_Hub",
     
         "description": "Context Hub desktop",
@@ -8218,6 +8314,22 @@
         "links": [{"type":"GitHub","url":"mysteryx93/HanumanInstituteApps"},{"type":"Download","url":"https://github.com/mysteryx93/HanumanInstituteApps/releases"}],
         "icons": ["Converter432Hz/icons/scalable/converter432hz.svg"],
         "screenshots" : ["Converter432Hz/screenshot.png"]
+        },
+    
+        {
+        "name": "Converter_Studio",
+    
+        "description": "Converter Studio for Windows, macOS and Linux",
+    
+        "categories": ["Utility"],
+        "authors" : null,
+        "license" : null,
+        "links": null,
+        "icons": ["Converter_Studio/icons/128x128/converter-studio.png"],
+        "screenshots" : ["Converter_Studio/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.28"
         },
     
         {
@@ -12040,6 +12152,22 @@
         },
     
         {
+        "name": "Electron-KVM-rdev",
+    
+        "description": "Electron KVM Client for macOS",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"MotorBottle","url":"https://github.com/MotorBottle"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"MotorBottle/Electron-KVM-rdev"},{"type":"Download","url":"https://github.com/MotorBottle/Electron-KVM-rdev/releases"}],
+        "icons": ["Electron-KVM-rdev/icons/128x128/electron-kvm-client.png"],
+        "screenshots" : ["Electron-KVM-rdev/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
+        },
+    
+        {
         "name": "ElectronMail",
     
         "description": "Unofficial ProtonMail Desktop App",
@@ -15079,6 +15207,22 @@
         },
     
         {
+        "name": "G-Toolbox",
+    
+        "description": "<p>G-Toolbox is an all-in-one workspace for media, documents and local AI. Files are processed\n      on your own computer: nothing is uploaded to a cloud service and no account is needed.</p>\n<ul>\n  <li>Convert images, audio and video; make GIF/WebP clips; burn subtitles</li>\n  <li>Remove backgrounds, erase objects and upscale images with local AI models</li>\n  <li>Transcribe speech to text and subtitles, separate vocals and instruments</li>\n  <li>Clean photo metadata, merge and split PDFs, encrypt files with AES-256</li>\n  <li>Download videos, apply audio effects and reduce noise</li>\n</ul>\n<p>The app runs in your web browser; a small window shows that it is running and stops it\n      when closed. A phone can use the computer&apos;s power after a one-time pairing.</p>",
+    
+        "categories": ["AudioVideo"],
+        "authors" : [{"name":"Gorkem-Taha","url":"https://github.com/Gorkem-Taha"}],
+        "license" : "CC-BY-NC-4.0",
+        "links": [{"type":"GitHub","url":"Gorkem-Taha/G-Toolbox"},{"type":"Download","url":"https://github.com/Gorkem-Taha/G-Toolbox/releases"}],
+        "icons": ["G-Toolbox/icons/64x64/g-toolbox.png"],
+        "screenshots" : ["https://raw.githubusercontent.com/Gorkem-Taha/G-Toolbox/main/static/menu.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.28"
+        },
+    
+        {
         "name": "G9BrowserAgent",
     
         "description": "G9BrowserAgent lets AI agents drive real Chromium browsers at DevTools depth through MCP, with human-like input and reviewable evidence.",
@@ -16127,6 +16271,17 @@
         },
     
         {
+        "name": "Git_Light",
+    
+        "categories": [null],
+        "authors" : [{"name":"ftuyama","url":"https://github.com/ftuyama"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"ftuyama/git-light"},{"type":"Download","url":"https://github.com/ftuyama/git-light/releases"}],
+        "icons": ["Git_Light/icons/128x128/git-light.png"],
+        "screenshots" : ["Git_Light/screenshot.png"]
+        },
+    
+        {
         "name": "Gitbox",
     
         "description": "<p>gitbox manages Git multi-account environments across GitHub, GitLab,\n      Gitea, Forgejo and Bitbucket. It keeps each account&apos;s clones under its\n      own folder, wires the right credential (Git Credential Manager, SSH or\n      token) per account, discovers repositories you already have on disk,\n      and sets up push and pull mirrors between providers.</p>\n<p>The AppImage bundles the graphical app together with the gitbox\n      command-line tool and terminal UI.</p>",
@@ -16634,6 +16789,17 @@
         },
     
         {
+        "name": "Graveyard_Keeper_2_Save_Editor",
+    
+        "categories": [null],
+        "authors" : [{"name":"NetroScript","url":"https://github.com/NetroScript"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"NetroScript/graveyard-keeper-2-savegame-editor"},{"type":"Download","url":"https://github.com/NetroScript/graveyard-keeper-2-savegame-editor/releases"}],
+        "icons": ["Graveyard_Keeper_2_Save_Editor/icons/128x128/graveyard-keeper-2-savegame-editor.png"],
+        "screenshots" : ["Graveyard_Keeper_2_Save_Editor/screenshot.png"]
+        },
+    
+        {
         "name": "Graviton",
     
         "description": "Graviton is a simple code editor.",
@@ -16765,6 +16931,22 @@
         "links": [{"type":"GitHub","url":"BehaviorTree/Groot"},{"type":"Download","url":"https://github.com/BehaviorTree/Groot/releases"}],
         "icons": ["Groot/icons/256x256/groot_icon.png"],
         "screenshots" : ["Groot/screenshot.png"]
+        },
+    
+        {
+        "name": "Gui",
+    
+        "description": "Design real interfaces with your own AI agents",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"brijr","url":"https://github.com/brijr"}],
+        "license" : "Apache-2.0",
+        "links": [{"type":"GitHub","url":"brijr/gui"},{"type":"Download","url":"https://github.com/brijr/gui/releases"}],
+        "icons": ["Gui/icons/1024x1024/gui.png"],
+        "screenshots" : ["Gui/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
         },
     
         {
@@ -17005,6 +17187,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.25"
+        },
+    
+        {
+        "name": "Halorim",
+    
+        "description": "Glowframe Desktop Wallpaper Engine",
+    
+        "categories": [null],
+        "authors" : [{"name":"Ferhatmedtahar","url":"https://github.com/Ferhatmedtahar"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"Ferhatmedtahar/halorim"},{"type":"Download","url":"https://github.com/Ferhatmedtahar/halorim/releases"}],
+        "icons": ["Halorim/icons/128x128/glowframe-desktop.png"],
+        "screenshots" : ["Halorim/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -20159,6 +20357,21 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.25"
+        },
+    
+        {
+        "name": "Kite",
+    
+        "description": "KDE web browser with Firefox extension support",
+    
+        "categories": ["Qt"],
+        "authors" : [{"name":"n4n0GH","url":"https://github.com/n4n0GH"}],
+        "license" : "GPL-3.0-or-later",
+        "links": [{"type":"GitHub","url":"n4n0GH/Kite"},{"type":"Download","url":"https://github.com/n4n0GH/Kite/releases"}],
+        "icons": ["Kite/icons/scalable/io.github.n4n0gh.kite.svg"],
+        "screenshots" : ["https://raw.githubusercontent.com/n4n0GH/Kite/master/.readme/startpage.png"],
+        "libc": "bundled",
+        "self_contained": true
         },
     
         {
@@ -24093,6 +24306,22 @@
         "links": [{"type":"GitHub","url":"Maxybom/Materialize-Unity6-Win-Linux"},{"type":"Download","url":"https://github.com/Maxybom/Materialize-Unity6-Win-Linux/releases"}],
         "icons": ["Materialize/icons/256x256/Materialize.png"],
         "screenshots" : ["Materialize/screenshot.png"]
+        },
+    
+        {
+        "name": "MathCAS_v2",
+    
+        "description": "Symbolic and numeric computation in notebooks",
+    
+        "categories": ["Education"],
+        "authors" : [{"name":"rajatmo","url":"https://github.com/rajatmo"}],
+        "license" : "GPL-3.0",
+        "links": [{"type":"GitHub","url":"rajatmo/MathCASv2"},{"type":"Download","url":"https://github.com/rajatmo/MathCASv2/releases"}],
+        "icons": ["MathCAS_v2/icons/128x128/mathcas.png"],
+        "screenshots" : ["MathCAS_v2/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -28332,6 +28561,22 @@
         },
     
         {
+        "name": "Ocarina_Atlas",
+    
+        "description": "Interactive Ocarina of Time Remake map & live telemetry launcher",
+    
+        "categories": ["Game"],
+        "authors" : [{"name":"antonioalvromero","url":"https://github.com/antonioalvromero"}],
+        "license" : "AGPL-3.0",
+        "links": [{"type":"GitHub","url":"antonioalvromero/Ocarina-Atlas"},{"type":"Download","url":"https://github.com/antonioalvromero/Ocarina-Atlas/releases"}],
+        "icons": ["Ocarina_Atlas/icons/512x512/ocarina-atlas.png"],
+        "screenshots" : ["Ocarina_Atlas/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.38"
+        },
+    
+        {
         "name": "Octa",
     
         "description": "Multi-format data viewer and editor",
@@ -28543,6 +28788,17 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.35"
+        },
+    
+        {
+        "name": "Omega_Star",
+    
+        "categories": [null],
+        "authors" : [{"name":"itsfutsy","url":"https://github.com/itsfutsy"}],
+        "license" : "AGPL-3.0",
+        "links": [{"type":"GitHub","url":"itsfutsy/OmegaStar"},{"type":"Download","url":"https://github.com/itsfutsy/OmegaStar/releases"}],
+        "icons": ["Omega_Star/icons/128x128/omega-star.png"],
+        "screenshots" : ["Omega_Star/screenshot.png"]
         },
     
         {
@@ -30216,6 +30472,22 @@
         },
     
         {
+        "name": "Ordewell",
+    
+        "description": "Ordewell’s desktop app: an Electron client of the local daemon.",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"ordewell","url":"https://github.com/ordewell"}],
+        "license" : "Apache-2.0",
+        "links": [{"type":"GitHub","url":"ordewell/ordewell"},{"type":"Download","url":"https://github.com/ordewell/ordewell/releases"}],
+        "icons": ["Ordewell/icons/128x128/ordewell-desktop.png"],
+        "screenshots" : ["Ordewell/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.42"
+        },
+    
+        {
         "name": "Orfeo",
     
         "description": "Modern piano learning app with MIDI visualization",
@@ -31445,6 +31717,22 @@
         "links": [{"type":"GitHub","url":"convenia/parameter-manager"},{"type":"Download","url":"https://github.com/convenia/parameter-manager/releases"}],
         "icons": ["Parameter_Manager/icons/512x512/parameter-manager.png"],
         "screenshots" : ["Parameter_Manager/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
+        },
+    
+        {
+        "name": "Paranoia",
+    
+        "description": "Paranoia — open-source reverse engineering platform",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"Altumptic","url":"https://github.com/Altumptic"}],
+        "license" : "Apache-2.0",
+        "links": [{"type":"GitHub","url":"Altumptic/paranoia"},{"type":"Download","url":"https://github.com/Altumptic/paranoia/releases"}],
+        "icons": ["Paranoia/icons/512x512/paranoia.png"],
+        "screenshots" : ["Paranoia/screenshot.png"],
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.25"
@@ -33060,6 +33348,22 @@
         },
     
         {
+        "name": "Pomodoro_Logger_Enhanced",
+    
+        "description": "Pomodoro Logger -- When a time logger meets Pomodoro and Kanban board. This is an enhanced edition, as the original version has been archived.",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"NightZed","url":"https://github.com/NightZed"}],
+        "license" : "GPL-3.0",
+        "links": [{"type":"GitHub","url":"NightZed/PomodoroLogger-Enhanced"},{"type":"Download","url":"https://github.com/NightZed/PomodoroLogger-Enhanced/releases"}],
+        "icons": ["Pomodoro_Logger_Enhanced/icons/512x512/pomodoro-logger-enhanced.png"],
+        "screenshots" : ["Pomodoro_Logger_Enhanced/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
+        },
+    
+        {
         "name": "Pond",
     
         "description": "Pond keeps everything you save across social sources and the web in one local-first library on your computer.",
@@ -33355,6 +33659,22 @@
         "links": [{"type":"GitHub","url":"PowerShell/PowerShell"},{"type":"Download","url":"https://github.com/PowerShell/PowerShell/releases"}],
         "icons": ["PowerShell/icons/256x256/powershell.png"],
         "screenshots" : ["PowerShell/screenshot.png"]
+        },
+    
+        {
+        "name": "PowerfulMoon",
+    
+        "description": "Super Mario Odyssey, recompiled for PC (bring your own game)",
+    
+        "categories": ["Game"],
+        "authors" : [{"name":"yngvifreyr1810","url":"https://github.com/yngvifreyr1810"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"yngvifreyr1810/PowerfulMoon"},{"type":"Download","url":"https://github.com/yngvifreyr1810/PowerfulMoon/releases"}],
+        "icons": ["PowerfulMoon/icons/512x512/superodysseyrecomp.png"],
+        "screenshots" : ["PowerfulMoon/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -33893,6 +34213,22 @@
         },
     
         {
+        "name": "PsyTags",
+    
+        "description": "Tags von Audiodateien bearbeiten",
+    
+        "categories": ["AudioVideo"],
+        "authors" : [{"name":"Psysonic","url":"https://github.com/Psysonic"}],
+        "license" : "GPL-3.0",
+        "links": [{"type":"GitHub","url":"Psysonic/PsyTags"},{"type":"Download","url":"https://github.com/Psysonic/PsyTags/releases"}],
+        "icons": ["PsyTags/icons/scalable/psytags.svg"],
+        "screenshots" : ["PsyTags/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "PubMan",
     
         "description": "Draft, Track, and Publish 3D models to multiple platforms",
@@ -34044,6 +34380,22 @@
         "links": [{"type":"GitHub","url":"a2heng/PureVox"},{"type":"Download","url":"https://github.com/a2heng/PureVox/releases"}],
         "icons": ["PureVox/icons/256x256/purevox.png"],
         "screenshots" : ["PureVox/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
+        },
+    
+        {
+        "name": "PushFPS",
+    
+        "description": "Your console through a capture card, boosted to 60 or 120 FPS",
+    
+        "categories": ["Game"],
+        "authors" : [{"name":"DosukaSOL","url":"https://github.com/DosukaSOL"}],
+        "license" : "GPL-3.0",
+        "links": [{"type":"GitHub","url":"DosukaSOL/PushFPS"},{"type":"Download","url":"https://github.com/DosukaSOL/PushFPS/releases"}],
+        "icons": ["PushFPS/icons/256x256/pushfps.png"],
+        "screenshots" : ["PushFPS/screenshot.png"],
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.34"
@@ -35405,6 +35757,38 @@
         },
     
         {
+        "name": "Race_Track_Visualizer",
+    
+        "description": "Telemetry overlays for action camera video",
+    
+        "categories": ["AudioVideo"],
+        "authors" : [{"name":"coozoo","url":"https://github.com/coozoo"}],
+        "license" : "GPL-3.0-only",
+        "links": [{"type":"GitHub","url":"coozoo/trackrideviz"},{"type":"Download","url":"https://github.com/coozoo/trackrideviz/releases"}],
+        "icons": ["Race_Track_Visualizer/icons/256x256/trackrideviz.png"],
+        "screenshots" : ["https://raw.githubusercontent.com/coozoo/trackrideviz/main/docs/images/mainview.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
+        "name": "Radar_RSS",
+    
+        "description": "Real-time dynamic RSS news reader with customizable modular blocks, AI curation & summaries powered by Google Gemini, native Android app, and Windows and Linux desktop support.",
+    
+        "categories": ["Network"],
+        "authors" : [{"name":"dznass-cmd","url":"https://github.com/dznass-cmd"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"dznass-cmd/RadarRSS"},{"type":"Download","url":"https://github.com/dznass-cmd/RadarRSS/releases"}],
+        "icons": ["Radar_RSS/icons/512x512/radar-rss.png"],
+        "screenshots" : ["Radar_RSS/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
+        },
+    
+        {
         "name": "RadioIt",
     
         "description": "Automation software for Radios.",
@@ -36500,6 +36884,22 @@
         "links": null,
         "icons": ["Revisionary/icons/128x128/electron-react-boilerplate.png"],
         "screenshots" : ["Revisionary/screenshot.png"]
+        },
+    
+        {
+        "name": "Rewamp",
+    
+        "description": "Chiptune, tracker and console music player",
+    
+        "categories": ["AudioVideo"],
+        "authors" : [{"name":"yoyofr","url":"https://github.com/yoyofr"}],
+        "license" : "GPL-3.0-or-later",
+        "links": [{"type":"GitHub","url":"yoyofr/rewamp-app"},{"type":"Download","url":"https://github.com/yoyofr/rewamp-app/releases"}],
+        "icons": ["Rewamp/icons/scalable/app.rewamp.Rewamp.svg"],
+        "screenshots" : ["https://raw.githubusercontent.com/yoyofr/rewamp-app/main/docs/store/screenshots/linux-player.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -37641,6 +38041,22 @@
         },
     
         {
+        "name": "SWLOR_NWN",
+    
+        "description": "SWLOR Toolset 1.0.0",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"zunath","url":"https://github.com/zunath"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"zunath/SWLOR_NWN"},{"type":"Download","url":"https://github.com/zunath/SWLOR_NWN/releases"}],
+        "icons": ["SWLOR_NWN/icons/150x150/SWLOR.Toolset.png"],
+        "screenshots" : ["SWLOR_NWN/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.38"
+        },
+    
+        {
         "name": "S_A_M",
     
         "description": "S.A.M. — Smart Artificial Mind. Your private, free, local-first AI assistant that actually does things.",
@@ -38689,6 +39105,20 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.25"
+        },
+    
+        {
+        "name": "Shipwright",
+    
+        "categories": ["Game"],
+        "authors" : [{"name":"HarbourMasters","url":"https://github.com/HarbourMasters"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"HarbourMasters/Shipwright"},{"type":"Download","url":"https://github.com/HarbourMasters/Shipwright/releases"}],
+        "icons": ["Shipwright/icons/512x512/sohIcon.png"],
+        "screenshots" : ["Shipwright/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
         },
     
         {
@@ -40198,6 +40628,22 @@
         },
     
         {
+        "name": "Soreno",
+    
+        "description": "Prise de notes locale",
+    
+        "categories": ["Office"],
+        "authors" : [{"name":"TellyD","url":"https://github.com/TellyD"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"TellyD/Soreno"},{"type":"Download","url":"https://github.com/TellyD/Soreno/releases"}],
+        "icons": ["Soreno/icons/128x128/soreno.png"],
+        "screenshots" : ["Soreno/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "Source2Viewer_-_d2pfx",
     
         "description": "Browse, view and export Source 2 resources",
@@ -41453,6 +41899,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.34"
+        },
+    
+        {
+        "name": "SubCast",
+    
+        "description": "海外播客与 YouTube 双语字幕、AI 问答",
+    
+        "categories": ["Education"],
+        "authors" : [{"name":"joeseesun","url":"https://github.com/joeseesun"}],
+        "license" : "AGPL-3.0",
+        "links": [{"type":"GitHub","url":"joeseesun/subcast"},{"type":"Download","url":"https://github.com/joeseesun/subcast/releases"}],
+        "icons": ["SubCast/icons/128x128/subcast.png"],
+        "screenshots" : ["SubCast/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -45341,6 +45803,22 @@
         },
     
         {
+        "name": "VPNRouter",
+    
+        "description": "Virtual Penguin Network — process-based split-tunnel VPN",
+    
+        "categories": ["Network"],
+        "authors" : [{"name":"PavelLizunov","url":"https://github.com/PavelLizunov"}],
+        "license" : "GPL-3.0",
+        "links": [{"type":"GitHub","url":"PavelLizunov/VPNRouter"},{"type":"Download","url":"https://github.com/PavelLizunov/VPNRouter/releases"}],
+        "icons": ["VPNRouter/icons/640x640/vpnrouter.png"],
+        "screenshots" : ["VPNRouter/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.27"
+        },
+    
+        {
         "name": "VPaint",
     
         "description": "Vector-Based Animation Editor",
@@ -45519,6 +45997,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.34"
+        },
+    
+        {
+        "name": "Vaultite",
+    
+        "description": "Vaultite reads a folder of Markdown files (a vault) live: notes, dashboards, logs and plugins, with Claude Code and other agents in its terminals.",
+    
+        "categories": ["Office"],
+        "authors" : [{"name":"Vaultite","url":"https://github.com/Vaultite"}],
+        "license" : "Apache-2.0",
+        "links": [{"type":"GitHub","url":"Vaultite/vaultite"},{"type":"Download","url":"https://github.com/Vaultite/vaultite/releases"}],
+        "icons": ["Vaultite/icons/512x512/vaultite.png"],
+        "screenshots" : ["Vaultite/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.28"
         },
     
         {
@@ -47404,6 +47898,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.34"
+        },
+    
+        {
+        "name": "Wickline",
+    
+        "description": "Free, open-source charting platform: desktop app or static site. Live crypto, stocks, forex, 55 indicators, your own JavaScript indicators and strategies with backtesting, drawing tools and alerts.",
+    
+        "categories": ["Office"],
+        "authors" : [{"name":"keptaduona","url":"https://github.com/keptaduona"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"keptaduona/wickline"},{"type":"Download","url":"https://github.com/keptaduona/wickline/releases"}],
+        "icons": ["Wickline/icons/1024x1024/wickline.png"],
+        "screenshots" : ["Wickline/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
         },
     
         {
@@ -53616,6 +54126,22 @@
         },
     
         {
+        "name": "iBox",
+    
+        "description": "Votre bibliothèque de jeux : consoles et PC réunis",
+    
+        "categories": ["Game"],
+        "authors" : [{"name":"atzski","url":"https://github.com/atzski"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"atzski/ibox"},{"type":"Download","url":"https://github.com/atzski/ibox/releases"}],
+        "icons": ["iBox/icons/128x128/ibox.png"],
+        "screenshots" : ["iBox/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "iCode_Workbench",
     
         "description": "iCode is an agent development environment for local coding agent TUIs.",
@@ -54109,6 +54635,22 @@
         },
     
         {
+        "name": "jsBudbrainAssemblerIDE",
+    
+        "description": "<p>Write x86 assembler programs, build them with NASM and step through them in the built-in debugger — and look into any binary: machine code and assembler side by side, both editable.</p>\n<ul>\n  <li>Editor with NASM colours, completion, search and replace, rename and go to definition</li>\n  <li>Debugger: single steps, breakpoints, registers, flags, watched expressions and memory watchpoints</li>\n  <li>Every step shows what it changed — registers, flags, memory</li>\n  <li>Hex and assembler view of any program, editable and searchable</li>\n  <li>Disassemble programs into source code that builds again</li>\n  <li>Reference for every instruction, directive, system call and error code</li>\n  <li>Light and dark, in 83 languages</li>\n</ul>",
+    
+        "categories": ["Development"],
+        "authors" : null,
+        "license" : "LicenseRef-proprietaryLicenseRef-proprietary",
+        "links": [{"type":"Download","url":"https://www.budbrain.de/appimage/jsbudbrainassembleride-x86_64.AppImage"}],
+        "icons": ["jsBudbrainAssemblerIDE/icons/128x128/jsbudbrainassembleride.png"],
+        "screenshots" : ["https://www.budbrain.de/budbrain-software/images/linux/asmide-01-debugger.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
+        },
+    
+        {
         "name": "jsBudbrainCaveRescue",
     
         "description": "<p>Lift off from the moon base, find the way down into the caves and land\n      gently next to the stranded astronauts. They run to your ship and climb\n      aboard. Fly them back to the base, refuel and head out again.</p>\n<p>Every world has its real gravity, from the Moon to Io, so every flight\n      feels different. The caves grow deeper and more winding from level to\n      level. Land too hard or scrape the rock and your shield takes the hit.</p>\n<ul>\n  <li>100 levels on ten real worlds, each one checked to be solvable</li>\n  <li>Simple controls: four buttons, nothing more</li>\n  <li>Upgrade your ship with experience and credits</li>\n  <li>Fuel cans and shield cells to pick up along the way</li>\n  <li>Four difficulty levels, from Normal to Hardcore</li>\n  <li>A mission gallery with a map of every flight</li>\n  <li>Available in 44 languages</li>\n</ul>\n<ul>\n  <li>100 Level auf zehn echten Welten, jedes auf Lösbarkeit geprüft</li>\n  <li>Einfache Steuerung: vier Knöpfe, mehr nicht</li>\n  <li>Schiff ausbauen mit Erfahrung und Credits</li>\n  <li>Kanister und Schildzellen zum Einsammeln unterwegs</li>\n  <li>Vier Schwierigkeitsstufen, von Normal bis Hardcore</li>\n  <li>Eine Missionsgalerie mit der Karte jedes Flugs</li>\n  <li>In 44 Sprachen</li>\n</ul>",
@@ -54263,6 +54805,22 @@
         "links": null,
         "icons": ["jsBudbrainsMarbles/icons/scalable/jsBudbrainsMarbles.svg"],
         "screenshots" : ["jsBudbrainsMarbles/screenshot.png"]
+        },
+    
+        {
+        "name": "jsBudbrainsRaidCalculator",
+    
+        "description": "<p>Enter the size and number of your disks, choose a RAID level and see at once what you get: usable capacity, reading and writing speed, and how many disks may fail.</p>\n<ul>\n  <li>JBOD, RAID 0, 1, 5, 6, 10, 50, 60 and triple parity side by side</li>\n  <li>Click a disk to let it fail and see whether your data survives</li>\n  <li>A step-by-step guide that builds the chosen array with mdadm, every command ready to copy</li>\n  <li>Light and dark appearance, 83 languages</li>\n</ul>",
+    
+        "categories": ["System"],
+        "authors" : null,
+        "license" : "LicenseRef-proprietaryLicenseRef-proprietary",
+        "links": [{"type":"Download","url":"https://www.budbrain.de/appimage/jsbudbrainsraidcalculator-x86_64.AppImage"}],
+        "icons": ["jsBudbrainsRaidCalculator/icons/128x128/jsbudbrainsraidcalculator.png"],
+        "screenshots" : ["https://www.budbrain.de/budbrain-software/images/linux/jsbudbrainsraidcalculator_1-calculator.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.34"
         },
     
         {
@@ -59338,6 +59896,22 @@
         },
     
         {
+        "name": "slingshot-animals-recomp",
+    
+        "description": "Builds and installs Angry Birds games from their APKs",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"Berny23","url":"https://github.com/Berny23"}],
+        "license" : "GPL-3.0",
+        "links": [{"type":"GitHub","url":"Berny23/slingshot-animals-recomp"},{"type":"Download","url":"https://github.com/Berny23/slingshot-animals-recomp/releases"}],
+        "icons": ["slingshot-animals-recomp/icons/256x256/slingshot-builder.png"],
+        "screenshots" : ["slingshot-animals-recomp/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "smile",
     
         "description": "White-label desktop framework for building vertical AI agents",
@@ -59414,6 +59988,22 @@
         "links": [{"type":"GitHub","url":"Story-Of-Alicia/soa-launcher-qt"},{"type":"Download","url":"https://github.com/Story-Of-Alicia/soa-launcher-qt/releases"}],
         "icons": ["soa-launcher-qt/icons/256x256/soa-launcher.png"],
         "screenshots" : ["soa-launcher-qt/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
+        "name": "sonicator",
+    
+        "description": "Intelligent sample explorer for the local audio library",
+    
+        "categories": ["AudioVideo"],
+        "authors" : [{"name":"orange303-afk","url":"https://github.com/orange303-afk"}],
+        "license" : "AGPL-3.0",
+        "links": [{"type":"GitHub","url":"orange303-afk/sonicator"},{"type":"Download","url":"https://github.com/orange303-afk/sonicator/releases"}],
+        "icons": ["sonicator/icons/128x128/sonicator.png"],
+        "screenshots" : ["sonicator/screenshot.png"],
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.35"
@@ -59504,6 +60094,22 @@
         "links": null,
         "icons": ["speedy-duplicate-finder/icons/128x128/speedy-duplicate-finder.png"],
         "screenshots" : ["speedy-duplicate-finder/screenshot.png"]
+        },
+    
+        {
+        "name": "spicetify-mirage",
+    
+        "description": "Song announcements for the Mirage Spicetify theme outside of Spotify – on any screen, above every window.",
+    
+        "categories": ["AudioVideo"],
+        "authors" : [{"name":"Passimoritz","url":"https://github.com/Passimoritz"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"Passimoritz/spicetify-mirage"},{"type":"Download","url":"https://github.com/Passimoritz/spicetify-mirage/releases"}],
+        "icons": ["spicetify-mirage/icons/1024x1024/mirage-overlay.png"],
+        "screenshots" : ["spicetify-mirage/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
         },
     
         {
@@ -61055,6 +61661,22 @@
         },
     
         {
+        "name": "wave-DAW",
+    
+        "description": "Synkopa: the desktop app (Tauri shell around the engine).",
+    
+        "categories": [null],
+        "authors" : [{"name":"miskibin","url":"https://github.com/miskibin"}],
+        "license" : "AGPL-3.0",
+        "links": [{"type":"GitHub","url":"miskibin/wave-DAW"},{"type":"Download","url":"https://github.com/miskibin/wave-DAW/releases"}],
+        "icons": ["wave-DAW/icons/128x128/wave-app.png"],
+        "screenshots" : ["wave-DAW/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "waydroid-helper",
     
         "description": "A GUI application for Waydroid configuration and extension installation",
@@ -61612,6 +62234,20 @@
         "links": [{"type":"GitHub","url":"dotkoval/xpeccy-plus"},{"type":"Download","url":"https://github.com/dotkoval/xpeccy-plus/releases"}],
         "icons": ["xpeccy-plus/icons/128x128/xpeccy-plus.png"],
         "screenshots" : ["xpeccy-plus/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
+        "name": "xrevive",
+    
+        "categories": [null],
+        "authors" : [{"name":"Teraflopping","url":"https://github.com/Teraflopping"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"Teraflopping/xrevive"},{"type":"Download","url":"https://github.com/Teraflopping/xrevive/releases"}],
+        "icons": ["xrevive/icons/128x128/xrevive.png"],
+        "screenshots" : ["xrevive/screenshot.png"],
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.35"
