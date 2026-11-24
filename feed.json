@@ -764,6 +764,22 @@
         },
     
         {
+        "name": "Abbon",
+    
+        "description": "QCM hors ligne : certifications, langues, culture générale",
+    
+        "categories": ["Education"],
+        "authors" : [{"name":"fhoudebert","url":"https://github.com/fhoudebert"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"fhoudebert/abbon"},{"type":"Download","url":"https://github.com/fhoudebert/abbon/releases"}],
+        "icons": ["Abbon/icons/128x128/Abbon.png"],
+        "screenshots" : ["Abbon/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "Abject",
     
         "description": "LLM-Mediated Object System",
@@ -1458,6 +1474,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.25"
+        },
+    
+        {
+        "name": "Alienation_-_PC",
+    
+        "description": "<p>An unofficial native PC port of Housemarque&apos;s Alienation (PS4). The game&apos;s own x86-64 code runs directly on the\n      PC through replacement PS4 system libraries and a Vulkan renderer derived from shadPS4.</p>\n<p>No game files are included. Install your own Alienation package from the launcher: CUSA00062 1.00 or 1.06 (EUR,\n      including the official update) or CUSA04430 1.00 (ASIA/KR).</p>\n<ul>\n  <li>Online co-op for two to four players, with friends, invitations and a relay when a direct connection fails</li>\n  <li>Local co-op for up to four controllers on CUSA00062 1.06</li>\n  <li>Render resolution, aspect ratio, ultrawide, SMAA, FSR 1 and texture filtering</li>\n  <li>Frame rate options from 30 to 240 FPS and Unlimited, with the game itself running at its original speed</li>\n  <li>Xbox and PlayStation button prompts, Skip Intro and Exit Game</li>\n  <li>Trophies, save data per user, and a built-in updater</li>\n</ul>\n<p>Alienation is a trademark of its rights holders. This project is not affiliated with or endorsed by Housemarque\n      or Sony Interactive Entertainment.</p>",
+    
+        "categories": ["Game"],
+        "authors" : [{"name":"saulob","url":"https://github.com/saulob"}],
+        "license" : "GPL-2.0-or-later AND GPL-2.0-only",
+        "links": [{"type":"GitHub","url":"saulob/alienation-pc"},{"type":"Download","url":"https://github.com/saulob/alienation-pc/releases"}],
+        "icons": ["Alienation_-_PC/icons/256x256/alienation-pc.png"],
+        "screenshots" : ["Alienation_-_PC/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.30"
         },
     
         {
@@ -7981,6 +8013,22 @@
         },
     
         {
+        "name": "Codealong",
+    
+        "description": "Every coding agent you run, in one window.",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"codealong","url":"https://github.com/codealong"}],
+        "license" : "Apache-2.0",
+        "links": [{"type":"GitHub","url":"codealong/codealong"},{"type":"Download","url":"https://github.com/codealong/codealong/releases"}],
+        "icons": ["Codealong/icons/128x128/codealong.png"],
+        "screenshots" : ["Codealong/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "Codex-Mobile-Bridge",
     
         "description": "Codex App 手机网关桌面启动器",
@@ -10780,6 +10828,22 @@
         },
     
         {
+        "name": "Deskmate",
+    
+        "description": "Deskmate - a modern Windows companion for Home Assistant",
+    
+        "categories": [null],
+        "authors" : [{"name":"JakubWawrzola","url":"https://github.com/JakubWawrzola"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"JakubWawrzola/deskmate"},{"type":"Download","url":"https://github.com/JakubWawrzola/deskmate/releases"}],
+        "icons": ["Deskmate/icons/128x128/deskmate.png"],
+        "screenshots" : ["Deskmate/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "Desktop",
     
         "description": "Open WebUI Desktop",
@@ -12723,6 +12787,22 @@
         "links": [{"type":"GitHub","url":"Zfinix/eleven"},{"type":"Download","url":"https://github.com/Zfinix/eleven/releases"}],
         "icons": ["Eleven/icons/256x256/eleven.png"],
         "screenshots" : ["Eleven/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
+        "name": "Elissa",
+    
+        "description": "Asistente de escritorio con voz, compatible con cualquier proveedor de IA",
+    
+        "categories": [null],
+        "authors" : [{"name":"inginddie","url":"https://github.com/inginddie"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"inginddie/elissa"},{"type":"Download","url":"https://github.com/inginddie/elissa/releases"}],
+        "icons": ["Elissa/icons/128x128/elissa.png"],
+        "screenshots" : ["Elissa/screenshot.png"],
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.35"
@@ -20876,6 +20956,22 @@
         },
     
         {
+        "name": "KiTTY-ng",
+    
+        "description": "Portable SSH client",
+    
+        "categories": ["Network"],
+        "authors" : [{"name":"nr084","url":"https://github.com/nr084"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"nr084/KiTTY-ng"},{"type":"Download","url":"https://github.com/nr084/KiTTY-ng/releases"}],
+        "icons": ["KiTTY-ng/icons/256x256/kitty-ng.png"],
+        "screenshots" : ["KiTTY-ng/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "Kibo",
     
         "description": "A friendly desktop companion for healthier work habits.",
@@ -22810,6 +22906,22 @@
         },
     
         {
+        "name": "Licasa",
+    
+        "description": "Lightweight image viewer",
+    
+        "categories": ["Graphics"],
+        "authors" : [{"name":"sanxchep","url":"https://github.com/sanxchep"}],
+        "license" : "BSD-2-Clause",
+        "links": [{"type":"GitHub","url":"sanxchep/licasa"},{"type":"Download","url":"https://github.com/sanxchep/licasa/releases"}],
+        "icons": ["Licasa/icons/512x512/licasa.png"],
+        "screenshots" : ["Licasa/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "LieNetwork",
     
         "categories": ["Network"],
@@ -24332,6 +24444,22 @@
         },
     
         {
+        "name": "Magnetite",
+    
+        "description": "Browse the web with sidebar tabs and spaces",
+    
+        "categories": ["Network"],
+        "authors" : [{"name":"magnetite-browser","url":"https://github.com/magnetite-browser"}],
+        "license" : "EUPL-1.2",
+        "links": [{"type":"GitHub","url":"magnetite-browser/magnetite"},{"type":"Download","url":"https://github.com/magnetite-browser/magnetite/releases"}],
+        "icons": ["Magnetite/icons/512x512/magnetite.png"],
+        "screenshots" : ["Magnetite/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.39"
+        },
+    
+        {
         "name": "Magnolia",
     
         "description": "Open-source qualitative data analysis software",
@@ -24377,6 +24505,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.35"
+        },
+    
+        {
+        "name": "MaiSim",
+    
+        "description": "Circuit and digital control simulation, with AI built in",
+    
+        "categories": ["Science"],
+        "authors" : [{"name":"marcelopedroso","url":"https://github.com/marcelopedroso"}],
+        "license" : "GPL-3.0",
+        "links": [{"type":"GitHub","url":"marcelopedroso/maisim"},{"type":"Download","url":"https://github.com/marcelopedroso/maisim/releases"}],
+        "icons": ["MaiSim/icons/512x512/maisim.png"],
+        "screenshots" : ["MaiSim/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.27"
         },
     
         {
@@ -28955,6 +29099,22 @@
         },
     
         {
+        "name": "NumDeck",
+    
+        "description": "Turn your ordinary numpad into a customizable Stream Deck-style shortcut controller for Windows and Linux.",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"Naveen-io","url":"https://github.com/Naveen-io"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"Naveen-io/NumDeck"},{"type":"Download","url":"https://github.com/Naveen-io/NumDeck/releases"}],
+        "icons": ["NumDeck/icons/128x128/numdeck.png"],
+        "screenshots" : ["NumDeck/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "Numa",
     
         "description": "Develop raw photographs",
@@ -33104,6 +33264,22 @@
         },
     
         {
+        "name": "Phi2ray",
+    
+        "description": "Secure Xray client with VPN mode, kill switch and split tunnelling",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"Phoenix15049","url":"https://github.com/Phoenix15049"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"Phoenix15049/Phi2ray"},{"type":"Download","url":"https://github.com/Phoenix15049/Phi2ray/releases"}],
+        "icons": ["Phi2ray/icons/128x128/phi2ray-app.png"],
+        "screenshots" : ["Phi2ray/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "Phinch",
     
         "description": "Phinch is an open-source framework for visualizing biological data",
@@ -34137,6 +34313,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.34"
+        },
+    
+        {
+        "name": "Polarity",
+    
+        "description": "A fast, fluid media center",
+    
+        "categories": [null],
+        "authors" : [{"name":"unzoid","url":"https://github.com/unzoid"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"unzoid/polarity"},{"type":"Download","url":"https://github.com/unzoid/polarity/releases"}],
+        "icons": ["Polarity/icons/128x128/polar.png"],
+        "screenshots" : ["Polarity/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -37398,6 +37590,17 @@
         },
     
         {
+        "name": "Redact_GUI",
+    
+        "categories": [null],
+        "authors" : [{"name":"hailoc12","url":"https://github.com/hailoc12"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"hailoc12/redact-gui"},{"type":"Download","url":"https://github.com/hailoc12/redact-gui/releases"}],
+        "icons": ["Redact_GUI/icons/128x128/redact-gui.png"],
+        "screenshots" : ["Redact_GUI/screenshot.png"]
+        },
+    
+        {
         "name": "Redict",
     
         "description": "A dictionary based on C++/Qt development",
@@ -37908,6 +38111,20 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.35"
+        },
+    
+        {
+        "name": "Rewind",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"abstrakt8","url":"https://github.com/abstrakt8"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"abstrakt8/rewind"},{"type":"Download","url":"https://github.com/abstrakt8/rewind/releases"}],
+        "icons": ["Rewind/icons/512x512/rewind.png"],
+        "screenshots" : ["Rewind/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.17"
         },
     
         {
@@ -43396,6 +43613,22 @@
         },
     
         {
+        "name": "Sup3rTB",
+    
+        "description": "Xuper Desktop 0.2.0 para Linux: optimizado para bajo consumo y ejecutado con aislamiento reforzado.",
+    
+        "categories": ["AudioVideo"],
+        "authors" : [{"name":"crisdavi2802","url":"https://github.com/crisdavi2802"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"crisdavi2802/Sup3rTB--Linux"},{"type":"Download","url":"https://github.com/crisdavi2802/Sup3rTB--Linux/releases"}],
+        "icons": ["Sup3rTB/icons/512x512/xuper-desktop.png"],
+        "screenshots" : ["Sup3rTB/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
+        },
+    
+        {
         "name": "SuperOne",
     
         "categories": ["Development"],
@@ -46152,6 +46385,22 @@
         },
     
         {
+        "name": "Tributary",
+    
+        "description": "A fast, friendly git client",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"shikoko","url":"https://github.com/shikoko"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"shikoko/tributary"},{"type":"Download","url":"https://github.com/shikoko/tributary/releases"}],
+        "icons": ["Tributary/icons/128x128/tributary.png"],
+        "screenshots" : ["Tributary/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "Trina_AX",
     
         "description": "Trina AX desktop app",
@@ -46700,6 +46949,22 @@
         "links": [{"type":"GitHub","url":"sliva-name/ultimaVLESS"},{"type":"Download","url":"https://github.com/sliva-name/ultimaVLESS/releases"}],
         "icons": ["Ultima_VLESS/icons/256x256/ultima-vless-client.png"],
         "screenshots" : ["Ultima_VLESS/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
+        },
+    
+        {
+        "name": "Ultimate_Video_Tool",
+    
+        "description": "Turn a voice recording or a typed script into a faceless explainer video. Free and open source.",
+    
+        "categories": ["AudioVideo"],
+        "authors" : [{"name":"atanuroy911","url":"https://github.com/atanuroy911"}],
+        "license" : "AGPL-3.0",
+        "links": [{"type":"GitHub","url":"atanuroy911/ultimate-video-tool"},{"type":"Download","url":"https://github.com/atanuroy911/ultimate-video-tool/releases"}],
+        "icons": ["Ultimate_Video_Tool/icons/1024x1024/video-tool-desktop.png"],
+        "screenshots" : ["Ultimate_Video_Tool/screenshot.png"],
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.25"
@@ -47360,6 +47625,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.34"
+        },
+    
+        {
+        "name": "Vaulted_Money",
+    
+        "description": "Private, offline money manager for your devices",
+    
+        "categories": ["Office"],
+        "authors" : [{"name":"nrajesh","url":"https://github.com/nrajesh"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"nrajesh/vaulted.money"},{"type":"Download","url":"https://github.com/nrajesh/vaulted.money/releases"}],
+        "icons": ["Vaulted_Money/icons/1024x1024/vaulted-money.png"],
+        "screenshots" : ["Vaulted_Money/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
         },
     
         {
@@ -51167,6 +51448,22 @@
         },
     
         {
+        "name": "accshift",
+    
+        "description": "One-click account switcher for Steam, Riot, Battle.net, Epic and more",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"klNuno","url":"https://github.com/klNuno"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"klNuno/accshift"},{"type":"Download","url":"https://github.com/klNuno/accshift/releases"}],
+        "icons": ["accshift/icons/128x128/accshift-gui.png"],
+        "screenshots" : ["accshift/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
+        },
+    
+        {
         "name": "acreom",
     
         "categories": ["Office"],
@@ -51324,6 +51621,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.34"
+        },
+    
+        {
+        "name": "ai-agenda",
+    
+        "description": "多 AI 协作桌面应用：Claude Code、Codex、Gemini、DeepSeek 等在同一个空间里讨论、分工，一起修改同一个文件夹，可导入其他 AI 软件里的对话接着做",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"xxxpixel-x","url":"https://github.com/xxxpixel-x"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"xxxpixel-x/ai-agenda"},{"type":"Download","url":"https://github.com/xxxpixel-x/ai-agenda/releases"}],
+        "icons": ["ai-agenda/icons/512x512/agenda.png"],
+        "screenshots" : ["ai-agenda/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
         },
     
         {
@@ -52458,10 +52771,10 @@
     
         "categories": ["Graphics"],
         "authors" : [{"name":"emarpiee","url":"https://github.com/emarpiee"}],
-        "license" : "GPL-3.0",
+        "license" : "GPL-3.0-or-later",
         "links": [{"type":"GitHub","url":"emarpiee/canvast"},{"type":"Download","url":"https://github.com/emarpiee/canvast/releases"}],
         "icons": ["canvast/icons/512x512/canvast.png"],
-        "screenshots" : ["canvast/screenshot.png"],
+        "screenshots" : ["https://raw.githubusercontent.com/emarpiee/canvast/main/docs/screenshots/store/hero.png"],
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.34"
@@ -55481,6 +55794,22 @@
         },
     
         {
+        "name": "hermes-conduit-desktop",
+    
+        "description": "Conduit for Windows and Mac: a desktop client for Hermes Agent",
+    
+        "categories": ["Utility"],
+        "authors" : [{"name":"kaishi00","url":"https://github.com/kaishi00"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"kaishi00/hermes-conduit-desktop"},{"type":"Download","url":"https://github.com/kaishi00/hermes-conduit-desktop/releases"}],
+        "icons": ["hermes-conduit-desktop/icons/1024x1024/conduit-desktop.png"],
+        "screenshots" : ["hermes-conduit-desktop/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.25"
+        },
+    
+        {
         "name": "hero-display",
     
         "description": "App for display on HERO robot",
@@ -56760,6 +57089,21 @@
         },
     
         {
+        "name": "kaeri",
+    
+        "description": "Browse, track and watch anime",
+    
+        "categories": ["AudioVideo"],
+        "authors" : [{"name":"bitknox","url":"https://github.com/bitknox"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"bitknox/kaeri"},{"type":"Download","url":"https://github.com/bitknox/kaeri/releases"}],
+        "icons": ["kaeri/icons/128x128/app.kaeri.desktop.png"],
+        "screenshots" : ["kaeri/screenshot.png"],
+        "libc": "bundled",
+        "self_contained": true
+        },
+    
+        {
         "name": "kanbots",
     
         "description": "kanbots desktop app (Electron)",
@@ -57469,6 +57813,22 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.34"
+        },
+    
+        {
+        "name": "lpm",
+    
+        "description": "Switch between projects and terminals in seconds",
+    
+        "categories": ["Development"],
+        "authors" : [{"name":"gug007","url":"https://github.com/gug007"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"gug007/lpm"},{"type":"Download","url":"https://github.com/gug007/lpm/releases"}],
+        "icons": ["lpm/icons/128x128/lpm-desktop.png"],
+        "screenshots" : ["lpm/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
@@ -60417,7 +60777,7 @@
     
         "categories": ["Utility"],
         "authors" : [{"name":"qrcode-ai-com","url":"https://github.com/qrcode-ai-com"}],
-        "license" : "AGPL-3.0-or-later",
+        "license" : "MIT",
         "links": [{"type":"GitHub","url":"qrcode-ai-com/qrcode-barcode-scanner-rust"},{"type":"Download","url":"https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust/releases"}],
         "icons": ["qrcode-barcode-scanner/icons/256x256/qrcode-barcode-scanner.png"],
         "screenshots" : ["qrcode-barcode-scanner/screenshot.png"],
@@ -60636,6 +60996,21 @@
         "libc": "host",
         "self_contained": false,
         "glibc_required": "2.36"
+        },
+    
+        {
+        "name": "re-psn",
+    
+        "description": "Matchmaking and leaderboard server for recompiled PS3 games (command line)",
+    
+        "categories": ["Network"],
+        "authors" : [{"name":"undecuple","url":"https://github.com/undecuple"}],
+        "license" : "MIT",
+        "links": [{"type":"GitHub","url":"undecuple/re-psn"},{"type":"Download","url":"https://github.com/undecuple/re-psn/releases"}],
+        "icons": ["re-psn/icons/scalable/re-psn.svg"],
+        "screenshots" : ["re-psn/screenshot.png"],
+        "libc": "none",
+        "self_contained": true
         },
     
         {
@@ -62855,6 +63230,22 @@
         "links": [{"type":"GitHub","url":"simoniz0r/twitch-wrapper"},{"type":"Download","url":"https://github.com/simoniz0r/twitch-wrapper/releases"}],
         "icons": null,
         "screenshots" : ["twitch-wrapper/screenshot.png"]
+        },
+    
+        {
+        "name": "txtCaster",
+    
+        "description": "Local-first offline book-to-audio/video converter",
+    
+        "categories": ["Office"],
+        "authors" : [{"name":"torkiv-labs","url":"https://github.com/torkiv-labs"}],
+        "license" : null,
+        "links": [{"type":"GitHub","url":"torkiv-labs/txtcaster-releases"},{"type":"Download","url":"https://github.com/torkiv-labs/txtcaster-releases/releases"}],
+        "icons": ["txtCaster/icons/128x128/txtcaster.png"],
+        "screenshots" : ["txtCaster/screenshot.png"],
+        "libc": "host",
+        "self_contained": false,
+        "glibc_required": "2.35"
         },
     
         {
